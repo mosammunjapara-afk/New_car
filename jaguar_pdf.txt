@@ -1,0 +1,23 @@
+PDF download...
+  downloaded: 1485306 bytes
+  text: 1195 chars
+
+=== PDF lines (raw) ===
+  JAGUAR CARS PRICE LIST
+  Jaguar F-PACE** (25MY) Price in India
+  Ex-Showroom Price*
+  Variant
+  (₹ in Lakh)
+  2.0 l Petrol R-Dynamic S 72.90
+  2.0 l Diesel R-Dynamic S 72.90
+  Visit jaguar.in to view the latest Finance Off ers from Land Rover Financial Services
+  or visit fi ndmeacar.in to book a Jaguar online.
+  *Prices mentioned are Ex-Showroom and illustrative as they may vary with vehicle model, model y
+  Prices are eff ective from 15th Feb 2024 and subject to change without prior notice. Prices at 
+  Ex-Showroom Price does not include 1 % TCS which will be charged separately.
+  The on-road price for a vehicle displayed by an Authorised Retailer includes only the: (i) Ex-s
+  Insurance premium; (iv) GST and TCS. All other charges are voluntary and at your discretion, wh
+  or otherwise. These voluntary / optional charges should be charged and invoiced separately by a
+  Authorised Retailer for further information.
+  Terms and Conditions apply.
+  **Locally Manufactured.

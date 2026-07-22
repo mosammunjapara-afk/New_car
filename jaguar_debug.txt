@@ -1,0 +1,29 @@
+Jaguar homepage...
+  [200] https://www.jaguar.in (final: https://www.jaguar.com/en-in/jdx/index.html)
+  PDF links (8):
+    https://www.findmeacar.in/pricing_pdf/jaguar-cars-price-in-india.pdf
+    https://www.jaguar.com/content/dam/jdx/pdfs/in/Anti-Bribery_&_Corruption_Policy_2023.pdf
+    https://www.jaguar.com/content/dam/jdx/pdfs/in/Composition_of_JLRIL_CSR_Committee.pdf
+    https://www.jaguar.com/content/dam/jdx/pdfs/in/JAG-Summary_of_CSR_Projects_approved_by_the_Company_Revised.pdf
+    https://www.jaguar.com/content/dam/jdx/pdfs/in/JLR-CSR-POLICY-November-23-2021.pdf
+    https://www.jaguar.com/content/dam/jdx/pdfs/in/JLR_Supplier_Code_of_Conduct_2023_FULL.pdf
+    https://www.jaguar.com/content/dam/jdx/pdfs/in/Jaguar_Land_Rover_Code_of_Conduct_FINAL.pdf
+    https://www.jaguar.com/content/dam/lrdx/pdfs/in/JLR_Annual_Return.pdf
+  model/price links (3):
+    https://www.findmeacar.in/pricing_pdf/jaguar-cars-price-in-india.pdf
+    https://www.jaguar.com/en-in/jdx/jaguar-range/f-pace/index.html
+    https://www.jaguar.com/jag/en_in/f-pace
+
+============================================================
+PAGE: https://www.jaguar.com/en-in/jdx/jaguar-range/f-pace/index.html
+  status: 200
+  price/PDF links andar:
+    https://www.findmeacar.in/pricing_pdf/jaguar-cars-price-in-india.pdf
+    https://www.jaguar.com/content/dam/jdx/pdfs/in/Anti-Bribery_&_Corruption_Policy_2023.pdf
+    https://www.jaguar.com/content/dam/jdx/pdfs/in/Composition_of_JLRIL_CSR_Committee.pdf
+    https://www.jaguar.com/content/dam/jdx/pdfs/in/JAG-Summary_of_CSR_Projects_approved_by_the_Company_Revised.pdf
+    https://www.jaguar.com/content/dam/jdx/pdfs/in/JLR-CSR-POLICY-November-23-2021.pdf
+
+============================================================
+PAGE: https://www.jaguar.com/jag/en_in/f-pace
+  status: 200

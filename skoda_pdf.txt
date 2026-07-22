@@ -1,0 +1,18 @@
+=== PDF try ===
+try: https://www.findmeacar.in/pricing_pdf/skoda-cars-price-in-india.pdf
+    (HTTP Error 404: Not Found)
+try: https://www.findmeasuv.in/pricing_pdf/skoda-cars-price-in-india.pdf
+    (HTTP Error 404: Not Found)
+try: https://www.findmeacar.in/pricing_pdf/skoda-vehicles-price-in-india.pdf
+    (HTTP Error 404: Not Found)
+
+=== Skoda site try (buildyourown/price API) ===
+
+PAGE: https://www.skoda-auto.co.in/build-your-own
+  status: 404
+
+PAGE: https://www.skoda-auto.co.in/price-lists
+  status: 404
+
+PAGE: https://www.skoda-auto.co.in/models/kylaq/price
+  status: 404

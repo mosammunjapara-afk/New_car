@@ -1,0 +1,30 @@
+PAGE: https://www.cardekho.com/mahindra/scorpio-n/price-in-new-delhi
+  HTML saved: 1329279 chars
+  variant-price pairs (HTML): 56
+    priceCurrency              = 1349000
+    priceCurrency              = 1639433
+    priceCurrency              = 1733737
+    priceCurrency              = 1862229
+    priceCurrency              = 1952271
+    priceCurrency              = 2061643
+    priceCurrency              = 2049450
+    priceCurrency              = 2071019
+    priceCurrency              = 2152270
+    priceCurrency              = 2208569
+    priceCurrency              = 2224223
+    priceCurrency              = 2271873
+    priceCurrency              = 2240312
+    priceCurrency              = 2344528
+    priceCurrency              = 2358411
+    priceCurrency              = 2312338
+    priceCurrency              = 2405329
+    priceCurrency              = 2367642
+    priceCurrency              = 2431360
+    priceCurrency              = 2429607
+    priceCurrency              = 2469543
+    priceCurrency              = 2528087
+    priceCurrency              = 2466464
+    priceCurrency              = 2536319
+    priceCurrency              = 2575034
+
+  ₹ lines: 0

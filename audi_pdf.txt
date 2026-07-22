@@ -1,0 +1,11 @@
+try: https://www.findmeacar.in/pricing_pdf/audi-cars-price-in-india.pdf
+    (HTTP Error 404: Not Found)
+try: https://www.findmeasuv.in/pricing_pdf/audi-cars-price-in-india.pdf
+    (HTTP Error 404: Not Found)
+try: https://www.findmeacar.in/pricing_pdf/audi-vehicles-price-in-india.pdf
+    (HTTP Error 404: Not Found)
+try: https://www.audi.in/content/dam/nemo/india/price-list.pdf
+    (HTTP Error 500: Internal Server Error)
+
+koi PDF nahi mila in candidates me.
+Audi ke liye alag source chahiye (ya carwale/cardekho jaisa aggregator).

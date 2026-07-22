@@ -1,0 +1,40 @@
+Mahindra homepage se model links...
+  model links (13):
+    https://auto.mahindra.com/pick-up-trucks/bolero-camper/CMPR.html
+    https://auto.mahindra.com/pick-up-trucks/bolero-pik-up/PUP.html
+    https://auto.mahindra.com/suv/bolero-neo-plus/NEOP.html
+    https://auto.mahindra.com/suv/bolero-neo/NEO.html
+    https://auto.mahindra.com/suv/bolero/BOL.html
+    https://auto.mahindra.com/suv/scorpio-classic/SCRC.html
+    https://auto.mahindra.com/suv/scorpio-n/SCN.html
+    https://auto.mahindra.com/suv/thar-roxx/TH5D.html
+    https://auto.mahindra.com/suv/thar/THRN.html
+    https://auto.mahindra.com/suv/xuv-7xo.html
+    https://auto.mahindra.com/suv/xuv3xo-ev.html
+    https://auto.mahindra.com/suv/xuv3xo/X3XO.html
+    https://auto.mahindra.com/suv/xuv400/X400.html
+
+============================================================
+PAGE: https://auto.mahindra.com/pick-up-trucks/bolero-camper/CMPR.html
+  status: 200
+  total JSON: 8, price-wali: 0
+
+============================================================
+PAGE: https://auto.mahindra.com/pick-up-trucks/bolero-pik-up/PUP.html
+  status: 200
+  total JSON: 8, price-wali: 0
+
+============================================================
+PAGE: https://auto.mahindra.com/suv/bolero-neo-plus/NEOP.html
+  status: 200
+  total JSON: 10, price-wali: 0
+
+============================================================
+PAGE: https://auto.mahindra.com/suv/bolero-neo/NEO.html
+  status: 200
+  total JSON: 11, price-wali: 0
+
+============================================================
+PAGE: https://auto.mahindra.com/suv/bolero/BOL.html
+  status: 200
+  total JSON: 1, price-wali: 0

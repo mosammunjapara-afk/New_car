@@ -1,0 +1,22 @@
+
+============================================================
+PAGE: https://www.cardekho.com/mahindra/scorpio-n
+============================================================
+  status: 200
+  variant+price (text): 0
+  ex-showroom-range nums: [1349000, 1399000, 1543500, 1585300, 1639433, 1690000, 1702500, 1724500, 1749500, 1802500, 1820100, 1851500, 1868500, 1917500, 1929500, 1933300, 1971099, 1986500, 1999500, 2033399]
+  saved ck_scorpio2.html
+
+============================================================
+PAGE: https://www.cardekho.com/mahindra-scorpio-n/variants
+============================================================
+  status: 200
+  variant+price (text): 0
+  ex-showroom-range nums: []
+
+============================================================
+PAGE: https://www.cardekho.com/mahindra/scorpio-n/specifications
+============================================================
+  status: 200
+  variant+price (text): 0
+  ex-showroom-range nums: []

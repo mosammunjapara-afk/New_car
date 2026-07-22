@@ -1,0 +1,13 @@
+=== direct PDF try ===
+  https://auto.mahindra.com/on/demandware.static/-/Sites-: HTTP Error 404: Not Found
+  https://www.mahindra.com/price-list.pdf: HTTP Error 404: Not Found
+  https://auto.mahindra.com/content/dam/mahindra/price-li: HTTP Error 404: Not Found
+
+PAGE: https://auto.mahindra.com/price-list
+  status: 404
+
+PAGE: https://auto.mahindra.com/suv/scorpio-n/price
+  status: 404
+
+PAGE: https://auto.mahindra.com/car-price-list
+  status: 404

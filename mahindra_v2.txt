@@ -1,0 +1,21 @@
+=== Mahindra PDF try ===
+try: https://www.findmeasuv.in/pricing_pdf/mahindra-vehicles-price-in-india.pdf
+    (HTTP Error 404: Not Found)
+try: https://www.findmeacar.in/pricing_pdf/mahindra-cars-price-in-india.pdf
+    (HTTP Error 404: Not Found)
+try: https://www.findmeasuv.in/pricing_pdf/mahindra-cars-price-in-india.pdf
+    (HTTP Error 404: Not Found)
+
+=== auto.mahindra.com API capture ===
+
+PAGE: https://auto.mahindra.com/suv/thar-roxx
+  status: 200
+  ₹ lines: 0
+
+PAGE: https://auto.mahindra.com/suv/scorpio-n
+  status: 200
+  ₹ lines: 0
+
+PAGE: https://auto.mahindra.com/suv/xuv-3xo
+  status: 404
+  ₹ lines: 0

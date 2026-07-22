@@ -1,0 +1,38 @@
+
+============================================================
+CarDekho: https://www.cardekho.com/mahindra/scorpio-n/price-in-new-delhi
+============================================================
+  status: 200
+  Rs lines: 8
+    [Mahindra Scorpio N pri] Mahindra Scorpio-N prices in New De
+    [959 User Reviews] Write a Review & Win ₹1000
+    [Q ) What is the on-roa] A ) The on-road price of Mahindra S
+    [Q ) What will be the R] A ) The RTO Charges for the Mahindr
+    [Q ) What will be the I] A ) The Insurance Charges for the M
+    [Q ) What is the on-roa] A ) The on-road price of the automa
+    [Q ) What will be the D] A ) The Downpayment of Mahindra Sco
+    [Your monthly EMI] ₹37,279Edit EMI
+  Scorpio trims: ['Z2', 'Z4', 'Z6', 'Z8']
+
+============================================================
+CarWale: https://www.carwale.com/mahindra-cars/scorpio-n/
+============================================================
+  status: 200
+  Rs lines: 1
+    [348 Likes] Mahindra Scorpio N Carbon Walkaroun
+  Scorpio trims: ['Z2', 'Z4', 'Z6', 'Z8']
+
+============================================================
+Zigwheels: https://www.zigwheels.com/newcars/mahindra/scorpio-n
+============================================================
+  status: 200
+  Rs lines: 3
+    [Write a Review] Updated: 21 July 2026. The Mahindra
+    [What is the price of t] The base diesel variant of the Mahi
+    [What is the price of t] The highest petrol variant of the M
+  Scorpio trims: ['Z2', 'Z4', 'Z6', 'Z8']
+
+============================================================
+Spinny: https://www.spinny.com/new-cars/mahindra-scorpio-n/
+============================================================
+  status: 404

@@ -1,0 +1,18 @@
+PDF download kar rahe hain...
+  downloaded: 220990 bytes
+  pdfplumber: 4821 chars
+
+=== PDF TEXT (price-jaisi lines) ===
+  Range Rover (26MY) 4.4 l Petrol LWB SV 350.00
+  Range Rover** (26MY)
+  Range Rover Sport (26MY) 4.4 l Petrol SV Black 220.00
+  Range Rover Sport** (26MY)
+  Range Rover Velar** (26MY)
+  Range Rover Velar** (26.5MY) 2.0 l Petrol Autobiography 87.50
+  Range Rover Evoque** (26MY)
+  3.0D I6 (110) Defender Trophy Edition Deep Sandglow 136.00
+  3.0D I6 (110) Defender Trophy Edition Keswick 136.00
+  Defender (26MY)
+  Discovery Sport** (25.5MY)
+  Discovery (25MY) 3.0 l Diesel Dynamic HSE 129.73
+  Discovery (26MY) 3.0 l Diesel Tempest 139.06

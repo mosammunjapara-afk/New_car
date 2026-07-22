@@ -1,0 +1,10 @@
+=== PDF try ===
+try: https://www.findmeacar.in/pricing_pdf/volvo-cars-price-in-india.pdf
+    (HTTP Error 404: Not Found)
+try: https://www.findmeasuv.in/pricing_pdf/volvo-cars-price-in-india.pdf
+    (HTTP Error 404: Not Found)
+try: https://www.findmeasuv.in/pricing_pdf/volvo-vehicles-price-in-india.pdf
+    (HTTP Error 404: Not Found)
+
+=== stealth site try ===
+  [403] volvocars.com/in/cars/
