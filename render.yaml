@@ -1,0 +1,13 @@
+# render.yaml — CarYanams Price API deployment config
+services:
+  - type: web
+    name: caryanams-price-api
+    runtime: python
+    plan: starter          # $7/mo — hamesha on (free tier 15min baad sleep hota hai)
+    buildCommand: "./build.sh"
+    startCommand: "uvicorn main:app --host 0.0.0.0 --port $PORT"
+    envVars:
+      - key: ADMIN_SECRET
+        sync: false        # Render dashboard me manually daalna (secret)
+      - key: PYTHON_VERSION
+        value: "3.12.0"
