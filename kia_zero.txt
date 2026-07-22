@@ -1,0 +1,33 @@
+
+======================================================================
+MODEL: Carnival  →  https://www.kia.com/in/our-vehicles/carnival.html
+======================================================================
+  status: 200
+  --- ₹ price lines + upar wali line (trim?) ---
+    [1 Trims Available] [Limousine Plus] -> ₹ 59,64,900 Starting MSRP*
+
+======================================================================
+MODEL: EV9  →  https://www.kia.com/in/our-vehicles/ev9.html
+======================================================================
+  status: 200
+  --- ₹ price lines + upar wali line (trim?) ---
+    [1 Trims Available] [GT-Line AWD] -> ₹ 1,29,91,312 Starting MSRP*
+
+======================================================================
+MODEL: Seltos (works)  →  https://www.kia.com/in/our-vehicles/seltos.html
+======================================================================
+  status: 200
+  --- ₹ price lines + upar wali line (trim?) ---
+    [Built above the rest] [Range price starts a] -> ₹10 99 900#
+    [12 Trims Available] [HTE] -> ₹ 10,99,900 Starting MSRP*
+    [Specs Configure] [HTE(O)] -> ₹ 12,41,900 Starting MSRP*
+    [Specs Configure] [HTK] -> ₹ 13,41,900 Starting MSRP*
+    [Specs Configure] [HTK (O)] -> ₹ 14,51,900 Starting MSRP*
+    [Specs Configure] [HTX] -> ₹ 15,91,900 Starting MSRP*
+    [Specs Configure] [HTX (A)] -> ₹ 17,01,900 Starting MSRP*
+    [Specs Configure] [GTX] -> ₹ 18,71,900 Starting MSRP*
+    [Specs Configure] [X LINE] -> ₹ 18,71,900 Starting MSRP*
+    [Specs Configure] [GTX (A)] -> ₹ 19,81,900 Starting MSRP*
+    [Specs Configure] [X LINE (A)] -> ₹ 19,81,900 Starting MSRP*
+    [Specs Configure] [GTX (O)] -> ₹ 21,56,900 Starting MSRP*
+    [Specs Configure] [X LINE(O)] -> ₹ 21,56,900 Starting MSRP*

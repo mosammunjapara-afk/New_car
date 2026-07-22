@@ -1,0 +1,19 @@
+Kholte hain: https://www.cardekho.com/maruti-suzuki/swift/variants
+
+__token: eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjI0MDU6MjAxOjI... (len 694)
+__CD_DATA__ len: 107407
+  total models in CD_DATA: 784
+
+=== XHR/fetch requests (8) ===
+  [GET] https://staticcont.cardekho.com/pwa/css/font-family.min.css
+  [POST] https://apis.cardekho.com/f8
+       body: {"operationName":"getUserV2","query":"\n        query getUserV2 {\n            getUserV2 {\n                _id\n                name\n               
+  [POST] https://bcp.crwdcntrl.net/6/map?xcid=16589
+       body: {"r":{"rid":true},"m":{"dcc":16589,"src":"SYNCJS","ch":{"brands":[{"brand":"HeadlessChrome","version":"149"},{"brand":"Chromium","version":"149"},{"br
+  [GET] https://tags.crwdcntrl.net/lt/c/13021/optimus_rules.json
+  [POST] https://bcp.crwdcntrl.net/6/data?xcid=13021
+       body: {"r":{"rpr":false,"rpx":true,"rid":true},"m":{"ref":"https://www.cardekho.com/","pv":true,"dcc":13021,"co":false,"src":"LTJS","ch":{"brands":[{"brand"
+  [GET] https://cloudflare.com/cdn-cgi/trace
+  [GET] https://adgebra.co.in/afpf/zoneId
+
+=== responses with exact prices (0) ===

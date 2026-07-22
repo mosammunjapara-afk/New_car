@@ -1,0 +1,54 @@
+
+======================================================================
+MODEL: Skoda Kushaq  (MID=3625)
+======================================================================
+  HTML saved: cardekho_kushaq.html (808476 chars)
+  body variant-price lines (21):
+    Rs13 - 18 LakhEstimated
+    Rs1.95 CrEstimated
+    Rs8.50 LakhEstimated
+    Rs70 LakhEstimated
+    Rs33 LakhEstimated
+    Rs40 LakhEstimated
+    Rs18 LakhEstimated
+    Rs25 LakhEstimated
+    Starting @ Rs 1.00 Lakh
+    Starting @ Rs 1.50 Lakh
+    Starting @ Rs 1.32 Lakh
+    Starting @ Rs 1.49 Lakh
+    Rs.5.99 - 9.17 Lakh *
+    Rs.6.85 - 11.98 Lakh *
+    Rs.15.99 - 20.01 Lakh *
+    Rs.11.31 - 20.19 Lakh *
+    Rs.5.70 - 10.67 Lakh *
+    Rs.4.70 - 8.55 Lakh *
+    Rs.10.49 - 18.69 Lakh *
+    Rs.10.49 - 18.59 Lakh *
+    Rs.10.50 - 19.99 Lakh *
+
+======================================================================
+MODEL: Maruti Swift  (MID=3346)
+======================================================================
+  HTML saved: cardekho_swift.html (809021 chars)
+  body variant-price lines (21):
+    Rs13 - 18 LakhEstimated
+    Rs1.95 CrEstimated
+    Rs8.50 LakhEstimated
+    Rs70 LakhEstimated
+    Rs33 LakhEstimated
+    Rs40 LakhEstimated
+    Rs18 LakhEstimated
+    Rs25 LakhEstimated
+    Starting @ Rs 1.00 Lakh
+    Starting @ Rs 1.50 Lakh
+    Starting @ Rs 1.32 Lakh
+    Starting @ Rs 1.49 Lakh
+    Rs.5.99 - 9.17 Lakh *
+    Rs.6.85 - 11.98 Lakh *
+    Rs.15.99 - 20.01 Lakh *
+    Rs.11.31 - 20.19 Lakh *
+    Rs.5.70 - 10.67 Lakh *
+    Rs.4.70 - 8.55 Lakh *
+    Rs.10.49 - 18.69 Lakh *
+    Rs.10.49 - 18.59 Lakh *
+    Rs.10.50 - 19.99 Lakh *

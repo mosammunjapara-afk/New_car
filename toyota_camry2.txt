@@ -1,0 +1,21 @@
+
+======================================================================
+MODEL: Camry
+======================================================================
+  buttons clicked: 1
+  ✗ variants API trigger nahi hui
+
+======================================================================
+MODEL: Land Cruiser 300
+======================================================================
+  buttons clicked: 0
+  ✗ variants API trigger nahi hui
+
+======================================================================
+MODEL: Taisor
+======================================================================
+  buttons clicked: 0
+  ✓✓ VARIANTS API: https://webapi.tfsin.toyotabharat.com//1.0/api/cities/null/models/23/variants
+     model ID: 23
+     10 variants: ['E MT', 'S MT', 'E MT (CNG)', 'S+ MT', 'S AMT', 'S+ AMT', 'G 1.0L Turbo MT', 'V 1.0L Turbo MT', 'G 1.0L Turbo AT', 'V 1.0L Turbo AT']
+     prices: ['743000', '833000', '845000', '868000', '894000', '929000', '1045000', '1136000', '1186000', '1278000']

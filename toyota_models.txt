@@ -1,0 +1,5 @@
+Homepage khol rahe hain (models list API ke liye)...
+
+  models list API nahi mila. Direct IDs try karenge (0-30).
+
+=== Direct /variants call (browser context) ===

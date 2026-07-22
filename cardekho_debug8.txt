@@ -1,0 +1,21 @@
+
+======================================================================
+MODEL: Skoda Kushaq  →  https://www.cardekho.com/skoda/kushaq/variants
+======================================================================
+  status: 200
+  HTML saved: cardekho_variants_kushaq.html (802306 chars)
+  variant objects: 2
+
+======================================================================
+MODEL: Maruti Swift  →  https://www.cardekho.com/maruti-suzuki/swift/variants
+======================================================================
+  status: 200
+  HTML saved: cardekho_variants_swift.html (814366 chars)
+  variant objects: 2
+
+======================================================================
+MODEL: Hyundai Creta  →  https://www.cardekho.com/hyundai/creta/variants
+======================================================================
+  status: 200
+  HTML saved: cardekho_variants_creta.html (816210 chars)
+  variant objects: 2

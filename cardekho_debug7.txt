@@ -1,0 +1,31 @@
+======================================================================
+MODEL: Skoda Kushaq
+======================================================================
+
+[A] /price page, variant section tak scroll
+  HTML me variantName+variantPrice pairs: 5
+    Empowered A 75 AWD ACFC  —  26.48 Lakh
+    Alpha Dual Tone  —  20.01 Lakh
+    Empowered Plus S 40kWh  —  12.59 Lakh
+    Creative Plus 24  —  9.99 Lakh
+    Batman Edition  —  28.49 Lakh
+  HTML me variantName+minComparePrice (exact ₹): 5
+    Empowered A 75 AWD ACFC  —  ₹1879000
+    Alpha Dual Tone  —  ₹1599000
+    Empowered Plus S 40kWh  —  ₹969000
+    Creative Plus 24  —  ₹699000
+    Batman Edition  —  ₹1890001
+
+[B] network bodies with variantName+price: 1
+  URL: https://www.cardekho.com/
+    5 name+price, 5 name+exact
+      Empowered A 75 AWD ACFC  —  1879000
+      Alpha Dual Tone  —  1599000
+      Empowered Plus S 40kWh  —  969000
+      Creative Plus 24  —  699000
+      Batman Edition  —  1890001
+
+[C] known variant-URL patterns try
+  /skoda/kushaq/specifications -> {'status': 200, 'len': 544770, 'has': True}
+  /skoda/kushaq/variants -> {'status': 200, 'len': 544772, 'has': True}
+  /skoda/kushaq -> {'status': 200, 'len': 738070, 'has': False}

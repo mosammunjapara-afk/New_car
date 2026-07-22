@@ -1,0 +1,34 @@
+
+======================================================================
+MODEL: Fortuner (works)
+======================================================================
+  status: 200
+  JSON APIs captured: 8
+    [200] https://webapi.tfsin.toyotabharat.com//1.0/api/cities/null/models/8/variants  <== VARIANT+PRICE?
+         prices: [3476000, 3540000, 3761000, 3935000, 4312000]
+         names: ['(2.7L) 4x2 AT', '(2.8L) 4x2 MT', '(2.8L) 4x2 AT', '(2.8L) 4x4 MT', '(2.8L) 4X4 AT']
+         sample: {"exShowroomCityName":"Delhi","variants":[{"id":78,"name":"(2.7L) 4x2 AT","modelId":8,"Model":null,"priceGradeId":52,"isActive":true,"bookingAmount":0.0,"formattedBookingAmount":"₹ 0","price":3476000.0,"formattedPrice":"₹ 34,76,000","imageURL":"https://staging.webapi.tfsin.toyotabharat.com/images/va
+    [200] https://locationv2.api.useinsider.com/?v=2&pId=10009713&
+    [200] https://segment.api.useinsider.com/v4/segments/1784368097049c92e1b674b.52881123?partnerid=10009713&f
+    [200] https://falcon.useinsider.com/api/v1/log-tracking/hit/toyotabharat
+    [200] https://tkmchat.altruistindia.com/index.php/widgetrestapi/settings?tz=Asia%2FCalcutta&l=%252F%252Fww
+    [200] https://tkmchat.altruistindia.com/index.php/widgetrestapi/checkinvitation?vid=905e4a04bdb8ae6f9b28&l
+    [200] https://tkmchat.altruistindia.com/index.php/eng/widgetrestapi/lang/translation?v=102026618
+    [200] https://tkmchat.altruistindia.com/index.php/widgetrestapi/onlinesettings
+
+======================================================================
+MODEL: Camry
+======================================================================
+  status: 200
+  JSON APIs captured: 5
+    [200] https://falcon.useinsider.com/api/v1/log-tracking/hit/toyotabharat
+    [200] https://tkmchat.altruistindia.com/index.php/widgetrestapi/settings?vid=905e4a04bdb8ae6f9b28&tz=Asia%
+    [200] https://tkmchat.altruistindia.com/index.php/widgetrestapi/checkinvitation?vid=905e4a04bdb8ae6f9b28&l
+    [200] https://tkmchat.altruistindia.com/index.php/eng/widgetrestapi/lang/translation?v=102026618
+    [200] https://tkmchat.altruistindia.com/index.php/widgetrestapi/onlinesettings
+
+======================================================================
+MODEL: Land Cruiser 300
+======================================================================
+  status: 200
+  JSON APIs captured: 0

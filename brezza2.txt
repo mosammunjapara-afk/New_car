@@ -1,0 +1,20 @@
+Arena homepage se Brezza link dhoondte hain...
+  Brezza links homepage pe:
+    https://www.marutisuzuki.com/arena/brezza
+
+======================================================================
+TRY: https://www.marutisuzuki.com/arena/brezza/price
+======================================================================
+  status: 200
+  ₹ dikha (30s): True, price lines: 0
+
+======================================================================
+TRY: https://www.marutisuzuki.com/arena/brezza
+======================================================================
+  status: 200
+  ₹ dikha (30s): True, price lines: 0
+
+======================================================================
+TRY: https://www.nexaexperience.com/brezza/price
+======================================================================
+  status: 404

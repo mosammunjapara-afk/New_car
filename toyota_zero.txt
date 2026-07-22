@@ -1,0 +1,28 @@
+Homepage se showroom links...
+  relevant showroom links:
+    https://www.toyotabharat.com/showroom/camry/
+    https://www.toyotabharat.com/showroom/urbancruiser-ebella/
+    https://www.toyotabharat.com/showroom/urbancruiser-hyryder/
+    https://www.toyotabharat.com/showroom/urbancruiser-taisor/
+
+======================================================================
+MODEL: Camry
+======================================================================
+  [200] https://www.toyotabharat.com/showroom/camry/
+    API: https://static3.toyotabharat.com/images/sticky-navigation/price-list.svg
+         <?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg vers
+    (koi ₹ price nahi dikhi)
+
+======================================================================
+MODEL: Taisor
+======================================================================
+  [200] https://www.toyotabharat.com/showroom/taisor/
+    (koi ₹ price nahi dikhi)
+
+======================================================================
+MODEL: Land Cruiser 300
+======================================================================
+  [200] https://www.toyotabharat.com/showroom/land-cruiser-300/
+    (koi ₹ price nahi dikhi)

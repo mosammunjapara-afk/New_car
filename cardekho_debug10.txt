@@ -1,0 +1,11 @@
+Kholte hain: https://www.cardekho.com/maruti-suzuki/swift/variants
+
+=== GraphQL /f8 calls: 1 ===
+
+------------------------------------------------------------
+[0] operationName: getUserV2
+  query: \n        query getUserV2 {\n            getUserV2 {\n                _id\n                name\n                mobile\n                email\n                token\n                uuid\n                shortList\n                uuid\n                status\n                errMsg\n            }\
+  variables: {}
+  resp sample: {"data":{"getUserV2":{"_id":null,"name":null,"mobile":null,"email":null,"token":null,"uuid":null,"shortList":null,"status":false,"errMsg":"Invalid Token"}}} 
+
+__token (full): eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJpcCI6IjI0MDU6MjAxOjIwMjI6MTAxODpjNWE2OjhmNjo4ODhjOjVhN2EiLCJ1YSI6Ik1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQpIEFwcGxlV2ViS2l0LzUzNy4zNiAoS0hUTUwsIGxpa2UgR2Vja28pIENocm9tZS8xMjAuMC4wLjAgU2FmYXJpLzUzNy4zNiIsImRvbWFpbiI6Imh0dHBzOi8vd3d3LmNhcmRla2hvLmNvbSIsImlhdCI6MTc4NDM2NjgxNiwiZXhwIjoxNzg0MzY4NjE2fQ.FgZ2HnfM5O44SnOfBlxSUPcSx8alcQ5Gd430s3OFIVVZUaSWlu62TRxSYS2RGpDOvob7AWdIer51Hkg4V7nrr3osCKw8CarNzkxW_IAm-ADd2DLR4V3rpwduiEiRjlpIb5tZEIKrQ8vuzU2r-Be42vvT4Nx8BnWzhWHZINVPqPQi8ojAJPriBZpXxMwrGzyB-YJnPdWddLnw3vsHckESMyj4Es6qevK3QPfwLi6hMiQ59D-YI9J4TTwQim2ydeZ2GB1KIXN1asqD2z1xJ5cGGZNwXrq3etZlgRfcPOhGwzPGwfNzNxpe3TfEkWAjDm6Zwdfc3Es0s44G_6npboKxPw

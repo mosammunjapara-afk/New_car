@@ -1,0 +1,70 @@
+
+======================================================================
+MODEL: Brezza  →  https://www.marutisuzuki.com/arena/brezza/price
+======================================================================
+  ₹-elements: 10
+    ₹text: '₹ 3 49 900'
+      ctx: 
+    ₹text: '₹ 3 69 900'
+      ctx: 
+    ₹text: '₹ 4 69 900'
+      ctx: 
+    ₹text: '₹ 4 98 900'
+      ctx: 
+    ₹text: '₹ 5 23 400'
+      ctx: 
+    ₹text: '₹ 5 78 900'
+      ctx: 
+    ₹text: '₹ 6 25 600'
+      ctx: 
+    ₹text: '₹ 8 85 000'
+      ctx: 
+    ₹text: '₹ 10 49 900'
+      ctx: 
+    ₹text: 'The booking amount for the Maruti Suzuki'
+      ctx: The booking amount for the Maruti Suzuki Brezza is ₹11,000.
+
+======================================================================
+MODEL: Swift  →  https://www.marutisuzuki.com/arena/swift/price
+======================================================================
+  ₹-elements: 22
+    ₹text: '₹ 3 49 900'
+      ctx: 
+    ₹text: '₹ 3 69 900'
+      ctx: 
+    ₹text: '₹ 4 69 900'
+      ctx: 
+    ₹text: '₹ 4 98 900'
+      ctx: 
+    ₹text: '₹ 5 23 400'
+      ctx: 
+    ₹text: '₹ 5 78 900'
+      ctx: 
+    ₹text: '₹ 6 25 600'
+      ctx: 
+    ₹text: '₹ 8 85 000'
+      ctx: 
+    ₹text: '₹ 10 49 900'
+      ctx: 
+    ₹text: '₹ 5 78 900*'
+      ctx: ₹ 5 78 900*
+    ₹text: '₹ 5 78 900'
+      ctx: Starting at ₹ 5 78 900
+    ₹text: '₹ 6 62 900'
+      ctx: Starting at ₹ 6 62 900
+    ₹text: '₹ 6 88 900'
+      ctx: Starting at ₹ 6 88 900
+    ₹text: '₹ 7 07 900'
+      ctx: Starting at ₹ 7 07 900
+    ₹text: '₹ 7 33 900'
+      ctx: Starting at ₹ 7 33 900
+    ₹text: '₹ 7 52 400'
+      ctx: Starting at ₹ 7 52 400
+    ₹text: '₹ 7 56 900'
+      ctx: Starting at ₹ 7 56 900
+    ₹text: '₹ 7 78 400'
+      ctx: Starting at ₹ 7 78 400
+    ₹text: '₹ 8 01 900'
+      ctx: Starting at ₹ 8 01 900
+    ₹text: '₹ 8 38 900'
+      ctx: Starting at ₹ 8 38 900

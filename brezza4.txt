@@ -1,0 +1,29 @@
+Kholte hain: https://www.marutisuzuki.com/arena/brezza/price
+HTML saved: brezza_page.html (201600 chars)
+
+=== variant/price JSON APIs: 7 ===
+  https://adobedc.demdex.net/ee/v1/interact?configId=896efaa8-a071-41a5-b150-20fe3faafbd5&requestId=9f
+    Brezza-range prices: [777638, 789138]
+    sample: {"requestId":"9f3cf413-59c1-45e3-a5df-ef2cae2030ba-a35c1e36a4934485","handle":[{"payload":[{"id":"40735853553331924990124502601824860364","namespace":{"code":"ECID"}}],"type":"identity:result"},{"payload":[{"type":"url","id":411,"spec":{"url":"//cm.e
+  https://www.marutisuzuki.com/placeholders.json
+    Brezza-range prices: [500000, 1000001, 1049900, 1149900, 1179900, 1279900, 1335900, 1356900, 1407900, 1456900, 1512900, 1523900, 1563900, 1581900, 1637900]
+    sample: {"columns":["Key","Text"],"total":310,"offset":0,"limit":310,"data":[{"Key":"addCar","Text":"Add a car"},{"Key":"all-car-text","Text":"All cars"},{"Key":"all-filter-text","Text":"All"},{"Key":"alloy-datastream-id","Text":"15f9e87a-0143-4fad-8b58-763c
+  https://www.marutisuzuki.com/graphql/execute.json/msil-platform/ArenaCarList
+    Brezza-range prices: [518000, 531998, 536500, 648990, 657000, 829000, 869000]
+    sample: {"data":{"carModelCommercialList":{"items":[{"modelCd":"CA","carLogoImage":{"_publishUrl":"https://prod-nexa.marutisuzuki.com/content/dam/msil/commercial/in/en/assets/logos/new-super-carry-logo.svg","_dmS7Url":"https://marutisuzuki.scene7.com/is/cont
+  https://www.marutisuzuki.com/pricing/v2/common/pricing/ex-showroom-detail?forCode=08&modelCodes=AT%2
+    Brezza-range prices: [511900, 515900, 520600, 523400, 524900, 531900, 539000, 541300, 544900, 548100, 549900, 551900, 553600, 556300, 560900]
+    sample: {"error":false,"errors":null,"data":{"models":[{"modelCd":"DE","modelDesc":"Dazzling New Dzire","lowestExShowroomPrice":623800,"maxExShowroomPrice":936300,"exShowroomDetailResponseDTOList":[{"variantCd":"DER4AT1","colorType":"M","salesType":"IND","va
+  https://www.marutisuzuki.com/graphql/execute.json/msil-platform/arenaVariantList;modelCd=VZ
+    Brezza-range prices: []
+    sample: {"data":{"carVariantList":{"items":[{"modelCd":"VZ","_variation":"master","variantDesc":"Brezza LXi CNG","fuelType":"CNG","variantImage":{"_path":"/content/dam/msil/arena/in/en/assets/cars/brezza/images/spinset360/sizzling-red-with-bluish-black_v2/20
+  https://www.marutisuzuki.com/graphql/execute.json/msil-platform/variantFuelType;modelCd=VZ?p=10
+    Brezza-range prices: []
+    sample: {"data":{"carModelList":{"items":[{"modelDesc":"Brezza","fuelType":["Petrol"],"carImage":{"_dynamicUrl":"/adobe/dynamicmedia/deliver/dm-aid--45f32c17-97cc-4d4d-aaa4-2cff958d208b/blacklogo.jpg?quality=80&preferwebp=true","_authorUrl":"https://author-p
+  https://edge.adobedc.net/ee/ind1/v1/interact?configId=1659483b-5319-4e87-a570-63c9e3ad2eab&requestId
+    Brezza-range prices: [777638, 789138]
+    sample: {"requestId":"1cca39a0-03b3-491b-b2b5-ff42a7e96946-650678dc4e5d4c57","handle":[{"payload":[{"id":"40735853553331924990124502601824860364","namespace":{"code":"ECID"}}],"type":"identity:result"},{"payload":[{"id":"AT:eyJhY3Rpdml0eUlkIjoiNzc3NjM4IiwiZX
+
+=== HTML me Brezza variant naam ===
+  ZXI: 1x
+  ZXI+: 1x
