@@ -1,0 +1,20 @@
+# secrets — kabhi GitHub pe mat daalo
+.env
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# debug files (aapke local scraping ke, cloud pe nahi chahiye)
+debug_*.py
+*_debug.txt
+*.html
+aggregator*.txt
+cardekho_*.json
+*.pdf
+all.txt
+
+# OS
+.DS_Store
