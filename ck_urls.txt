@@ -1,0 +1,36 @@
+
+Audi e-tron GT:
+  [200] https://www.cardekho.com/audi/e-tron-gt  -> 0 variants
+  [200] https://www.cardekho.com/audi/rs-e-tron-gt  -> 0 variants
+  [200] https://www.cardekho.com/audi/e-tron  -> 0 variants
+
+Volvo XC40:
+  [200] https://www.cardekho.com/volvo/xc40  -> 0 variants
+  [200] https://www.cardekho.com/volvo/xc40-recharge  -> 3 variants
+  [200] https://www.cardekho.com/volvo/ex40  -> 3 variants
+
+Volvo S90:
+  [200] https://www.cardekho.com/volvo/s90  -> 0 variants
+  [200] https://www.cardekho.com/volvo-cars/s90  -> 0 variants
+
+Volvo XC90:
+  [200] https://www.cardekho.com/volvo/xc90  -> 3 variants
+
+Mahindra Thar:
+  [200] https://www.cardekho.com/mahindra/thar  -> 9 variants
+
+Mahindra Thar Roxx:
+  [200] https://www.cardekho.com/mahindra/thar-roxx  -> 23 variants
+  [200] https://www.cardekho.com/mahindra/thar-5-door  -> 23 variants
+
+Mahindra XUV 3XO:
+  [200] https://www.cardekho.com/mahindra/xuv-3xo  -> 31 variants
+  [200] https://www.cardekho.com/mahindra/xuv3xo  -> 0 variants
+
+Mahindra Bolero:
+  [200] https://www.cardekho.com/mahindra/bolero  -> 6 variants
+  [200] https://www.cardekho.com/mahindra/bolero-neo  -> 8 variants
+
+Mahindra Scorpio Classic:
+  [200] https://www.cardekho.com/mahindra/scorpio-classic  -> 6 variants
+  [200] https://www.cardekho.com/mahindra/scorpio  -> 6 variants
