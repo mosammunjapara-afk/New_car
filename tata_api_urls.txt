@@ -1,0 +1,3 @@
+https://tatamotors.tt.omtrdc.net/rest/v1/delivery?client=tatamotors&sessionId=6999a64490da4c3dbbc48eb0cb862820&version=2.11.4
+https://cars.tatamotors.com/nexon/ice/price.getpricefilteroptions.json
+https://cars.tatamotors.com/nexon/ice/price.getpricefilteredresult.json

@@ -1,0 +1,30 @@
+{
+  "results": {
+    "variantPriceFeatures": [
+      {
+        "variantId": "Smart 1.2_Standard_5-29KIJOIL",
+        "variantLabel": "Smart 1.2 Standard, Petrol",
+        "configureSku": "54640825AIJR",
+        "priceDetails": {
+          "originalPrice": "\u20b97,39,990"
+        }
+      },
+      {
+        "variantId": "Smart + S 1.2_Standard_5-29KIJOIL",
+        "variantLabel": "Smart + S 1.2 Standard, Petrol",
+        "configureSku": "54649825ANLR",
+        "priceDetails": {
+          "originalPrice": "\u20b98,44,990"
+        }
+      },
+      {
+        "variantId": "Smart + 1.2_Standard_5-29KIJOIL",
+        "variantLabel": "Smart + 1.2 Standard, Petrol",
+        "configureSku": "54649725AIJR",
+        "priceDetails": {
+          "originalPrice": "\u20b98,14,990"
+        }
+      }
+    ]
+  }
+}

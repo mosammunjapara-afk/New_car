@@ -1,0 +1,102 @@
+{
+  "results": {
+    "filterOptionsList": [
+      {
+        "filterType": "edition",
+        "filterLabel": "Edition",
+        "filterOption": [
+          {
+            "optionId": "standard",
+            "optionValue": "Standard",
+            "optionLabel": "Standard",
+            "isDefault": "true"
+          },
+          {
+            "optionId": "dark",
+            "optionValue": "Dark",
+            "optionLabel": "Dark",
+            "isDefault": "false"
+          },
+          {
+            "optionId": "red-dark",
+            "optionValue": "Red-Dark",
+            "optionLabel": "Red-Dark",
+            "isDefault": "false"
+          }
+        ]
+      },
+      {
+        "filterType": "fuel_type",
+        "filterLabel": "Fuel Type",
+        "filterOption": [
+          {
+            "optionId": "5-29KIJOIL",
+            "optionValue": "PETROL/ETHANOL",
+            "optionLabel": "Petrol",
+            "isDefault": "true"
+          },
+          {
+            "optionId": "1-ID-1738",
+            "optionValue": "DIESEL",
+            "optionLabel": "Diesel",
+            "isDefault": "false"
+          },
+          {
+            "optionId": "1-ID-268",
+            "optionValue": "PETROL/CNG",
+            "optionLabel": "Bi-fuel CNG",
+            "isDefault": "false"
+          }
+        ]
+      },
+      {
+        "filterType": "transmission_type",
+        "filterLabel": "Transmission Type",
+        "filterOption": [
+          {
+            "optionId": "MT",
+            "optionValue": "5 Speed MT",
+            "optionLabel": "5 Speed MT",
+            "isDefault": "true"
+          },
+          {
+            "optionId": "5-251EY13H",
+            "optionValue": "6 Speed AMT",
+            "optionLabel": "6 Speed AMT",
+            "isDefault": "false"
+          },
+          {
+            "optionId": "5-251EY13B",
+            "optionValue": "6 Speed MT",
+            "optionLabel": "6 Speed MT",
+            "isDefault": "false"
+          },
+          {
+            "optionId": "5-251EY13J",
+            "optionValue": "DCT DT1",
+            "optionLabel": "7 Speed DCA",
+            "isDefault": "false"
+          }
+        ]
+      },
+      {
+        "filterType": "price",
+        "filterLabel": "Price",
+        "filterOption": [
+          {
+            "optionId": "min_value",
+            "optionValue": "\u20b97",
+            "optionLabel": "\u20b97",
+            "isDefault": "false"
+          },
+          {
+            "optionId": "max_value",
+            "optionValue": "\u20b915",
+            "optionLabel": "\u20b915",
+            "isDefault": "false"
+          }
+        ]
+      }
+    ]
+  }
+}

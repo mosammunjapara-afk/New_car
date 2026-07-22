@@ -1,0 +1,40 @@
+[
+  {
+    "method": "POST",
+    "url": "https://cars.tatamotors.com/nexon/ice/price.getpricefilteroptions.json",
+    "post_data": "vehicleCategory=TMPC&modelId=1-TGW7UPH&parentProductId=1-S3YJYTJ&cityId=India-MH-MUMBAI",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://cars.tatamotors.com/nexon/ice/price.html",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "csrf-token": "undefined",
+      "newrelic": "eyJ2IjpbMCwxXSwiZCI6eyJ0eSI6IkJyb3dzZXIiLCJhYyI6IjI1NDg3MDkiLCJhcCI6IjE1ODg5Nzc2MDMiLCJpZCI6IjUwYjdjOWQ4ZTNjYWE1ZTQiLCJ0ciI6IjBmOTA0OTUwNDhiM2UwOWY0YWI1MzI0Njg0ZTQzMzg4IiwidGkiOjE3ODQwOTQ0NjI5NjMsInRrIjoiMTMyMjg0MCJ9fQ==",
+      "sec-ch-ua-mobile": "?0",
+      "traceparent": "00-0f90495048b3e09f4ab5324684e43388-50b7c9d8e3caa5e4-01",
+      "x-requested-with": "XMLHttpRequest",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "accept": "*/*",
+      "content-type": "application/x-www-form-urlencoded; charset=UTF-8",
+      "tracestate": "1322840@nr=0-1-2548709-1588977603-50b7c9d8e3caa5e4----1784094462963"
+    }
+  },
+  {
+    "method": "POST",
+    "url": "https://cars.tatamotors.com/nexon/ice/price.getpricefilteredresult.json",
+    "post_data": "{\"vehicleCategory\":\"TMPC\",\"modelId\":\"1-TGW7UPH\",\"parentProductId\":\"1-S3YJYTJ\",\"cityId\":\"India-MH-MUMBAI\",\"filtersSelected\":[{\"filterType\":\"fuel_type\",\"values\":[\"5-29KIJOIL\"]},{\"filterType\":\"transmission_type\",\"values\":[\"MT\"]},{\"filterType\":\"edition\",\"values\":[\"standard\"]},{\"filterType\":\"price\",\"values\":[\"\u20b97L\",\"\u20b915L\"]}]}",
+    "headers": {
+      "sec-ch-ua-platform": "\"Windows\"",
+      "referer": "https://cars.tatamotors.com/nexon/ice/price.html",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"149\", \"Chromium\";v=\"149\", \"Not)A;Brand\";v=\"24\"",
+      "csrf-token": "undefined",
+      "newrelic": "eyJ2IjpbMCwxXSwiZCI6eyJ0eSI6IkJyb3dzZXIiLCJhYyI6IjI1NDg3MDkiLCJhcCI6IjE1ODg5Nzc2MDMiLCJpZCI6IjYzZjE4OGRhZTE5ODczYzAiLCJ0ciI6ImJhMDA0MmNmMzlhMzA0N2NmYjU0YzY3ZDU2Mjc2NjI5IiwidGkiOjE3ODQwOTQ0NjQ0OTMsInRrIjoiMTMyMjg0MCJ9fQ==",
+      "sec-ch-ua-mobile": "?0",
+      "traceparent": "00-ba0042cf39a3047cfb54c67d56276629-63f188dae19873c0-01",
+      "x-requested-with": "XMLHttpRequest",
+      "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
+      "accept": "*/*",
+      "content-type": "application/json",
+      "tracestate": "1322840@nr=0-1-2548709-1588977603-63f188dae19873c0----1784094464493"
+    }
+  }
+]
