@@ -1,0 +1,53 @@
+BUILD_ID: BASUSSBWMUt_vlP4OWNYX
+
+######################################################################
+# TARIKA 1: _next/data price JSONs
+######################################################################
+
+######################################################################
+# TARIKA 1 fail — TARIKA 2: price page kholke API pakdo
+######################################################################
+
+======================================================================
+PAGE: https://www.hondacarindia.com/honda-city/price
+======================================================================
+  page status: 200
+  API: https://www.hondacarindia.com/_next/data/BASUSSBWMUt_vlP4OWNYX/honda-0-series.json
+       prices: ['1159890', '1199900', '1437500', '697700', '751390']
+       preview: {"pageProps":{"carLogoImageUrl":"","carHeaderText":"","carID":0,"vrUrl":"","dcUrl":"","techOverview":[{"PN_Price":"1437500","firstResourceName":"Engine Capacity","firstResourceValue":"1498","firstResourceType":"cc","secondResourceName":"Mileage (km/l)","secondResourceValue":"18.40","secondResourceType":"Petrol (CVT)","thirdResourceName":"Transmission (Speed)","thirdResourceValue":"7","thirdResourc
+  API: https://www.hondacarindia.com/api/getCarPrice
+  Page ₹ prices:
+    ₹ 11 59 890*
+    EMI STARTS AT ₹ 1 579* PER LAC
+
+======================================================================
+PAGE: https://www.hondacarindia.com/honda-amaze/price
+======================================================================
+  page status: 200
+  API: https://www.hondacarindia.com/_next/data/BASUSSBWMUt_vlP4OWNYX/honda-0-series.json
+       prices: ['1159890', '1199900', '1437500', '697700', '751390']
+       preview: {"pageProps":{"carLogoImageUrl":"","carHeaderText":"","carID":0,"vrUrl":"","dcUrl":"","techOverview":[{"PN_Price":"1437500","firstResourceName":"Engine Capacity","firstResourceValue":"1498","firstResourceType":"cc","secondResourceName":"Mileage (km/l)","secondResourceValue":"18.40","secondResourceType":"Petrol (CVT)","thirdResourceName":"Transmission (Speed)","thirdResourceValue":"7","thirdResourc
+  API: https://www.hondacarindia.com/api/getCarPrice
+  Page ₹ prices:
+    ₹ 12 06 190*
+    EMI STARTS AT ₹ 1 579* PER LAC
+
+======================================================================
+PAGE: https://www.hondacarindia.com/honda-amaze-2g/price
+======================================================================
+  page status: 404
+
+======================================================================
+PAGE: https://www.hondacarindia.com/honda-elevate/price
+======================================================================
+  page status: 404
+
+======================================================================
+PAGE: https://www.hondacarindia.com/honda-zrv/price
+======================================================================
+  page status: 404
+
+======================================================================
+PAGE: https://www.hondacarindia.com/honda-0-series/price
+======================================================================
+  page status: 404

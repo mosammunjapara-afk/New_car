@@ -1,0 +1,32 @@
+
+======================================================================
+MODEL: Kushaq
+======================================================================
+  [404] https://www.skoda-auto.co.in/models/kushaq/price
+  [404] https://www.skoda-auto.co.in/kushaq/price
+  [?] https://www.skoda-auto.co.in/models/kushaq
+  (koi price-page URL nahi chala)
+
+======================================================================
+MODEL: Slavia
+======================================================================
+  [404] https://www.skoda-auto.co.in/models/slavia/price
+  [404] https://www.skoda-auto.co.in/slavia/price
+  [404] https://www.skoda-auto.co.in/models/slavia
+  (koi price-page URL nahi chala)
+
+======================================================================
+MODEL: Kodiaq
+======================================================================
+  [404] https://www.skoda-auto.co.in/models/kodiaq/price
+  [404] https://www.skoda-auto.co.in/kodiaq/price
+  [404] https://www.skoda-auto.co.in/models/kodiaq
+  (koi price-page URL nahi chala)
+
+======================================================================
+MODEL: Kylaq
+======================================================================
+  [404] https://www.skoda-auto.co.in/models/kylaq/price
+  [404] https://www.skoda-auto.co.in/kylaq/price
+  [404] https://www.skoda-auto.co.in/models/kylaq
+  (koi price-page URL nahi chala)

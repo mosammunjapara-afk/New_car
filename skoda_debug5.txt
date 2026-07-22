@@ -1,0 +1,41 @@
+Kholte hain: https://www.skoda-auto.co.in/models/kushaq/kushaq
+clicked 'Build'
+
+>>> Agar koi configurator/price window khula ho, usme ek variant
+>>> select karo (ya kuch der ruko). Phir yahan ENTER dabao.
+
+=== khule tabs/pages: 1 ===
+
+  page[0] URL: https://www.skoda-auto.co.in/models/kushaq/kushaq
+    iframe: https://6232204.fls.doubleclick.net/activityi;dc_pre=CPz3kMvN25UDFbigYwYdRfQa3A;src=6232204;type=mmp;cat=mmp_s
+    iframe: https://6232204.fls.doubleclick.net/activityi;dc_pre=CNv6kMvN25UDFUCVYwYdNEEu4g;src=6232204;type=k2ng;cat=ind_
+    iframe: https://6232204.fls.doubleclick.net/activityi;dc_pre=CLGHkcvN25UDFXBqKgkdVt4tOQ;src=6232204;type=model;cat=ind
+    iframe: about:blank
+    iframe: https://sgtm.skoda-auto.co.in/_/service_worker/66u0/sw_iframe.html?origin=https%3A%2F%2Fwww.skoda-auto.co.in&1
+    ₹ ₹10,69,000.00
+
+=== network calls captured: 63 ===
+
+  [GET] https://laura3.skoda-auto.com/plugins/3.24.183/js/webchat.v2.56.0.js
+  92 price-range numbers: [105034, 117109, 146097, 157109, 182813, 191970, 196094, 247331, 251693, 270313, 291953, 303437, 316757, 333333, 349805, 357109, 362891, 377656, 393939, 451302]
+  body: /*!  * webchat.js v2.56.0  * https://github.com/Cognigy/WebchatWidget/tree/v2.56.0  * https://github.com/Cognigy/WebchatWidget/tree/v2.56.0/OSS_LICENSES.txt  */ (()=>{var e,t,n={77249:(e,t,n)=>{"use strict";n(32070);var r,i=(r=n(27397))&&r.__esModule?r:{default:r};i.default._babelPolyfill&&"undefined"!=typeof console&&console.warn&&console.warn("@babel/polyfill is loaded more than once on this page. This is probably not desirable/intended and may have consequences if different versions of the po
+
+  [GET] https://cdn.skoda-auto.com/resources/publicFilefolder=production/Libs_c2911565-9b23-426f-b6df-3f86a0935d42&path=components.client.
+  45 price-range numbers: [102400, 111788, 121212, 161718, 203899, 211794, 212121, 232323, 232425, 254883, 263238, 266798, 268024, 275760, 283593, 288549, 308738, 316525, 337321, 409347]
+  body: var components;(()=>{var __webpack_modules__={r6gA:(e,t,r)=>{"use strict";r.r(t),r.d(t,{default:()=>p});var n=r("EoxY"),o=r("FiNt"),a=(r("XXTW"),r("VpOL"),function(e,t,r){for(var n=0,a=0;n=a,a=(0,o.peek)(),38===n&&12===a&&(t[r]=1),!(0,o.token)(a);)(0,o.next)();return(0,o.slice)(e,o.position)}),i=function(e,t){return(0,o.dealloc)(function(e,t){var r=-1,n=44;do{switch((0,o.token)(n)){case 0:38===n&&12===(0,o.peek)()&&(t[r]=1),e[r]+=a(o.position-1,t,r);break;case 2:e[r]+=(0,o.delimit)(n);break;case
+
+  [GET] https://cdn.skoda-auto.com/resources/filepath=react-dom/umd/react-dom.production.min.35f4f974f4b2bcd44da73963347f8952e341f83909e44
+  10 price-range numbers: [131072, 262144, 524288, 1048576, 2097152, 4194240, 4194304, 4194308, 8388608, 8390656]
+  body: /**  * @license React  * react-dom.production.min.js  *  * Copyright (c) Facebook, Inc. and its affiliates.  *  * This source code is licensed under the MIT license found in the  * LICENSE file in the root directory of this source tree.  */ (function(){/*  Modernizr 3.0.0pre (Custom Build) | MIT */ 'use strict';(function(Q,zb){"object"===typeof exports&&"undefined"!==typeof module?zb(exports,require("react")):"function"===typeof define&&define.amd?define(["exports","react"],zb):(Q=Q||self,zb(Q.R
+
+  [GET] https://laura3.skoda-auto.com/plugins/3.24.183/laura3.plugins.js
+  6 price-range numbers: [123456, 156034, 161718, 300000, 750465, 1385643]
+  body: (()=>{var __webpack_modules__={"./alias/react.js": /*!************************!*\   !*** ./alias/react.js ***!   \************************/module=>{eval("if (!window.__COGNIGY_WEBCHAT) throw new Error('Cognigy Webchat v2.7 or higher has to be loaded before this plugin');\nmodule.exports = window.__COGNIGY_WEBCHAT.React;\n\n//# sourceURL=webpack://laura3-frontend/./alias/react.js?")},"./node_modules/content-disposition-attachment/dist/esm/index.js": /*!********************************************
+
+  [GET] https://cdn.skoda-auto.com/resources/publicFilefolder=production/Modules_c2911565-9b23-426f-b6df-3f86a0935d42&path=Modules/Derivat
+  4 price-range numbers: [146097, 189493, 247492, 3506328]
+  body: var __webpack_modules__={ggbP:function(e,t,i){!function(e){"use strict";e.defineLocale("af",{months:"Januarie_Februarie_Maart_April_Mei_Junie_Julie_Augustus_September_Oktober_November_Desember".split("_"),monthsShort:"Jan_Feb_Mrt_Apr_Mei_Jun_Jul_Aug_Sep_Okt_Nov_Des".split("_"),weekdays:"Sondag_Maandag_Dinsdag_Woensdag_Donderdag_Vrydag_Saterdag".split("_"),weekdaysShort:"Son_Maa_Din_Woe_Don_Vry_Sat".split("_"),weekdaysMin:"So_Ma_Di_Wo_Do_Vr_Sa".split("_"),meridiemParse:/vm|nm/i,isPM:function(e){r
+
+  [GET] https://cdn.skoda-auto.com/resources/publicFilefolder=production/Modules_c2911565-9b23-426f-b6df-3f86a0935d42&path=Modules/Technol
+  2 price-range numbers: [189493, 247492]
+  body: var __webpack_modules__={"/2Rh":function(e,t,o){e.exports=o("E1Oi")("+Xft")},XrIy:function(e,t,o){e.exports=o("E1Oi")("3546")},O1iw:function(e,t,o){e.exports=o("E1Oi")("4lrA")},VYb9:function(e,t,o){e.exports=o("E1Oi")("5tfm")},zioo:function(e,t,o){e.exports=o("E1Oi")("8JgZ")},qUzD:function(e,t,o){e.exports=o("E1Oi")("8SG2")},"9C1q":function(e,t,o){e.exports=o("E1Oi")("BC8I")},j5W8:function(e,t,o){e.exports=o("E1Oi")("FTen")},lbZo:function(e,t,o){e.exports=o("E1Oi")("IJAQ")},"vv+4":function(e,t,o

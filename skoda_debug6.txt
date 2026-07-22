@@ -1,0 +1,62 @@
+Kholte hain: https://www.skoda-auto.co.in/models/kushaq/kushaq
+clicked 'Build'
+
+>>> Agar configurator/price UI khula ho, usme 1-2 variant pe click
+>>> karo (prices dikhne tak). Phir yahan ENTER dabao.
+
+=== 1 page(s), inke frames ===
+
+page[0]: https://www.skoda-auto.co.in/models/kushaq/kushaq
+  FRAME: https://www.skoda-auto.co.in/models/kushaq/kushaq
+    ₹ ₹10,69,000.00
+    (trim dikha: Classic)
+    (trim dikha: Signature)
+    (trim dikha: Active)
+    (trim dikha: Sportline)
+    (trim dikha: Prestige)
+
+=== network calls captured: 43 ===
+
+  [GET] https://cdn.skoda-auto.com/resources/publicFilefolder=production/Libs_c2911565-9b23-426f-b6df-3f86a0935d42&path=components.client.
+  45 price-range numbers: [102400, 111788, 121212, 161718, 203899, 211794, 212121, 232323, 232425, 254883, 263238, 266798, 268024, 275760, 283593, 288549, 308738, 316525, 337321, 409347]
+  body: var components;(()=>{var __webpack_modules__={r6gA:(e,t,r)=>{"use strict";r.r(t),r.d(t,{default:()=>p});var n=r("EoxY"),o=r("FiNt"),a=(r("XXTW"),r("VpOL"),function(e,t,r){for(var n=0,a=0;n=a,a=(0,o.peek)(),38===n&&12===a&&(t[r]=1),!(0,o.token)(a);)(0,o.next)();return(0,o.slice)(e,o.position)}),i=function(e,t){return(0,o.dealloc)(function(e,t){var r=-1,n=44;do{switch((0,o.token)(n)){case 0:38===n&&12===(0,o.peek)()&&(t[r]=1),e[r]+=a(o.position-1,t,r);break;case 2:e[r]+=(0,o.delimit)(n);break;case
+
+  [GET] https://cdn.skoda-auto.com/resources/publicFilefolder=production/Modules_c2911565-9b23-426f-b6df-3f86a0935d42&path=static/bootstra
+  19 price-range numbers: [121416, 138496, 155724, 202326, 212529, 218838, 333333, 373737, 377220, 419128, 419468, 491217, 495057, 666667, 686868, 818182, 856404, 857143, 979797]
+  body: :root{--blue:#007bff;--indigo:#6610f2;--purple:#6f42c1;--pink:#e83e8c;--red:#dc3545;--orange:#fd7e14;--yellow:#ffc107;--green:#28a745;--teal:#20c997;--cyan:#17a2b8;--gray:#6c757d;--gray-dark:#343a40;--corporateColor:#419468;--corporateColorDark:#377220;--corporateColorDarkHover:#419128;--black:#000;--white-two:#f3f3f3;--greyish-brown:#4a4a4a;--dark-brown:#373737;--greyblue:#76b4af;--white:#fff;--red-brick:#b00835;--very-light-gray:#e6e6e6;--light-gray:#d8d8d8;--moderate-gray:#afafaf;--dark-gray:
+
+  [GET] https://cdn.skoda-auto.com/resources/filepath=react-dom/umd/react-dom.production.min.35f4f974f4b2bcd44da73963347f8952e341f83909e44
+  10 price-range numbers: [131072, 262144, 524288, 1048576, 2097152, 4194240, 4194304, 4194308, 8388608, 8390656]
+  body: /**  * @license React  * react-dom.production.min.js  *  * Copyright (c) Facebook, Inc. and its affiliates.  *  * This source code is licensed under the MIT license found in the  * LICENSE file in the root directory of this source tree.  */ (function(){/*  Modernizr 3.0.0pre (Custom Build) | MIT */ 'use strict';(function(Q,zb){"object"===typeof exports&&"undefined"!==typeof module?zb(exports,require("react")):"function"===typeof define&&define.amd?define(["exports","react"],zb):(Q=Q||self,zb(Q.R
+
+  [GET] https://cdn.skoda-auto.com/resources/publicFilefolder=production/Libs_c2911565-9b23-426f-b6df-3f86a0935d42&path=components.58ae4b8
+  7 price-range numbers: [110000, 161718, 242424, 373737, 419468, 464748, 999999]
+  body: [data-component=share-buttons] .share-tooltip-section{margin-bottom:15px;text-align:left!important}[data-component=share-buttons] .share-tooltip-section:last-of-type{margin-bottom:0}[data-component=share-buttons] .share-tooltip-section a{margin-bottom:15px;text-decoration:none}[data-component=share-buttons] .share-tooltip-section a:last-of-type{margin-bottom:0}[data-component=share-buttons] .share-tooltip-section .share-tooltip-section-item{cursor:pointer;display:flex;height:25px}[data-component
+
+  [GET] https://cdn.skoda-auto.com/resources/publicFilefolder=production/Modules_c2911565-9b23-426f-b6df-3f86a0935d42&path=Modules/Importe
+  4 price-range numbers: [161718, 373737, 419468, 999999]
+  body: [data-component=language-selector]{align-items:center;display:flex;margin-inline-end:15px}@media(min-width:992px){[data-component=language-selector]{margin-inline-end:25px}}[data-component=language-selector] .selected-language{color:#161718;cursor:pointer;font-size:18px;font-stretch:normal;font-style:normal;font-weight:700;letter-spacing:1.5px;line-height:1.11;margin-inline-start:10px}@media(min-width:576px){[data-component=language-selector] .selected-language{color:#161718;font-size:16px;font-
+
+  [GET] https://cdn.skoda-auto.com/resources/publicFilefolder=production/Modules_c2911565-9b23-426f-b6df-3f86a0935d42&path=Modules/Derivat
+  4 price-range numbers: [146097, 189493, 247492, 3506328]
+  body: var __webpack_modules__={ggbP:function(e,t,i){!function(e){"use strict";e.defineLocale("af",{months:"Januarie_Februarie_Maart_April_Mei_Junie_Julie_Augustus_September_Oktober_November_Desember".split("_"),monthsShort:"Jan_Feb_Mrt_Apr_Mei_Jun_Jul_Aug_Sep_Okt_Nov_Des".split("_"),weekdays:"Sondag_Maandag_Dinsdag_Woensdag_Donderdag_Vrydag_Saterdag".split("_"),weekdaysShort:"Son_Maa_Din_Woe_Don_Vry_Sat".split("_"),weekdaysMin:"So_Ma_Di_Wo_Do_Vr_Sa".split("_"),meridiemParse:/vm|nm/i,isPM:function(e){r
+
+  [GET] https://cdn.skoda-auto.com/resources/publicFilefolder=production/Modules_c2911565-9b23-426f-b6df-3f86a0935d42&path=Modules/Derivat
+  3 price-range numbers: [161718, 373737, 419468]
+  body: [data-module=derivative-introduction]{background-color:#f3f3f3;overflow:hidden}[data-module=derivative-introduction] .dialog-paper.MuiPaper-root{height:100%}[data-module=derivative-introduction] .dialog-paper.MuiPaper-root .MuiDialogContent-root.dialog-content{padding-left:0;padding-right:0;padding-top:0}[data-module=derivative-introduction] .dialog-paper.MuiPaper-root .MuiDialogContent-root.dialog-content .loader-wrapper{height:calc(100vh - var(--placeholder-min-height) - var(--lightbox-dialog-
+
+  [GET] https://cdn.skoda-auto.com/resources/publicFilefolder=production/Modules_c2911565-9b23-426f-b6df-3f86a0935d42&path=Modules/Technol
+  3 price-range numbers: [161718, 373737, 419468]
+  body: [data-component=technology-slide-property]{align-items:flex-end;display:flex;padding-top:20px;width:180px}@media(min-width:576px){[data-component=technology-slide-property]{margin-inline-end:-22px}}@media(min-width:992px){[data-component=technology-slide-property]{margin-inline-end:-16px;margin-inline-start:0}}@media(min-width:1200px){[data-component=technology-slide-property]{margin-inline-end:-6px}}@media(min-width:576px){[data-component=technology-slide-property]{padding-top:25px}[data-compon
+
+  [GET] https://cdn.skoda-auto.com/resources/publicFilefolder=production/Modules_c2911565-9b23-426f-b6df-3f86a0935d42&path=Modules/Importe
+  3 price-range numbers: [161718, 373737, 419468]
+  body: [data-component=importer-footer-contacts]{align-items:flex-end;display:flex;flex-wrap:wrap}[data-component=importer-footer-contacts] .contacts{width:100%}@media(min-width:576px){[data-component=importer-footer-contacts] .contacts{display:flex;flex-direction:row;flex-wrap:wrap}}@media(min-width:992px){[data-component=importer-footer-contacts] .contacts{flex:auto;width:auto}}[data-component=importer-footer-contacts] .contacts .contact{margin-bottom:30px}@media(min-width:576px){[data-component=impo
+
+  [GET] https://cdn.skoda-auto.com/resources/publicFilefolder=production/Libs_c2911565-9b23-426f-b6df-3f86a0935d42&path=assets.0e1464aa314
+  2 price-range numbers: [161718, 419468]
+  body: @charset "UTF-8";@font-face{font-family:skoda-icons-font;font-style:normal;font-weight:400;src:url('https://cdn.skoda-auto.com/resources/Libs_c2911565-9b23-426f-b6df-3f86a0935d42/Assets/font/skoda-icons-font.70fbed9ac760f64e25ae.woff') format("woff"),url('https://cdn.skoda-auto.com/resources/Libs_c2911565-9b23-426f-b6df-3f86a0935d42/Assets/font/skoda-icons-font.97dcd313d55d74cae92a.ttf') format("truetype"),url('https://cdn.skoda-auto.com/resources/Libs_c2911565-9b23-426f-b6df-3f86a0935d42/Assets
+
+=== unique non-tracking domains dekhe ===
+  cdn.skoda-auto.com
+  js.monitor.azure.com

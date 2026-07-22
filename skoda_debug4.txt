@@ -1,0 +1,27 @@
+
+======================================================================
+TARGET: kushaq  →  https://www.skoda-auto.co.in/models/kushaq/kushaq
+======================================================================
+  status: 200
+  clicked 'Build'
+  clicked 'Variants'
+  clicked 'Price'
+
+  captured 5 JSON responses (tracking chhod ke)
+  price-jaisi API hits: 0
+
+  Page ₹ prices (2):
+    ₹10,69,000.00
+    The new Škoda Kushaq starts at ₹10.69 Lakh in India. For the latest pr
+
+  final URL: https://www.skoda-auto.co.in/models/kushaq/kushaq
+
+======================================================================
+TARGET: checkprice  →  https://www.skoda-auto.co.in/aid/checkprice
+======================================================================
+  status: 200
+
+  captured 5 JSON responses (tracking chhod ke)
+  price-jaisi API hits: 0
+
+  final URL: https://www.skoda-auto.co.in/aid/checkprice

@@ -1,0 +1,82 @@
+
+======================================================================
+TARGET: Skoda Kushaq  →  https://www.carwale.com/skoda-cars/kushaq/
+======================================================================
+  status: 200
+
+  --- variant/price JSON APIs (2) ---
+  [GET] https://www.carwale.com/api/globalmediacampaign/?platformId=1&cityId=-1&pageId=31&modelMaskingName=kushaq&makeMaskingNam
+       4 price numbers: [139588, 484848, 808080, 3002777]
+       body: {"adTargetingData":[],"ticker":{"templateId":25666,"campaignId":56303,"templateName":"ES | Nissan Tekton - Kushaq Dsite | July 26","templateText":"<script>var ticker_tracker=(()=>{function l(){let n=document.querySelectorAll(\".js-click-tracking-ticker\");if(n.length>0)for(let t=0;t<n.length;t++)n[t].hasAttribute(\"data-url\")&&n[t].addEventListener(\"click\",function(){let n=this.getAttribute(\"d
+
+  [GET] https://script.crazyegg.com/pages/data-scripts/0012/9477/site/www.carwale.com.json?t=1
+       2 price numbers: [114379, 129477]
+       body: {"uid":129477,"dkey":"006018a49aaa1cfdfa7aa791f9b3c031","updated_at":1784333178,"version":"11.5.535","site_data_url_template":"https://script.crazyegg.com/pages/data-scripts/0012/9477/site/SITENAME.json","site_sampling_url_template":"https://script.crazyegg.com/pages/data-scripts/0012/9477/sampling/SITENAME.json","status_data_url":"https://script.crazyegg.com/pages/data-scripts/0012/9477/status.js
+
+  Page ₹/Rs lines (53):
+    Rs. 10.69 - 18.99 Lakh
+    Skoda Kushaq price for the base model starts at Rs. 10.69 Lakh and the
+    Rs. 10.69 - 12.89 Lakh
+    Rs. 14.59 - 15.59 Lakh
+    Rs. 14.74 - 15.74 Lakh
+    Rs. 16.79 - 18.79 Lakh
+    Rs. 17.89 - 18.99 Lakh
+    The new Skoda Kushaq has been launched at a price of Rs. 10.69 lakh (e
+    Rs. 11.37 Lakh
+    Rs. 10.69 Lakh
+    Rs. 11.00 Lakh
+    Rs. 10.49 Lakh
+    Rs. 7.59 Lakh
+    Rs. 11.64 Lakh
+    Rs. 11.00 Lakh
+    Rs. 10.00 Lakh
+    Rs. 10.91 Lakh
+    Rs. 10.49 Lakh
+    Rs. 11.31 Lakh
+    Write a detailed review and you can win Amazon voucher worth Rs. 2,000
+    Skoda has positioned the base variant of the Kushaq as a strong value 
+    The avg ex-showroom price of Skoda Kushaq base model is Rs. 10.69 Lakh
+    The avg ex-showroom price of Skoda Kushaq top model is Rs. 18.99 Lakh 
+    Rs. 12.00 - 19.00 Lakh
+    Rs. 55.00 - 60.00 Lakh
+
+======================================================================
+TARGET: Maruti Swift  →  https://www.carwale.com/maruti-suzuki-cars/swift/
+======================================================================
+  status: 200
+
+  --- variant/price JSON APIs (2) ---
+  [GET] https://www.carwale.com/api/globalmediacampaign/?platformId=1&cityId=-1&pageId=31&modelMaskingName=swift&makeMaskingName
+       2 price numbers: [484848, 808080]
+       body: {"adTargetingData":[],"ticker":{"templateId":0,"campaignId":0,"templateName":null,"templateText":null,"bhriguTrackingProperties":{}},"skin":{"templateId":0,"campaignId":0,"templateName":null,"templateText":null,"bhriguTrackingProperties":{}},"doodle":{"templateId":0,"campaignId":0,"templateName":null,"templateText":null,"bhriguTrackingProperties":{}},"isChatOn":false,"city":null,"availableMediaPro
+
+  [GET] https://script.crazyegg.com/pages/data-scripts/0012/9477/site/www.carwale.com.json?t=1
+       2 price numbers: [114379, 129477]
+       body: {"uid":129477,"dkey":"006018a49aaa1cfdfa7aa791f9b3c031","updated_at":1784333178,"version":"11.5.535","site_data_url_template":"https://script.crazyegg.com/pages/data-scripts/0012/9477/site/SITENAME.json","site_sampling_url_template":"https://script.crazyegg.com/pages/data-scripts/0012/9477/sampling/SITENAME.json","status_data_url":"https://script.crazyegg.com/pages/data-scripts/0012/9477/status.js
+
+  Page ₹/Rs lines (54):
+    Rs. 5.79 Lakh
+    Maruti Swift price for the base model starts at Rs. 5.79 Lakh and the 
+    Rs. 5.79 Lakh
+    Rs. 6.63 - 7.52 Lakh
+    Rs. 6.89 - 7.78 Lakh
+    Rs. 7.57 - 8.46 Lakh
+    Rs. 8.24 - 8.84 Lakh
+    The Swift has received a price increment of up to Rs. 7500. The CNG ra
+    Rs. 4.99 Lakhonwards
+    Rs. 4.18 Lakh
+    Rs. 5.79 Lakh
+    Rs. 5.99 Lakh
+    Rs. 5.60 Lakh
+    Rs. 4.70 Lakh
+    Rs. 6.00 Lakh
+    Rs. 4.99 Lakh
+    Rs. 4.99 Lakh
+    Rs. 6.26 Lakh
+    Write a detailed review and you can win Amazon voucher worth Rs. 2,000
+    The revision of up to Rs. 7,500 is applicable to select variants.
+    The avg ex-showroom price of Maruti Suzuki Swift base model is Rs. 5.7
+    The avg ex-showroom price of Maruti Suzuki Swift top model is Rs. 8.84
+    Rs. 8.90 - 14.00 Lakh
+    Rs. 11.52 - 14.47 Lakh
+    Rs. 14.00 - 20.00 Lakh

@@ -1,0 +1,51 @@
+
+======================================================================
+TARGET: Skoda Kushaq  →  https://www.cardekho.com/skoda/kushaq
+======================================================================
+  status: 200
+  price JSON APIs: 1
+
+  [POST] https://server.connecto.io/?v=1.2&url=https%3A%2F%2Fwww.cardekho.com%2Fskoda%2Fkushaq
+  2 exact prices: [333333, 363131]
+  body: {"response":"1","messages":[{"id":"65d82772900ec40624f7973b","snippet":"&lt;style&gt;\n  #connecto_65d82772900ec40624f7973b {\n    width: 940px;\n    height: 320px;\n  }\n&lt;/style&gt;\n&lt;div id=&quot;connecto_65d82772900ec40624f7973b&quot;&gt;\n  &lt;iframe id=&quot;container-notification-frame-65d82772900ec40624f7973b&quot; style=&quot;background-color:transparent;&quot; allowTransparency=&quot;true&quot; width=&quot;940&quot;  height=&quot;320&quot; scrolling=&quot;no&quot; frameborder=&qu
+
+  variant+price lines (1):
+    Kushaq has 11 variants from ₹10.69L across 1.0L TSI (115 PS) with 6MT 
+
+======================================================================
+TARGET: Maruti Swift  →  https://www.cardekho.com/maruti-suzuki/swift
+======================================================================
+  status: 200
+  price JSON APIs: 2
+
+  [GET] https://targeting.vdo.ai/allowed_url.php?test=cache&type=json&mul_type=os+wb&tag=v-cardekho-v6&domain=cardekho.com&c=IN&
+  22 exact prices: [202026, 593348, 593356, 633241, 1089059, 3790986, 3790996, 3844180, 3844181, 3844182, 3844183, 3844184, 3844185, 3844186, 3844187]
+  body: {"svpm_excluded_partners":null,"unfilled_auction_timer":"default","video_clickthrough_url":"","google_mcm_apac":"1089059","domain":"cardekho.com","dfp_companion":true,"autoplay_player":true,"unitId":"_vdo_ads_player_ai_36195","float_after_cross_click":true,"pubId_jj":"","muted":true,"tag":"v-cardekho-v6","add_on_page_ready":"no","showOnlyOnAd":false,"coppa":false,"vast_ad_gap":0,"vast_copy":true,"flr_matched_key":["ts:37609:dsk:in:mcm","ts:37609:dsk:in:mcm_apac"],"timestamp":1784187661,"dual_pla
+
+  [POST] https://server.connecto.io/?v=1.2&url=https%3A%2F%2Fwww.cardekho.com%2Fmaruti%2Fswift
+  2 exact prices: [333333, 363131]
+  body: {"response":"1","messages":[{"id":"65d82772900ec40624f7973b","snippet":"&lt;style&gt;\n  #connecto_65d82772900ec40624f7973b {\n    width: 940px;\n    height: 320px;\n  }\n&lt;/style&gt;\n&lt;div id=&quot;connecto_65d82772900ec40624f7973b&quot;&gt;\n  &lt;iframe id=&quot;container-notification-frame-65d82772900ec40624f7973b&quot; style=&quot;background-color:transparent;&quot; allowTransparency=&quot;true&quot; width=&quot;940&quot;  height=&quot;320&quot; scrolling=&quot;no&quot; frameborder=&qu
+
+  variant+price lines (1):
+    Swift has 13 variants from ₹5.79L across petrol, CNG, MT and AMT (1.2L
+
+======================================================================
+TARGET: Hyundai Creta  →  https://www.cardekho.com/hyundai/creta
+======================================================================
+  status: 200
+  price JSON APIs: 3
+
+  [POST] https://server.connecto.io/?v=1.2&url=https%3A%2F%2Fwww.cardekho.com%2Fhyundai%2Fcreta
+  2 exact prices: [333333, 363131]
+  body: {"response":"1","messages":[{"id":"65d82772900ec40624f7973b","snippet":"&lt;style&gt;\n  #connecto_65d82772900ec40624f7973b {\n    width: 940px;\n    height: 320px;\n  }\n&lt;/style&gt;\n&lt;div id=&quot;connecto_65d82772900ec40624f7973b&quot;&gt;\n  &lt;iframe id=&quot;container-notification-frame-65d82772900ec40624f7973b&quot; style=&quot;background-color:transparent;&quot; allowTransparency=&quot;true&quot; width=&quot;940&quot;  height=&quot;320&quot; scrolling=&quot;no&quot; frameborder=&qu
+
+  [GET] https://tags3-b.performoo.com/dXtIWclB/am/gcYgEXLLg/data.json
+  2 exact prices: [1089059, 70412749]
+  body: {"mp":{"style":1,"loopBhv":{"adReq":true,"triggerLoopAfter":"2"},"placement":{"size":{"fixed":{"h":"250","w":"300"},"aspectRatio":""},"showCloseBtnAfter":-1,"slider":{"pos":"lt","type":"1","maxW":"300","mb":"","dir":0},"z":9999},"muteBtn":null,"controls":{"display":"hover","hide":["playPause","duration","fullScreen","sound","btnForward","btnBackward","progressBar","bigPlayBtn"],"progressBottomPos":false,"videoCompleteAction":2},"autoPlay":{"type":2,"unmute":{"dur":"-1"}},"advSetting":{"playingVi
+
+  [GET] https://tags3-b.performoo.com/dYM-zTi_/am/Ncjr2g9M/data.json
+  1 exact prices: [1089059]
+  body: {"mp":{"style":1,"loopBhv":{"adReq":true,"triggerLoopAfter":"2"},"placement":{"size":{"fixed":{"h":360,"w":640},"aspectRatio":"0.56"},"showCloseBtnAfter":0,"slider":{"pos":"rb","type":"1","maxW":"","mb":"","dir":0,"expandProbability":"1","hidden":true},"z":9999},"muteBtn":null,"controls":{"display":"none","hide":["playPause","duration","fullScreen","sound","btnForward","btnBackward","progressBar","bigPlayBtn"],"progressBottomPos":false,"videoCompleteAction":2},"autoPlay":{"type":2,"unmute":{"dur
+
+  variant+price lines (1):
+    Creta has 50 variants from ₹12.53L across 1.5L petrol, 1.5L diesel and

@@ -1,0 +1,42 @@
+
+======================================================================
+TARGET: checkprice  →  https://www.skoda-auto.co.in/aid/checkprice
+======================================================================
+  status: 200
+
+  --- variant/price JSON APIs (1) ---
+  [GET] https://sync-pn-server-o2idxwjldq-ez.a.run.app/?agentId=sfdu594d-9z1r-g4xy-clr1-soonu1y2f5mc
+       9 price-jaise numbers: ['1784355', '1784960', '1792131', '1818051', '538405', '544509', '738406', '744509', '795203']
+       preview: {"663":{"audience":{"name":"Awareness","customer_phase":"Awareness","customer_type":"Prospect","expiration_time":1784960538405,"creation_time":1784355738406,"pageviewNumber":1},"SM3":{"visitedModels":"","testdrive-in":{"activationPeriod":{"activationPeriodEnd":1784960544509,"expiration_time":1792131
+
+  <select> count: 0
+
+======================================================================
+TARGET: kushaq  →  https://www.skoda-auto.co.in/models/kushaq/kushaq
+======================================================================
+  status: 200
+  clicked 'Price'
+  clicked 'Variants'
+
+  --- variant/price JSON APIs (4) ---
+  [GET] https://sync-pn-server-o2idxwjldq-ez.a.run.app/?agentId=sfdu594d-9z1r-g4xy-clr1-soonu1y2f5mc
+       9 price-jaise numbers: ['1784355', '1784960', '1792131', '1818051', '538405', '544509', '738406', '744509', '795203']
+       preview: {"663":{"audience":{"name":"Awareness","customer_phase":"Awareness","customer_type":"Prospect","expiration_time":1784960538405,"creation_time":1784355738406,"pageviewNumber":1},"SM3":{"visitedModels":"","testdrive-in":{"activationPeriod":{"activationPeriodEnd":1784960544509,"expiration_time":1792131
+
+  Page ₹ prices (2):
+    ₹10,69,000.00
+    The new Škoda Kushaq starts at ₹10.69 Lakh in India. For the
+  <select> count: 0
+
+======================================================================
+TARGET: slavia  →  https://www.skoda-auto.co.in/models/slavia/slavia
+======================================================================
+  status: 200
+  clicked 'Check Price'
+
+  --- variant/price JSON APIs (4) ---
+  [GET] https://sync-pn-server-o2idxwjldq-ez.a.run.app/?agentId=sfdu594d-9z1r-g4xy-clr1-soonu1y2f5mc
+       11 price-jaise numbers: ['1784355', '1784960', '1792131', '1818051', '544509', '555196', '585680', '744509', '755196', '785680', '795203']
+       preview: {"663":{"audience":{"name":"Consideration","customer_phase":"Consideration","customer_type":"Prospect","expiration_time":1784960555196,"creation_time":1784355755196,"pageviewNumber":2,"carModelBody":"NS8"},"SM3":{"visitedModels":"NS8","testdrive-in":{"activationPeriod":{"activationPeriodEnd":1784960
+
+  <select> count: 0

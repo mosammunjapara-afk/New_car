@@ -1,0 +1,52 @@
+Kholte hain: https://www.carwale.com/skoda-cars/kushaq/
+
+variant/price links (10):
+  https://www.carwale.com/news/5-features-skoda-kushaq-base-variant-gets-over-volkswagen-taigun/
+  https://www.carwale.com/skoda-cars/kushaq/price-in-ahmedabad/
+  https://www.carwale.com/skoda-cars/kushaq/price-in-bangalore/
+  https://www.carwale.com/skoda-cars/kushaq/price-in-chennai/
+  https://www.carwale.com/skoda-cars/kushaq/price-in-delhi/
+  https://www.carwale.com/skoda-cars/kushaq/price-in-hyderabad/
+  https://www.carwale.com/skoda-cars/kushaq/price-in-kolkata/
+  https://www.carwale.com/skoda-cars/kushaq/price-in-lucknow/
+  https://www.carwale.com/skoda-cars/kushaq/price-in-mumbai/
+  https://www.carwale.com/skoda-cars/kushaq/price-in-pune/
+
+======================================================================
+VISIT: https://www.carwale.com/news/5-features-skoda-kushaq-base-variant-gets-over-volkswagen-taigun/
+======================================================================
+  status: 200
+  exact-price JSON APIs: 0
+
+  variant+price lines (1):
+    Skoda Kylaq Classic Plus Detailed Walkaround | What Do You Get for Rs.
+
+======================================================================
+VISIT: https://www.carwale.com/skoda-cars/kushaq/price-in-ahmedabad/
+======================================================================
+  status: 200
+  exact-price JSON APIs: 0
+
+  variant+price lines (2):
+    For a 5-year loan tenure, Rs. 2,11,208 down payment and 10% interest r
+    Skoda Kushaq on road price in Ahmedabad starts from Rs. 11.73 Lakh for
+
+======================================================================
+VISIT: https://www.carwale.com/skoda-cars/kushaq/price-in-bangalore/
+======================================================================
+  status: 200
+  exact-price JSON APIs: 0
+
+  variant+price lines (2):
+    For a 5-year loan tenure, Rs. 3,63,752 down payment and 10% interest r
+    Skoda Kushaq on road price in Bangalore starts from Rs. 13.26 Lakh for
+
+======================================================================
+VISIT: https://www.carwale.com/skoda-cars/kushaq/price-in-chennai/
+======================================================================
+  status: 200
+  exact-price JSON APIs: 0
+
+  variant+price lines (2):
+    For a 5-year loan tenure, Rs. 3,73,309 down payment and 10% interest r
+    Skoda Kushaq on road price in Chennai starts from Rs. 13.35 Lakh for t

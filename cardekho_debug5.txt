@@ -1,0 +1,16 @@
+
+======================================================================
+MODEL: Skoda Kushaq  →  https://www.cardekho.com/skoda/kushaq/price
+======================================================================
+
+  script blocks: 24
+  (variant-json nahi mila; Kushaq ka context:)
+    koda Slavia"},{"MID":"3625","MN":"Skoda Kushaq","MSN":"Kushaq","SLG":"kushaq","upcoming":false,"expired":false,"MDN":"Skoda Kushaq"},{"MID":"3442","MN":"Skoda Kodiaq","MSN":"Kodiaq","SLG":"kodiaq","upcoming":false,"expired":false,"MDN":"Skoda Kodiaq"}],"EM":[{"MID":"461","MN":"Skoda Octavia","MSN":"Octavia","SLG":"octavia","upcoming":false,"expired":false,"MDN":"Skoda Octavia 2000-2010"},{"MID":"471","MN":"Skoda Superb","MSN":"Superb","
+
+======================================================================
+MODEL: Maruti Swift  →  https://www.cardekho.com/maruti-suzuki/swift/price
+======================================================================
+
+  script blocks: 25
+  (variant-json nahi mila; Swift ka context:)
+    i S-Presso"},{"MID":"3346","MN":"Maruti Swift","MSN":"Swift","SLG":"swift","upcoming":false,"expired":false,"MDN":"Maruti Suzuki Swift"},{"MID":"977","MN":"Maruti Jimny","MSN":"Jimny","SLG":"jimny","upcoming":false,"expired":false,"MDN":"Maruti Suzuki Jimny"},{"MID":"3289","MN":"Maruti Brezza","MSN":"Brezza","SLG":"brezza","upcoming":false,"expired":false,"MDN":"Maruti Suzuki Brezza"},{"MID":"590","MN":"Maruti Ciaz","MSN":"Ciaz","SLG":"

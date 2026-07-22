@@ -1,0 +1,28 @@
+Kholte hain: https://cars.tatamotors.com/nexon/ice/price.html
+page status: 200
+
+=== getpricefilteredresult POSTs: 1 ===
+  [POST] https://cars.tatamotors.com/nexon/ice/price.getpricefilteredresult.json
+  body (pehle 500): {"vehicleCategory":"TMPC","modelId":"1-TGW7UPH","parentProductId":"1-S3YJYTJ","cityId":"India-MH-MUMBAI","filtersSelected":[{"filterType":"fuel_type","values":["5-29KIJOIL"]},{"filterType":"transmission_type","values":["MT"]},{"filterType":"edition","values":["standard"]},{"filterType":"price","values":["₹7L","₹15L"]}]}
+
+=== price-jaise JSON APIs: 4 ===
+  [200] https://cars.tatamotors.com/nexon/ice/price.getPurposeDetails.LMS.json
+       {"results":{"purposes":[{"updatedby":"N/A","createddate":"2023.08.21.08.15.27.658","langToDescription":{"english":"I agree to the Terms and Conditions "},"description":"I agree to the Terms and Condit
+  [200] https://cars.tatamotors.com/nexon/ice/price.getpricefilteroptions.json
+       {"results":{"filterOptionsList":[{"filterType":"edition","filterLabel":"Edition","filterOption":[{"optionId":"standard","optionValue":"Standard","optionLabel":"Standard","isDefault":"true"},{"optionId
+  [200] https://cars.tatamotors.com/nexon/ice/price.getpricefilteredresult.json
+       {"results":{"variantPriceFeatures":[{"variantId":"Smart 1.2_Standard_5-29KIJOIL","variantLabel":"Smart 1.2 Standard, Petrol","configureSku":"54640825AIJR","priceDetails":{"originalPrice":"₹7,39,990"}}
+  [200] https://bam.nr-data.net/1/NRJS-1c1fad81c961ed3a045?a=1588977603&sa=1&v=1.271.0&t=Unnamed%20Transaction&rst=9647&ck=0&s=c
+       {"stn":0,"err":1,"ins":1,"spa":1,"sr":1,"srs":2,"st":1,"sts":2,"log":0,"logapi":0,"app":{"agents":[{"entityGuid":"MjU0ODcwOXxCUk9XU0VSfEFQUExJQ0FUSU9OfDE1ODg5Nzc2MDM"}],"nrServerTime":1784351165641}}
+
+=== Page pe ₹ prices: 5 ===
+  ₹7L
+  ₹15L
+  ₹7,39,990
+  ₹8,14,990
+  ₹8,44,990
+
+final URL: https://cars.tatamotors.com/nexon/ice/price.html
+  alt path /nexon/price.html -> 404
+  alt path /nexon.html -> 200
+  alt path /nexon/ice.html -> 200

@@ -1,0 +1,364 @@
+Warming up: check-price page khol rahe hain (session ke liye)...
+
+======================================================================
+GET /api/getDynamicPageOptions?pageName=priceCheck
+======================================================================
+STATUS: 200
+BODY (JSON, pehle 4000 chars):
+{
+  "code": 200,
+  "msg": "Success",
+  "data": [
+    {
+      "id": 19,
+      "pageOptionTitle": "Book Car",
+      "optionURL": "/shop/new-car-booking",
+      "imageIconUrl": "https://www.hondacarindia.com/web-data/plus-icons/book-car.svg",
+      "pageOptionSlug": "book-car"
+    },
+    {
+      "id": 20,
+      "pageOptionTitle": "Book Test Drive",
+      "optionURL": "/shop/request-test-drive",
+      "imageIconUrl": "https://www.hondacarindia.com/web-data/plus-icons/steering.svg",
+      "pageOptionSlug": "request-test-drive"
+    },
+    {
+      "id": 21,
+      "pageOptionTitle": "Offers",
+      "optionURL": "/shop/shop-offers",
+      "imageIconUrl": "https://www.hondacarindia.com/web-data/plus-icons/offers.svg",
+      "pageOptionSlug": "shop-offers"
+    },
+    {
+      "id": 22,
+      "pageOptionTitle": "Emi Calculator",
+      "optionURL": "/emi-calculator",
+      "imageIconUrl": "https://www.hondacarindia.com/web-data/plus-icons/calculator.svg",
+      "pageOptionSlug": "emi-calculator"
+    },
+    {
+      "id": 23,
+      "pageOptionTitle": "Request a call back",
+      "optionURL": "#",
+      "imageIconUrl": "https://www.hondacarindia.com/web-data/plus-icons/call.svg",
+      "pageOptionSlug": "request-callback"
+    }
+  ]
+}
+
+======================================================================
+GET /api/getOfferCars
+======================================================================
+STATUS: 200
+BODY (JSON, pehle 4000 chars):
+{
+  "code": 200,
+  "data": [
+    "honda-amaze",
+    "honda-amaze-2g",
+    "honda-city",
+    "honda-elevate"
+  ]
+}
+
+======================================================================
+GET /api/getAllStates
+======================================================================
+STATUS: 200
+BODY (JSON, pehle 4000 chars):
+{
+  "code": 200,
+  "data": [
+    {
+      "St_ID_pk": 44,
+      "St_Name": "Andaman and Nicobar"
+    },
+    {
+      "St_ID_pk": 13,
+      "St_Name": "Andhra Pradesh"
+    },
+    {
+      "St_ID_pk": 24,
+      "St_Name": "Assam"
+    },
+    {
+      "St_ID_pk": 27,
+      "St_Name": "Bihar"
+    },
+    {
+      "St_ID_pk": 23,
+      "St_Name": "Chandigarh"
+    },
+    {
+      "St_ID_pk": 5,
+      "St_Name": "Chhattisgarh"
+    },
+    {
+      "St_ID_pk": 8,
+      "St_Name": "Delhi"
+    },
+    {
+      "St_ID_pk": 2,
+      "St_Name": "Goa"
+    },
+    {
+      "St_ID_pk": 3,
+      "St_Name": "Gujarat"
+    },
+    {
+      "St_ID_pk": 9,
+      "St_Name": "Haryana"
+    },
+    {
+      "St_ID_pk": 25,
+      "St_Name": "Himachal Pradesh"
+    },
+    {
+      "St_ID_pk": 11,
+      "St_Name": "Jammu & Kashmir"
+    },
+    {
+      "St_ID_pk": 20,
+      "St_Name": "Jharkhand"
+    },
+    {
+      "St_ID_pk": 15,
+      "St_Name": "Karnataka"
+    },
+    {
+      "St_ID_pk": 14,
+      "St_Name": "Kerala"
+    },
+    {
+      "St_ID_pk": 4,
+      "St_Name": "Madhya Pradesh"
+    },
+    {
+      "St_ID_pk": 1,
+      "St_Name": "Maharashtra"
+    },
+    {
+      "St_ID_pk": 43,
+      "St_Name": "Manipur"
+    },
+    {
+      "St_ID_pk": 41,
+      "St_Name": "Nagaland"
+    },
+    {
+      "St_ID_pk": 18,
+      "St_Name": "Odisha"
+    },
+    {
+      "St_ID_pk": 26,
+      "St_Name": "Puducherry"
+    },
+    {
+      "St_ID_pk": 10,
+      "St_Name": "Punjab"
+    },
+    {
+      "St_ID_pk": 16,
+      "St_Name": "Rajasthan"
+    },
+    {
+      "St_ID_pk": 12,
+      "St_Name": "Tamil Nadu"
+    },
+    {
+      "St_ID_pk": 42,
+      "St_Name": "Telangana"
+    },
+    {
+      "St_ID_pk": 21,
+      "St_Name": "Uttar Pradesh"
+    },
+    {
+      "St_ID_pk": 19,
+      "St_Name": "Uttarakhand"
+    },
+    {
+      "St_ID_pk": 17,
+      "St_Name": "West Bengal"
+    }
+  ]
+}
+
+======================================================================
+GET /api/getAllCities?stateId=1
+======================================================================
+STATUS: 200
+BODY (JSON, pehle 4000 chars):
+{
+  "code": 200,
+  "data": [
+    {
+      "cd_ID_pk": 15,
+      "cd_Name": "MUMBAI"
+    },
+    {
+      "cd_ID_pk": 17,
+      "cd_Name": "PUNE"
+    },
+    {
+      "cd_ID_pk": 29,
+      "cd_Name": "NASHIK"
+    },
+    {
+      "cd_ID_pk": 30,
+      "cd_Name": "NAGPUR"
+    },
+    {
+      "cd_ID_pk": 47,
+      "cd_Name": "AURANGABAD"
+    },
+    {
+      "cd_ID_pk": 48,
+      "cd_Name": "KOLHAPUR"
+    },
+    {
+      "cd_ID_pk": 51,
+      "cd_Name": "NAVI MUMBAI"
+    },
+    {
+      "cd_ID_pk": 80,
+      "cd_Name": "THANE"
+    },
+    {
+      "cd_ID_pk": 118,
+      "cd_Name": "JALGAON"
+    },
+    {
+      "cd_ID_pk": 136,
+      "cd_Name": "SATARA"
+    },
+    {
+      "cd_ID_pk": 140,
+      "cd_Name": "AMRAVATI"
+    },
+    {
+      "cd_ID_pk": 143,
+      "cd_Name": "SOLAPUR"
+    },
+    {
+      "cd_ID_pk": 149,
+      "cd_Name": "SANGLI"
+    },
+    {
+      "cd_ID_pk": 221,
+      "cd_Name": "PANVEL"
+    },
+    {
+      "cd_ID_pk": 275,
+      "cd_Name": "CHANDRAPUR"
+    },
+    {
+      "cd_ID_pk": 279,
+      "cd_Name": "AKOLA"
+    },
+    {
+      "cd_ID_pk": 343,
+      "cd_Name": "KALYAN"
+    }
+  ]
+}
+
+======================================================================
+GET /api/getStateCheck?cityName=Mumbai
+======================================================================
+STATUS: 200
+BODY (JSON, pehle 4000 chars):
+{
+  "code": 200,
+  "data": [
+    {
+      "cd_ID_pk": 15,
+      "cd_Name": "MUMBAI",
+      "stateName": "Maharashtra"
+    }
+  ]
+}
+
+======================================================================
+GET /api/getAllDealerViaTypes?cityId=15&radius=100
+======================================================================
+STATUS: 200
+BODY (JSON, pehle 4000 chars):
+{
+  "code": 200,
+  "data": [
+    {
+      "DealerWebsite": "https://dealer.hondacarindia.com/viva-honda-vcm-agencies-pvt-ltd-car-dealer-chandivali-mumbai-67422/Home",
+      "DD_DesktopURL": "https://www.hondacarindia.com/web-data/dealers/banner/dealer-desktop.png",
+      "DD_MobileURL": "https://www.hondacarindia.com/web-data/dealers/banner/dealer-mobile.png",
+      "outlettype": "Workshop",
+      "DD_activeStatus": "A",
+      "DD_companyName": "VCM AGENCIES PVT LTD.",
+      "dealerTitle": "Viva Honda",
+      "dealerOpenState": 1,
+      "Operational_Hours_Days": "Monday : 9:30 am - 6:30 pm, Tuesday : 9:30 am - 6:30 pm, Wednesday : 9:30 am - 6:30 pm, Thursday : 9:30 am - 6:30 pm, Friday : 9:30 am - 6:30 pm, Saturday : 9:30 am - 6:30 pm, Sunday : 9:30 am - 6:30 pm, ",
+      "dealerDistance": "4.5 km",
+      "dealerSortingDistance": 4487,
+      "dealerStarRating": 3.8,
+      "dealerAwardImage": "",
+      "dealerAwardImageMob": "",
+      "dealerAwardTitle": "",
+      "dealerReview": "https://www.pinqode.com/biLWIu",
+      "DD_pincode": "400018",
+      "DD_address": "115, Mulchand Niwas, Dr. E. Moses Road, Near Four Seasons Hotel, Worli, Mumbai, Maharashtra - 400 018",
+      "longitude": 72.82,
+      "latitude": 18.99,
+      "DD_telephone": "02245777777",
+      "dealerServices": "SERVICE, SPARES",
+      "DD_email": "crmservice@vivahonda.in"
+    },
+    {
+      "DealerWebsite": "https://dealer.hondacarindia.com/arya-honda-shaman-cars-india-pvt-ltd-car-dealer-sewri-mumbai-68103/Home",
+      "DD_DesktopURL": "https://www.hondacarindia.com/web-data/dealers/banner/dealer-desktop.png",
+      "DD_MobileURL": "https://www.hondacarindia.com/web-data/dealers/banner/dealer-mobile.png",
+      "outlettype": "Workshop",
+      "DD_activeStatus": "A",
+      "DD_companyName": "Shaman Cars India pvt ltd",
+      "dealerTitle": "Arya Honda",
+      "dealerOpenState": 1,
+      "Operational_Hours_Days": "Monday : 9:30 am - 6:30 pm, Tuesday : 9:30 am - 6:30 pm, Wednesday : 9:30 am - 6:30 pm, Thursday : 9:30 am - 6:30 pm, Friday : 9:30 am - 6:30 pm, Saturday : 9:30 am - 6:30 pm, Sunday : Closed, ",
+      "dealerDistance": "5.9 km",
+      "dealerSortingDistance": 5885,
+      "dealerStarRating": 3.8,
+      "dealerAwardImage": "",
+      "dealerAwardImageMob": "",
+      "dealerAwardTitle": "",
+      "dealerReview": "https://www.pinqode.com/w12M",
+      "DD_pincode": "400015",
+      "DD_address": "Ground Floor, Rafi Ahmed Kidwai Marg, Sewri, Next to Amar Wire Compound",
+      "longitude": 72.8547001,
+      "latitude": 18.9924001,
+      "DD_telephone": "+912224135252,+919870500677\r\n",
+      "dealerServices": "SERVICE, SPARES",
+      "DD_email": "jitendra.bhosle@aryahonda.com\r\n"
+    },
+    {
+      "DealerWebsite": "https://dealer.hondacarindia.com/arya-honda-shaman-cars-india-pvt-ltd-car-dealer-prabhadevi-mumbai-67101/Home",
+      "DD_DesktopURL": "https://www.hondacarindia.com/web-data/dealers/banner/dealer-desktop.png",
+      "DD_MobileURL": "https://www.hondacarindia.com/web-data/dealers/banner/dealer-mobile.png",
+      "outlettype": "Showroom",
+      "DD_activeStatus": "A",
+      "DD_companyName": "Shaman Cars India pvt ltd",
+      "dealerTitle": "Arya Honda",
+      "dealerOpenState": 1,
+      "Operational_Hours_Days": "Monday : 9:30 am - 6:30 pm, Tuesday : 9:30 am - 6:30 pm, Wednesday : 9:30 am - 6:30 pm, Thursday : 9:30 am - 6:30 pm, Friday : 9:30 am - 6:30 pm, Saturday : 9:30 am - 6:30 pm, Sunday : 10:00 am - 6:00 pm, ",
+      "dealerDistance": "8.0 km",
+      "dealerSortingDistance": 7976,
+      "dealerStarRating": 4,
+      "dealerAwardImage": "",
+      "dealerAwardImageMob": "",
+      "dealerAwardTitle": "",
+      "dealerReview": "https://www.pinqode.com/b4ImAu",
+      "DD_pincode": "400025",
+      "DD_address": "Madhukunj Building, Sayani Marg",
+      "longitude": 72.830828,
+      "latitude": 19.014174,
+      "DD_telephone": "+919167108475, +919619890333",
+      "dealerServices": "SALES",
+      "DD_email": "sm.prabhadevi@aryahonda.com, lalit.pawar@tea

@@ -1,0 +1,104 @@
+
+======================================================================
+PAGE: https://www.hondacarindia.com/check-price/honda-city
+======================================================================
+  page status: 200
+
+  --- useful JSON APIs (1) ---
+  API: https://www.hondacarindia.com/_next/data/BASUSSBWMUt_vlP4OWNYX/honda-0-series.json
+  {"pageProps": {"carLogoImageUrl": "", "carHeaderText": "", "carID": 0, "vrUrl": "", "dcUrl": "", "techOverview": [{"PN_Price": "1437500", "firstResourceName": "Engine Capacity", "firstResourceValue": "1498", "firstResourceType": "cc", "secondResourceName": "Mileage (km/l)", "secondResourceValue": "18.40", "secondResourceType": "Petrol (CVT)", "thirdResourceName": "Transmission (Speed)", "thirdResourceValue": "7", "thirdResourceType": "CVT(Automatic)"}, {"PN_Price": "1437500", "firstResourceName": "Engine Capacity", "firstResourceValue": "1498", "firstResourceType": "cc", "secondResourceName": "Mileage (km/l)", "secondResourceValue": "18.40", "secondResourceType": "Petrol (CVT)", "thirdResourceName": "Transmission (Speed)", "thirdResourceValue": "7", "thirdResourceType": "CVT(Automatic)"}], "otherCarsModelData": [{"PN_name": "New City", "PN_Url": "/images/models/all-new-city.jpg", "PN_Siteurl": "honda-city", "PN_Price": "1199900", "PN_id_pk": 32, "dcUrl": "https://virtualshowroom.hondacarindia.com/honda-city/?utm_source=hondacarindia&utm_medium=modelpage_car_card_lineup&utm_campaign=direct_connect_advisor#/car/honda-city", "logoUrl": "/models/2023/city5thGen/Logo/Logo_City_White_Background.png", "car_model_images": [{"image_url": "/models/carModelImage/modelimages2026/city.png", "mobile_image_url": "/models/carModelImage/modelimages2026/city.png", "isImageDefault": true, "isMobileImageDefault": true}, {"image_url": "/models/animations/dummy/2.png", "mobile_image_url": "/models
+
+  --- getCarPrice auto-calls (1) ---
+  POST body: {"city":"Delhi","fuelType":"Petrol","transmission":"MT (Manual)","variant":"SV"}
+  resp: {"code":200,"data":[{"P_Price":"1159890","rtoPrice":0,"insurancePrice":0,"tcs":0,"hypothecation":0,"fastTag":0,"basicKit":0,"totalPrice":1159890}]}
+
+  __NEXT_DATA__ around "fuelType":
+  [{"resourceFuelType":"Petrol","fuelType":["Petrol","e:HEV"],"transmission":["MT (Manual)","CVT (Automatic)"],"grade":[{"transType":"MT (Manual)","interiorColors":[null,null,null,null],"variants":["SV","V","ZX","ZX+"],"price":["1199900","1329900","1525900","1614900"]},{"transType":"CVT (Automatic)","interiorColors":[null,null,null,null],"variants":["V","ZX","ZX+"],"price":["1429900","1625900","1714900",null]}]},{"resourceFuelType":"e:HEV","fuelType":["Petrol","e:HEV"],"transmission":["CVT (Automatic)"],"grade":[{"transType":"CVT (Automatic)","interiorColors":[null],"variants":["ZX+ e:HEV"],"price":["2099900"]}]},{"exterior"
+
+  __NEXT_DATA__ around "transmission":
+  "fuelType":["Petrol","e:HEV"],"transmission":["MT (Manual)","CVT (Automatic)"],"grade":[{"transType":"MT (Manual)","interiorColors":[null,null,null,null],"variants":["SV","V","ZX","ZX+"],"price":["1199900","1329900","1525900","1614900"]},{"transType":"CVT (Automatic)","interiorColors":[null,null,null,null],"variants":["V","ZX","ZX+"],"price":["1429900","1625900","1714900",null]}]},{"resourceFuelType":"e:HEV","fuelType":["Petrol","e:HEV"],"transmission":["CVT (Automatic)"],"grade":[{"transType":"CVT (Automatic)","interiorColors":[null],"variants":["ZX+ e:HEV"],"price":["2099900"]}]},{"exterior":[{"id":13,"carName":"All New 
+
+  __NEXT_DATA__ around "variants":
+  Colors":[null,null,null,null],"variants":["SV","V","ZX","ZX+"],"price":["1199900","1329900","1525900","1614900"]},{"transType":"CVT (Automatic)","interiorColors":[null,null,null,null],"variants":["V","ZX","ZX+"],"price":["1429900","1625900","1714900",null]}]},{"resourceFuelType":"e:HEV","fuelType":["Petrol","e:HEV"],"transmission":["CVT (Automatic)"],"grade":[{"transType":"CVT (Automatic)","interiorColors":[null],"variants":["ZX+ e:HEV"],"price":["2099900"]}]},{"exterior":[{"id":13,"carName":"All New City","description":"Welcome to the power that thinks further, sees further and leads ahead. The Honda sensing Enabled New C
+
+======================================================================
+PAGE: https://www.hondacarindia.com/check-price/honda-amaze
+======================================================================
+  page status: 200
+
+  --- useful JSON APIs (1) ---
+  API: https://www.hondacarindia.com/_next/data/BASUSSBWMUt_vlP4OWNYX/honda-0-series.json
+  {"pageProps": {"carLogoImageUrl": "", "carHeaderText": "", "carID": 0, "vrUrl": "", "dcUrl": "", "techOverview": [{"PN_Price": "1437500", "firstResourceName": "Engine Capacity", "firstResourceValue": "1498", "firstResourceType": "cc", "secondResourceName": "Mileage (km/l)", "secondResourceValue": "18.40", "secondResourceType": "Petrol (CVT)", "thirdResourceName": "Transmission (Speed)", "thirdResourceValue": "7", "thirdResourceType": "CVT(Automatic)"}, {"PN_Price": "1437500", "firstResourceName": "Engine Capacity", "firstResourceValue": "1498", "firstResourceType": "cc", "secondResourceName": "Mileage (km/l)", "secondResourceValue": "18.40", "secondResourceType": "Petrol (CVT)", "thirdResourceName": "Transmission (Speed)", "thirdResourceValue": "7", "thirdResourceType": "CVT(Automatic)"}], "otherCarsModelData": [{"PN_name": "New City", "PN_Url": "/images/models/all-new-city.jpg", "PN_Siteurl": "honda-city", "PN_Price": "1199900", "PN_id_pk": 32, "dcUrl": "https://virtualshowroom.hondacarindia.com/honda-city/?utm_source=hondacarindia&utm_medium=modelpage_car_card_lineup&utm_campaign=direct_connect_advisor#/car/honda-city", "logoUrl": "/models/2023/city5thGen/Logo/Logo_City_White_Background.png", "car_model_images": [{"image_url": "/models/carModelImage/modelimages2026/city.png", "mobile_image_url": "/models/carModelImage/modelimages2026/city.png", "isImageDefault": true, "isMobileImageDefault": true}, {"image_url": "/models/animations/dummy/2.png", "mobile_image_url": "/models
+
+  --- getCarPrice auto-calls (1) ---
+  POST body: {"city":"Delhi","fuelType":"Petrol","transmission":"MT (Manual)","variant":"V"}
+  resp: {"code":200,"data":[{"P_Price":"1206190","rtoPrice":0,"insurancePrice":0,"tcs":0,"hypothecation":0,"fastTag":0,"basicKit":0,"totalPrice":1206190}]}
+
+  __NEXT_DATA__ around "fuelType":
+  [{"resourceFuelType":"Petrol","fuelType":["Petrol"],"transmission":["MT (Manual)","CVT (Automatic)"],"grade":[{"transType":"MT (Manual)","interiorColors":[null,null,null],"variants":["V","VX","ZX"],"price":["751390","851990","925190"]},{"transType":"CVT (Automatic)","interiorColors":[null,null,null],"variants":["V","VX","ZX"],"price":["865690","925190","999900"]}]},{"exterior":[{"id":51,"carName":"All New Amaze","description":"Confident design philosophy","colorId":49,"imageUrl":"https://www.hondacarindia.com/web-data/models/2024/newAmaze/exterior360Desktop/AMAZE_EXT_360_OBSEDIAN_BLUE_V-3__00009_chooseCar.png","mobileImage
+
+  __NEXT_DATA__ around "transmission":
+  Petrol","fuelType":["Petrol"],"transmission":["MT (Manual)","CVT (Automatic)"],"grade":[{"transType":"MT (Manual)","interiorColors":[null,null,null],"variants":["V","VX","ZX"],"price":["751390","851990","925190"]},{"transType":"CVT (Automatic)","interiorColors":[null,null,null],"variants":["V","VX","ZX"],"price":["865690","925190","999900"]}]},{"exterior":[{"id":51,"carName":"All New Amaze","description":"Confident design philosophy","colorId":49,"imageUrl":"https://www.hondacarindia.com/web-data/models/2024/newAmaze/exterior360Desktop/AMAZE_EXT_360_OBSEDIAN_BLUE_V-3__00009_chooseCar.png","mobileImageUrl":"https://www.hond
+
+  __NEXT_DATA__ around "variants":
+  eriorColors":[null,null,null],"variants":["V","VX","ZX"],"price":["751390","851990","925190"]},{"transType":"CVT (Automatic)","interiorColors":[null,null,null],"variants":["V","VX","ZX"],"price":["865690","925190","999900"]}]},{"exterior":[{"id":51,"carName":"All New Amaze","description":"Confident design philosophy","colorId":49,"imageUrl":"https://www.hondacarindia.com/web-data/models/2024/newAmaze/exterior360Desktop/AMAZE_EXT_360_OBSEDIAN_BLUE_V-3__00009_chooseCar.png","mobileImageUrl":"https://www.hondacarindia.com/web-data/models/2024/newAmaze/exterior360Desktop/AMAZE_EXT_360_OBSEDIAN_BLUE_V-3__00009_chooseCar.png","b
+
+======================================================================
+PAGE: https://www.hondacarindia.com/check-price/honda-elevate
+======================================================================
+  page status: 200
+
+  --- useful JSON APIs (1) ---
+  API: https://www.hondacarindia.com/_next/data/BASUSSBWMUt_vlP4OWNYX/honda-0-series.json
+  {"pageProps": {"carLogoImageUrl": "", "carHeaderText": "", "carID": 0, "vrUrl": "", "dcUrl": "", "techOverview": [{"PN_Price": "1437500", "firstResourceName": "Engine Capacity", "firstResourceValue": "1498", "firstResourceType": "cc", "secondResourceName": "Mileage (km/l)", "secondResourceValue": "18.40", "secondResourceType": "Petrol (CVT)", "thirdResourceName": "Transmission (Speed)", "thirdResourceValue": "7", "thirdResourceType": "CVT(Automatic)"}, {"PN_Price": "1437500", "firstResourceName": "Engine Capacity", "firstResourceValue": "1498", "firstResourceType": "cc", "secondResourceName": "Mileage (km/l)", "secondResourceValue": "18.40", "secondResourceType": "Petrol (CVT)", "thirdResourceName": "Transmission (Speed)", "thirdResourceValue": "7", "thirdResourceType": "CVT(Automatic)"}], "otherCarsModelData": [{"PN_name": "New City", "PN_Url": "/images/models/all-new-city.jpg", "PN_Siteurl": "honda-city", "PN_Price": "1199900", "PN_id_pk": 32, "dcUrl": "https://virtualshowroom.hondacarindia.com/honda-city/?utm_source=hondacarindia&utm_medium=modelpage_car_card_lineup&utm_campaign=direct_connect_advisor#/car/honda-city", "logoUrl": "/models/2023/city5thGen/Logo/Logo_City_White_Background.png", "car_model_images": [{"image_url": "/models/carModelImage/modelimages2026/city.png", "mobile_image_url": "/models/carModelImage/modelimages2026/city.png", "isImageDefault": true, "isMobileImageDefault": true}, {"image_url": "/models/animations/dummy/2.png", "mobile_image_url": "/models
+
+  --- getCarPrice auto-calls (1) ---
+  POST body: {"city":"Delhi","fuelType":"Petrol","transmission":"MT (Manual)","variant":"SV"}
+  resp: {"code":200,"data":[{"P_Price":"1159890","rtoPrice":0,"insurancePrice":0,"tcs":0,"hypothecation":0,"fastTag":0,"basicKit":0,"totalPrice":1159890}]}
+
+  __NEXT_DATA__ around "fuelType":
+  [{"resourceFuelType":"Petrol","fuelType":["Petrol"],"transmission":["MT (Manual)","CVT (Automatic)"],"grade":[{"transType":"MT (Manual)","interiorColors":[null,null,null,["Brown","Ivory"],null,null],"variants":["SV","V","VX","ZX","ZX Black","ADV Edition"],"price":["1159890","1206190","1374890","1497790","1507490","1538990"]},{"transType":"CVT (Automatic)","interiorColors":[null,null,["Brown","Ivory"],null,null,null],"variants":["V","VX","ZX","ZX Black","ADV Edition"],"price":["1322090","1490790","1615590","1625290","1656790",null]}]},{"exterior":[{"id":42,"carName":"All-New Elevate","description":"Always ready for your adv
+
+  __NEXT_DATA__ around "transmission":
+  Petrol","fuelType":["Petrol"],"transmission":["MT (Manual)","CVT (Automatic)"],"grade":[{"transType":"MT (Manual)","interiorColors":[null,null,null,["Brown","Ivory"],null,null],"variants":["SV","V","VX","ZX","ZX Black","ADV Edition"],"price":["1159890","1206190","1374890","1497790","1507490","1538990"]},{"transType":"CVT (Automatic)","interiorColors":[null,null,["Brown","Ivory"],null,null,null],"variants":["V","VX","ZX","ZX Black","ADV Edition"],"price":["1322090","1490790","1615590","1625290","1656790",null]}]},{"exterior":[{"id":42,"carName":"All-New Elevate","description":"Always ready for your adventures, by making you
+
+  __NEXT_DATA__ around "variants":
+  ,["Brown","Ivory"],null,null],"variants":["SV","V","VX","ZX","ZX Black","ADV Edition"],"price":["1159890","1206190","1374890","1497790","1507490","1538990"]},{"transType":"CVT (Automatic)","interiorColors":[null,null,["Brown","Ivory"],null,null,null],"variants":["V","VX","ZX","ZX Black","ADV Edition"],"price":["1322090","1490790","1615590","1625290","1656790",null]}]},{"exterior":[{"id":42,"carName":"All-New Elevate","description":"Always ready for your adventures, by making you move freely. Honda Elevate allows you to express your unique style, the true manifestation of 'Urban Freestyler'.","colorId":35,"imageUrl":"https:
+
+======================================================================
+PAGE: https://www.hondacarindia.com/check-price/honda-zrv
+======================================================================
+  page status: 200
+
+  --- useful JSON APIs (0) ---
+
+  __NEXT_DATA__ around "fuelType":
+  ceFuelType":"Electric Hybrid","fuelType":["Electric Hybrid"],"transmission":["CVT (Automatic)"],"grade":[{"transType":"CVT (Automatic)","interiorColors":[null],"variants":["ZRV"],"price":["1639400"]}]},{"exterior":[{"id":64,"carName":"ZR-V","description":"Welcome to the power that thinks further, sees further and leads ahead. The Honda sensing Enabled New City","colorId":56,"imageUrl":"https://www.hondacarindia.com/web-data/models/2026/zrv/Exterior/ZR-V_PURPLE_01_desk/ZR-V_PURPLE_01_desk_00.jpg","mobileImageUrl":"https://www.hondacarindia.com/web-data/models/2026/zrv/Exterior/ZR-V_PURPLE_01_mob/ZR-V_PURPLE_01_mob_00.jpg","
+
+  __NEXT_DATA__ around "transmission":
+  fuelType":["Electric Hybrid"],"transmission":["CVT (Automatic)"],"grade":[{"transType":"CVT (Automatic)","interiorColors":[null],"variants":["ZRV"],"price":["1639400"]}]},{"exterior":[{"id":64,"carName":"ZR-V","description":"Welcome to the power that thinks further, sees further and leads ahead. The Honda sensing Enabled New City","colorId":56,"imageUrl":"https://www.hondacarindia.com/web-data/models/2026/zrv/Exterior/ZR-V_PURPLE_01_desk/ZR-V_PURPLE_01_desk_00.jpg","mobileImageUrl":"https://www.hondacarindia.com/web-data/models/2026/zrv/Exterior/ZR-V_PURPLE_01_mob/ZR-V_PURPLE_01_mob_00.jpg","bookingImageUrl":"https://www.h
+
+  __NEXT_DATA__ around "variants":
+  tic)","interiorColors":[null],"variants":["ZRV"],"price":["1639400"]}]},{"exterior":[{"id":64,"carName":"ZR-V","description":"Welcome to the power that thinks further, sees further and leads ahead. The Honda sensing Enabled New City","colorId":56,"imageUrl":"https://www.hondacarindia.com/web-data/models/2026/zrv/Exterior/ZR-V_PURPLE_01_desk/ZR-V_PURPLE_01_desk_00.jpg","mobileImageUrl":"https://www.hondacarindia.com/web-data/models/2026/zrv/Exterior/ZR-V_PURPLE_01_mob/ZR-V_PURPLE_01_mob_00.jpg","bookingImageUrl":"https://www.hondacarindia.com/web-data/models/2026/zrv/Exterior/ZR-V_PURPLE_01_desk/ZR-V_PURPLE_01_desk_00.jpg",
+
+======================================================================
+PAGE: https://www.hondacarindia.com/check-price/honda-amaze-2g
+======================================================================
+  page status: 200
+
+  --- useful JSON APIs (1) ---
+  API: https://www.hondacarindia.com/_next/data/BASUSSBWMUt_vlP4OWNYX/honda-0-series.json
+  {"pageProps": {"carLogoImageUrl": "", "carHeaderText": "", "carID": 0, "vrUrl": "", "dcUrl": "", "techOverview": [{"PN_Price": "1437500", "firstResourceName": "Engine Capacity", "firstResourceValue": "1498", "firstResourceType": "cc", "secondResourceName": "Mileage (km/l)", "secondResourceValue": "18.40", "secondResourceType": "Petrol (CVT)", "thirdResourceName": "Transmission (Speed)", "thirdResourceValue": "7", "thirdResourceType": "CVT(Automatic)"}, {"PN_Price": "1437500", "firstResourceName": "Engine Capacity", "firstResourceValue": "1498", "firstResourceType": "cc", "secondResourceName": "Mileage (km/l)", "secondResourceValue": "18.40", "secondResourceType": "Petrol (CVT)", "thirdResourceName": "Transmission (Speed)", "thirdResourceValue": "7", "thirdResourceType": "CVT(Automatic)"}], "otherCarsModelData": [{"PN_name": "New City", "PN_Url": "/images/models/all-new-city.jpg", "PN_Siteurl": "honda-city", "PN_Price": "1199900", "PN_id_pk": 32, "dcUrl": "https://virtualshowroom.hondacarindia.com/honda-city/?utm_source=hondacarindia&utm_medium=modelpage_car_card_lineup&utm_campaign=direct_connect_advisor#/car/honda-city", "logoUrl": "/models/2023/city5thGen/Logo/Logo_City_White_Background.png", "car_model_images": [{"image_url": "/models/carModelImage/modelimages2026/city.png", "mobile_image_url": "/models/carModelImage/modelimages2026/city.png", "isImageDefault": true, "isMobileImageDefault": true}, {"image_url": "/models/animations/dummy/2.png", "mobile_image_url": "/models
+
+  --- getCarPrice auto-calls (1) ---
+  POST body: {"city":"Delhi","fuelType":"Petrol","transmission":"MT (Manual)","variant":"S"}
+  resp: {"code":200,"data":[{"P_Price":"697700","rtoPrice":0,"insurancePrice":0,"tcs":0,"hypothecation":0,"fastTag":0,"basicKit":0,"totalPrice":697700}]}
+
+  __NEXT_DATA__ around "fuelType":
+  [{"resourceFuelType":"Petrol","fuelType":["Petrol"],"transmission":["MT (Manual)","CVT (Automatic)"],"grade":[{"transType":"MT (Manual)","interiorColors":[null],"variants":["S"],"price":["697700"]},{"transType":"CVT (Automatic)","interiorColors":[null],"variants":["S"],"price":["779800"]}]},{"exterior":[{"id":1,"carName":"Honda Amaze","description":"New attitude. Fresh confidence. A look to mesmerise the world.","colorId":1,"imageUrl":"https://www.hondacarindia.com/web-data/models/exterior/amaze/radiant_red_mettalic_14April.png","mobileImageUrl":"https://www.hondacarindia.com/web-data/models/exterior/amaze/radiant_red_mett
+
+  __NEXT_DATA__ around "transmission":
+  Petrol","fuelType":["Petrol"],"transmission":["MT (Manual)","CVT (Automatic)"],"grade":[{"transType":"MT (Manual)","interiorColors":[null],"variants":["S"],"price":["697700"]},{"transType":"CVT (Automatic)","interiorColors":[null],"variants":["S"],"price":["779800"]}]},{"exterior":[{"id":1,"carName":"Honda Amaze","description":"New attitude. Fresh confidence. A look to mesmerise the world.","colorId":1,"imageUrl":"https://www.hondacarindia.com/web-data/models/exterior/amaze/radiant_red_mettalic_14April.png","mobileImageUrl":"https://www.hondacarindia.com/web-data/models/exterior/amaze/radiant_red_mettalic_14April.png","boo
+
+  __NEXT_DATA__ around "variants":
+  ual)","interiorColors":[null],"variants":["S"],"price":["697700"]},{"transType":"CVT (Automatic)","interiorColors":[null],"variants":["S"],"price":["779800"]}]},{"exterior":[{"id":1,"carName":"Honda Amaze","description":"New attitude. Fresh confidence. A look to mesmerise the world.","colorId":1,"imageUrl":"https://www.hondacarindia.com/web-data/models/exterior/amaze/radiant_red_mettalic_14April.png","mobileImageUrl":"https://www.hondacarindia.com/web-data/models/exterior/amaze/radiant_red_mettalic_14April.png","bookingImageUrl":"https://www.hondacarindia.com/web-data/models/exterior/amaze/radiant_red_mettalic_14April.png"

@@ -1,0 +1,27 @@
+
+======================================================================
+MODEL: Skoda Kushaq
+======================================================================
+
+  TRY: https://www.cardekho.com/skoda/kushaq/price
+    status: 200
+    ✓ embedded JSON me 23 exact prices: [100000, 200000, 300000, 500000, 699000, 800000, 969000, 999000, 1000000, 1089059, 1259000, 1500000, 1599000, 1879000, 1890001]
+    near "variantName": "variantName":"","vehicleSegment":"","vehiclePrice":"","engineCapacity":"","fuelType":"","leadForms":"","isUserOnline":"yes","cityRegion":"new delhi","modelType":"","transmissionType":"","compareVariants":"","leadLocation":"","leadType":"dcb:no_finance:yes_upcoming:no","connectoI
+
+======================================================================
+MODEL: Maruti Swift
+======================================================================
+
+  TRY: https://www.cardekho.com/maruti-suzuki/swift/price
+    status: 200
+    ✓ embedded JSON me 23 exact prices: [100000, 200000, 300000, 500000, 699000, 800000, 969000, 999000, 1000000, 1089059, 1259000, 1500000, 1599000, 1879000, 1890001]
+    near "variantName": "variantName":"","vehicleSegment":"","vehiclePrice":"","engineCapacity":"","fuelType":"","leadForms":"","isUserOnline":"yes","cityRegion":"new delhi","modelType":"","transmissionType":"","compareVariants":"","leadLocation":"","leadType":"dcb:no_finance:yes_upcoming:no","connectoI
+
+======================================================================
+MODEL: Hyundai Creta
+======================================================================
+
+  TRY: https://www.cardekho.com/hyundai/creta/price
+    status: 200
+    ✓ embedded JSON me 23 exact prices: [100000, 200000, 300000, 500000, 699000, 800000, 969000, 999000, 1000000, 1089059, 1259000, 1500000, 1599000, 1879000, 1890001]
+    near "variantName": "variantName":"","vehicleSegment":"","vehiclePrice":"","engineCapacity":"","fuelType":"","leadForms":"","isUserOnline":"yes","cityRegion":"new delhi","modelType":"","transmissionType":"","compareVariants":"","leadLocation":"","leadType":"dcb:no_finance:yes_upcoming:no","connectoI

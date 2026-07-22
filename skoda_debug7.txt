@@ -1,0 +1,32 @@
+
+======================================================================
+MODEL: Kushaq  →  https://www.skoda-auto.co.in/models/kushaq/kushaq
+======================================================================
+  status: 200
+  ₹-elements mile: 1
+    PRICE: The   starts at ₹10.69 Lakh in India. Fo
+      ctx: The new Škoda Kushaq starts at ₹10.69 Lakh in India. For the latest pricing of other variants, visit the Check Price page or contact your nearest Skoda dealersh
+  trims dikhe: ['Classic', 'Signature', 'Active', 'Sportline', 'Prestige', 'Monte Carlo']
+
+======================================================================
+MODEL: Slavia  →  https://www.skoda-auto.co.in/models/slavia/slavia
+======================================================================
+  status: 200
+  ₹-elements mile: 0
+  trims dikhe: ['Classic', 'Signature', 'Sportline', 'Prestige', 'Monte Carlo']
+
+======================================================================
+MODEL: Kylaq  →  https://www.skoda-auto.co.in/models/kylaq/kylaq
+======================================================================
+  status: 200
+  ₹-elements mile: 0
+  trims dikhe: []
+
+======================================================================
+MODEL: Kodiaq  →  https://www.skoda-auto.co.in/models/kodiaq/kodiaq
+======================================================================
+  status: 200
+  ₹-elements mile: 1
+    PRICE: The Škoda Kodiaq starts at ₹36.99 Lakh i
+      ctx: 
+  trims dikhe: ['Sportline', 'Selection', 'Lounge', 'L&K']

@@ -1,0 +1,64 @@
+Homepage khol rahe hain...
+homepage status: 200
+final URL: https://cross.skoda-auto.com/sdrive/sync.html?v=2#s_aid=_663_0&s_ref=https%3A%2F%2Fwww.skoda-auto.co.in%2F
+
+total links: 110
+
+=== relevant links (20) ===
+  https://www.skoda-auto.co.in/aid/checkprice
+  https://www.skoda-auto.co.in/awards/award-detail/abp-awards-2025-subc-suv--of-the-year-skoda-kylaq
+  https://www.skoda-auto.co.in/awards/award-detail/topgear-india-awards-2026-mid-size-suv-of-the-year-skoda-kodiaq
+  https://www.skoda-auto.co.in/awards/award-detail/topgear-india-awards-2026-sub-compact-suv-of-the-year-skoda-kylaq
+  https://www.skoda-auto.co.in/models/kodiaq-rs/kodiaq-rs
+  https://www.skoda-auto.co.in/models/kodiaq/kodiaq
+  https://www.skoda-auto.co.in/models/kushaq/kushaq
+  https://www.skoda-auto.co.in/models/kylaq/kylaq
+  https://www.skoda-auto.co.in/models/range
+  https://www.skoda-auto.co.in/models/range#activeRangeFilterKey=City
+  https://www.skoda-auto.co.in/models/range#activeRangeFilterKey=Family
+  https://www.skoda-auto.co.in/models/range#activeRangeFilterKey=Outdoor
+  https://www.skoda-auto.co.in/models/slavia/slavia
+  https://www.skoda-auto.co.in/news/news-detail/reservations-open-for-skoda-kodiaq-rs-surrender-now
+  https://www.skoda-auto.co.in/news/news-detail/skoda-auto-expands-the-rs-legacy-with-the-new-kodiaq-rs
+  https://www.skoda-auto.co.in/news/news-detail/skoda-auto-indias-kylaq-completes-pune-prague-drive
+  https://www.skoda-auto.co.in/shopping/kodiaq-test-drive
+  https://www.skoda-auto.co.in/shopping/kushaq-book-a-testdrive
+  https://www.skoda-auto.co.in/shopping/kylaq-book-a-test-drive
+  https://www.skoda-auto.co.in/shopping/slavia-book-a-testdrive
+
+======================================================================
+VISIT: https://www.skoda-auto.co.in/aid/checkprice
+======================================================================
+  status: 200
+
+======================================================================
+VISIT: https://www.skoda-auto.co.in/awards/award-detail/abp-awards-2025-subc-suv--of-the-year-skoda-kylaq
+======================================================================
+  status: 200
+
+======================================================================
+VISIT: https://www.skoda-auto.co.in/awards/award-detail/topgear-india-awards-2026-mid-size-suv-of-the-year-skoda-kodiaq
+======================================================================
+  status: 200
+
+======================================================================
+VISIT: https://www.skoda-auto.co.in/awards/award-detail/topgear-india-awards-2026-sub-compact-suv-of-the-year-skoda-kylaq
+======================================================================
+  status: 200
+
+======================================================================
+VISIT: https://www.skoda-auto.co.in/models/kodiaq-rs/kodiaq-rs
+======================================================================
+  status: 200
+  Page ₹ prices (1):
+    ₹66,99,000.00
+
+======================================================================
+VISIT: https://www.skoda-auto.co.in/models/kodiaq/kodiaq
+======================================================================
+  status: 200
+  --- price JSON APIs (1) ---
+  API: https://visualizer.skoda-auto.com/663/en-IN/api/importer
+       {"importer":{"selectedEnergyEfficiencyFuelTypes":[],"energyEfficiencyClass":"Minimum","energyEfficiencyMode":"None","energyEfficiencyIcon":null,"energyEfficiencyLabel":null,"legalEntityId":"663","submitTargetCert":null,"email":null,"market":null,"cou
+  Page ₹ prices (1):
+    ₹36,99,000.00

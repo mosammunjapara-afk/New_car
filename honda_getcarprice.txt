@@ -1,0 +1,60 @@
+
+======================================================================
+PAGE: https://www.hondacarindia.com/honda-city/price
+======================================================================
+  page status: 200
+
+  --- getCarPrice REQUESTS (1) ---
+  [POST] https://www.hondacarindia.com/api/getCarPrice
+    POST BODY: {"city":"Delhi","fuelType":"Petrol","transmission":"MT (Manual)","variant":"SV"}
+    header content-type: application/json
+    header referer: https://www.hondacarindia.com/check-price/honda-city
+
+  --- getCarPrice RESPONSES (1) ---
+  [POST] status=200
+  RESPONSE JSON (full, pehle 5000 chars):
+{
+  "code": 200,
+  "data": [
+    {
+      "P_Price": "1159890",
+      "rtoPrice": 0,
+      "insurancePrice": 0,
+      "tcs": 0,
+      "hypothecation": 0,
+      "fastTag": 0,
+      "basicKit": 0,
+      "totalPrice": 1159890
+    }
+  ]
+}
+
+======================================================================
+PAGE: https://www.hondacarindia.com/honda-amaze/price
+======================================================================
+  page status: 200
+
+  --- getCarPrice REQUESTS (1) ---
+  [POST] https://www.hondacarindia.com/api/getCarPrice
+    POST BODY: {"city":"Delhi","fuelType":"Petrol","transmission":"MT (Manual)","variant":"V"}
+    header content-type: application/json
+    header referer: https://www.hondacarindia.com/check-price/honda-amaze
+
+  --- getCarPrice RESPONSES (1) ---
+  [POST] status=200
+  RESPONSE JSON (full, pehle 5000 chars):
+{
+  "code": 200,
+  "data": [
+    {
+      "P_Price": "1206190",
+      "rtoPrice": 0,
+      "insurancePrice": 0,
+      "tcs": 0,
+      "hypothecation": 0,
+      "fastTag": 0,
+      "basicKit": 0,
+      "totalPrice": 1206190
+    }
+  ]
+}

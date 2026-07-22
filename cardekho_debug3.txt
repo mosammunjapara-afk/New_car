@@ -1,0 +1,144 @@
+
+======================================================================
+MODEL: Skoda Kushaq  →  https://www.cardekho.com/skoda/kushaq/price
+======================================================================
+  status: 200
+
+  ld+json blocks: 2
+  ld+json[0] (price-related, 803 chars):
+    [{"contactPoint": {"@type": "ContactPoint", "contactType": "customer support", "telephone": "+1800-200-30007", "email": "support@cardekho.com"}, "@type": "Organization", "name": "CarDekho", "logo": {"@type": "ImageObject", "Height": "240px", "Width": "60px", "url": "https://stimg.cardekho.com/pwa/img/CarDekho-Logo.jpg"}, "parentOrganization": {"@type": "Organization", "name": "GirnarSoft", "logo": {"@type": "ImageObject", "Height": "240px", "Width": "60px", "url": "http://girnarsoft.com/images/logonew.gif"}, "url": "http://girnarsoft.com/"}, "@context": "https://schema.org", "url": "https://www.cardekho.com", "sameAs": ["https://www.facebook.com/CarDekho/", "https://twitter.com/CarDekho", "h
+  ld+json[1] (price-related, 347 chars):
+    {"@context": "https://schema.org", "@type": "WebPage", "name": "CarDekho: New Cars, Car Prices, Buy & Sell Used Cars in India", "description": "Thinking of buying a car? At CarDekho.com, buy new and used cars, search by filter and preferences, compare cars, read latest news and updates, see 360 views & more!", "url": "https://www.cardekho.com/"}
+
+  price-table rows (143):
+    LAUNCHED ON : JUL 9, 2026 Nissan Tekton Rs10.49 - 18.59 Lakh* View July Off
+    Nissan Tekton Rs10.49 - 18.59 Lakh* View July Offers
+    Rs10.49 - 18.59 Lakh*
+    Tata Sierra Rs11.49 - 21.29 Lakh* View July Offers
+    Rs11.49 - 21.29 Lakh*
+    Tata Punch Rs5.70 - 10.67 Lakh* View July Offers
+    Rs5.70 - 10.67 Lakh*
+    Maruti Suzuki Brezza Rs8.26 - 13.01 Lakh* View July Offers
+    Rs8.26 - 13.01 Lakh*
+    Mahindra Thar Rs9.99 - 17.62 Lakh* View July Offers
+    Rs9.99 - 17.62 Lakh*
+    Maruti Suzuki FRONX Rs6.85 - 11.98 Lakh* View July Offers
+    Rs6.85 - 11.98 Lakh*
+    Mahindra Scorpio N Rs13.49 - 24.95 Lakh* View July Offers
+    Rs13.49 - 24.95 Lakh*
+    Mahindra Scorpio Rs13 - 17 Lakh* View July Offers
+    Rs13 - 17 Lakh*
+    Tata Nexon Rs7.37 - 14.22 Lakh* View July Offers
+    Rs7.37 - 14.22 Lakh*
+    Toyota Fortuner Rs34.76 - 50.46 Lakh* View July Offers
+    Rs34.76 - 50.46 Lakh*
+    Maruti Suzuki SwiftRs5.79 - 8.80 Lakh*View July Offers
+    Rs5.79 - 8.80 Lakh*
+    Tata TiagoRs4.70 - 8.55 Lakh*View July Offers
+    Rs4.70 - 8.55 Lakh*
+    Maruti Suzuki BalenoRs5.99 - 9.17 Lakh*View July Offers
+    Rs5.99 - 9.17 Lakh*
+    Hyundai i20Rs6 - 10.48 Lakh*View July Offers
+    Rs6 - 10.48 Lakh*
+    Maruti Suzuki Wagon RRs4.99 - 6.95 Lakh*View July Offers
+    Rs4.99 - 6.95 Lakh*
+    Maruti Suzuki Alto K10Rs3.70 - 5.45 Lakh*View July Offers
+    Rs3.70 - 5.45 Lakh*
+    Maruti Suzuki DzireRs6.26 - 9.36 Lakh*View July Offers
+    Rs6.26 - 9.36 Lakh*
+
+======================================================================
+MODEL: Maruti Swift  →  https://www.cardekho.com/maruti-suzuki/swift/price
+======================================================================
+  status: 200
+
+  ld+json blocks: 2
+  ld+json[0] (price-related, 803 chars):
+    [{"contactPoint": {"@type": "ContactPoint", "contactType": "customer support", "telephone": "+1800-200-30007", "email": "support@cardekho.com"}, "@type": "Organization", "name": "CarDekho", "logo": {"@type": "ImageObject", "Height": "240px", "Width": "60px", "url": "https://stimg.cardekho.com/pwa/img/CarDekho-Logo.jpg"}, "parentOrganization": {"@type": "Organization", "name": "GirnarSoft", "logo": {"@type": "ImageObject", "Height": "240px", "Width": "60px", "url": "http://girnarsoft.com/images/logonew.gif"}, "url": "http://girnarsoft.com/"}, "@context": "https://schema.org", "url": "https://www.cardekho.com", "sameAs": ["https://www.facebook.com/CarDekho/", "https://twitter.com/CarDekho", "h
+  ld+json[1] (price-related, 347 chars):
+    {"@context": "https://schema.org", "@type": "WebPage", "name": "CarDekho: New Cars, Car Prices, Buy & Sell Used Cars in India", "description": "Thinking of buying a car? At CarDekho.com, buy new and used cars, search by filter and preferences, compare cars, read latest news and updates, see 360 views & more!", "url": "https://www.cardekho.com/"}
+
+  price-table rows (143):
+    LAUNCHED ON : JUL 9, 2026 Nissan Tekton Rs10.49 - 18.59 Lakh* View July Off
+    Nissan Tekton Rs10.49 - 18.59 Lakh* View July Offers
+    Rs10.49 - 18.59 Lakh*
+    Tata Sierra Rs11.49 - 21.29 Lakh* View July Offers
+    Rs11.49 - 21.29 Lakh*
+    Tata Punch Rs5.70 - 10.67 Lakh* View July Offers
+    Rs5.70 - 10.67 Lakh*
+    Maruti Suzuki Brezza Rs8.26 - 13.01 Lakh* View July Offers
+    Rs8.26 - 13.01 Lakh*
+    Mahindra Thar Rs9.99 - 17.62 Lakh* View July Offers
+    Rs9.99 - 17.62 Lakh*
+    Maruti Suzuki FRONX Rs6.85 - 11.98 Lakh* View July Offers
+    Rs6.85 - 11.98 Lakh*
+    Mahindra Scorpio N Rs13.49 - 24.95 Lakh* View July Offers
+    Rs13.49 - 24.95 Lakh*
+    Mahindra Scorpio Rs13 - 17 Lakh* View July Offers
+    Rs13 - 17 Lakh*
+    Tata Nexon Rs7.37 - 14.22 Lakh* View July Offers
+    Rs7.37 - 14.22 Lakh*
+    Toyota Fortuner Rs34.76 - 50.46 Lakh* View July Offers
+    Rs34.76 - 50.46 Lakh*
+    Maruti Suzuki SwiftRs5.79 - 8.80 Lakh*View July Offers
+    Rs5.79 - 8.80 Lakh*
+    Tata TiagoRs4.70 - 8.55 Lakh*View July Offers
+    Rs4.70 - 8.55 Lakh*
+    Maruti Suzuki BalenoRs5.99 - 9.17 Lakh*View July Offers
+    Rs5.99 - 9.17 Lakh*
+    Hyundai i20Rs6 - 10.48 Lakh*View July Offers
+    Rs6 - 10.48 Lakh*
+    Maruti Suzuki Wagon RRs4.99 - 6.95 Lakh*View July Offers
+    Rs4.99 - 6.95 Lakh*
+    Maruti Suzuki Alto K10Rs3.70 - 5.45 Lakh*View July Offers
+    Rs3.70 - 5.45 Lakh*
+    Maruti Suzuki DzireRs6.26 - 9.36 Lakh*View July Offers
+    Rs6.26 - 9.36 Lakh*
+
+======================================================================
+MODEL: Hyundai Creta  →  https://www.cardekho.com/hyundai/creta/price
+======================================================================
+  status: 200
+
+  ld+json blocks: 2
+  ld+json[0] (price-related, 803 chars):
+    [{"contactPoint": {"@type": "ContactPoint", "contactType": "customer support", "telephone": "+1800-200-30007", "email": "support@cardekho.com"}, "@type": "Organization", "name": "CarDekho", "logo": {"@type": "ImageObject", "Height": "240px", "Width": "60px", "url": "https://stimg.cardekho.com/pwa/img/CarDekho-Logo.jpg"}, "parentOrganization": {"@type": "Organization", "name": "GirnarSoft", "logo": {"@type": "ImageObject", "Height": "240px", "Width": "60px", "url": "http://girnarsoft.com/images/logonew.gif"}, "url": "http://girnarsoft.com/"}, "@context": "https://schema.org", "url": "https://www.cardekho.com", "sameAs": ["https://www.facebook.com/CarDekho/", "https://twitter.com/CarDekho", "h
+  ld+json[1] (price-related, 347 chars):
+    {"@context": "https://schema.org", "@type": "WebPage", "name": "CarDekho: New Cars, Car Prices, Buy & Sell Used Cars in India", "description": "Thinking of buying a car? At CarDekho.com, buy new and used cars, search by filter and preferences, compare cars, read latest news and updates, see 360 views & more!", "url": "https://www.cardekho.com/"}
+
+  price-table rows (143):
+    LAUNCHED ON : JUL 9, 2026 Nissan Tekton Rs10.49 - 18.59 Lakh* View July Off
+    Nissan Tekton Rs10.49 - 18.59 Lakh* View July Offers
+    Rs10.49 - 18.59 Lakh*
+    Tata Sierra Rs11.49 - 21.29 Lakh* View July Offers
+    Rs11.49 - 21.29 Lakh*
+    Tata Punch Rs5.70 - 10.67 Lakh* View July Offers
+    Rs5.70 - 10.67 Lakh*
+    Maruti Suzuki Brezza Rs8.26 - 13.01 Lakh* View July Offers
+    Rs8.26 - 13.01 Lakh*
+    Mahindra Thar Rs9.99 - 17.62 Lakh* View July Offers
+    Rs9.99 - 17.62 Lakh*
+    Maruti Suzuki FRONX Rs6.85 - 11.98 Lakh* View July Offers
+    Rs6.85 - 11.98 Lakh*
+    Mahindra Scorpio N Rs13.49 - 24.95 Lakh* View July Offers
+    Rs13.49 - 24.95 Lakh*
+    Mahindra Scorpio Rs13 - 17 Lakh* View July Offers
+    Rs13 - 17 Lakh*
+    Tata Nexon Rs7.37 - 14.22 Lakh* View July Offers
+    Rs7.37 - 14.22 Lakh*
+    Toyota Fortuner Rs34.76 - 50.46 Lakh* View July Offers
+    Rs34.76 - 50.46 Lakh*
+    Maruti Suzuki SwiftRs5.79 - 8.80 Lakh*View July Offers
+    Rs5.79 - 8.80 Lakh*
+    Tata TiagoRs4.70 - 8.55 Lakh*View July Offers
+    Rs4.70 - 8.55 Lakh*
+    Maruti Suzuki BalenoRs5.99 - 9.17 Lakh*View July Offers
+    Rs5.99 - 9.17 Lakh*
+    Hyundai i20Rs6 - 10.48 Lakh*View July Offers
+    Rs6 - 10.48 Lakh*
+    Maruti Suzuki Wagon RRs4.99 - 6.95 Lakh*View July Offers
+    Rs4.99 - 6.95 Lakh*
+    Maruti Suzuki Alto K10Rs3.70 - 5.45 Lakh*View July Offers
+    Rs3.70 - 5.45 Lakh*
+    Maruti Suzuki DzireRs6.26 - 9.36 Lakh*View July Offers
+    Rs6.26 - 9.36 Lakh*
