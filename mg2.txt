@@ -1,0 +1,50 @@
+Kholte hain: https://www.mgmotor.co.in/service/astor-my-mg-shield
+
+saved: mg_variants.json (667354 chars)
+URL: https://eeysubngbk.execute-api.ap-south-1.amazonaws.com/prod/api/variants
+
+top type: list
+items type: list
+total items: 10
+
+ek item ke keys: ['model_line', 'variants']
+
+ek item poora:
+{
+  "model_line": "MG_COMET_EV",
+  "variants": [
+    {
+      "passenger_capacity": 4,
+      "modelseries": "EXCLUSIVE FC",
+      "model_sales_code": "3020EBW",
+      "fuel_type": "05",
+      "vehicle_type": "AUTM",
+      "model_text1": "COMET EV EXCLUSIVE FC",
+      "year": "2025",
+      "BookingAmount": 21000,
+      "CancellationAmount": 0,
+      "interiorColor": [
+        {
+          "Material": "ICL_LGJ",
+          "Feature_Class": "C",
+          "Feature_Category": "ICL",
+          "Feature_Key": "LGJ",
+          "Feature_Text1": "Space Grey",
+          "Status_Indicator": "true"
+        }
+      ],
+      "color": [
+        {
+          "Material": "ECL_WB",
+          "Feature_Class": "C",
+          "Feature_Category": "ECL",
+          "Feature_Key": "WB",
+          "Feature_Text1": "Can
+
+--- saare items (model | variant | price) ---
+                    |                              |  | 
+                    |                              |  | 
+                    |                              |  | 
+                    |                              |  | 
+
+  models found: {'': 10}

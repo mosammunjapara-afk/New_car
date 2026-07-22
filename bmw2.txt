@@ -1,0 +1,72 @@
+Kholte hain: https://www.bmw.in/en/all-models.html
+
+'From ₹' blocks: 78
+  SUV New iX1 LWB Models Electric From ₹5,240,000
+  Electric From ₹5,240,000
+  From ₹5,240,000
+  Sedan i7 Models Electric From ₹21,000,000
+  Electric From ₹21,000,000
+  From ₹21,000,000
+  Sedan i7 M Model Electric From ₹25,800,000
+  Electric From ₹25,800,000
+  From ₹25,800,000
+  Sedan i5 M Model Electric From ₹11,950,000
+  Electric From ₹11,950,000
+  From ₹11,950,000
+  SUV XM Models Hybrid From ₹25,455,000
+  Hybrid From ₹25,455,000
+  From ₹25,455,000
+  Sedan M5 Models Hybrid From ₹21,150,000
+  Hybrid From ₹21,150,000
+  From ₹21,150,000
+  SUV Models Petrol From ₹13,340,000
+  Petrol From ₹13,340,000
+  From ₹13,340,000
+  SAV New X6 M Model Petrol From ₹17,790,000
+  Petrol From ₹17,790,000
+  From ₹17,790,000
+  SUV X5 Models Petrol From ₹9,690,000
+  Petrol From ₹9,690,000
+  From ₹9,690,000
+  SUV New X3 Models Petrol From ₹7,600,000
+  Petrol From ₹7,600,000
+  From ₹7,600,000
+  SUV X3 Models Petrol From ₹6,990,000
+  Petrol From ₹6,990,000
+  From ₹6,990,000
+  SUV X1 Models Petrol From ₹5,090,000
+  Petrol From ₹5,090,000
+  From ₹5,090,000
+  Sedan 5 LWB Models Petrol From ₹7,660,000
+  Petrol From ₹7,660,000
+  From ₹7,660,000
+  Cabrio 4 series M Models Petrol From ₹10,900,000
+
+
+=== body lines: ₹ ke around 3 upar ===
+  iX1 LWB | Models | Electric | From ₹5,240,000
+  i7 | Models | Electric | From ₹21,000,000
+  i7 | M Model | Electric | From ₹25,800,000
+  i5 | M Model | Electric | From ₹11,950,000
+  XM | Models | Hybrid | From ₹25,455,000
+  M5 | Models | Hybrid | From ₹21,150,000
+  SUV | Models | Petrol | From ₹13,340,000
+  X6 | M Model | Petrol | From ₹17,790,000
+  X5 | Models | Petrol | From ₹9,690,000
+  X3 | Models | Petrol | From ₹7,600,000
+  X3 | Models | Petrol | From ₹6,990,000
+  X1 | Models | Petrol | From ₹5,090,000
+  5 LWB | Models | Petrol | From ₹7,660,000
+  4 series | M Models | Petrol | From ₹10,900,000
+  M4 | Models | Petrol | From ₹16,050,000
+  3 series | M Models | Petrol | From ₹7,710,000
+  3 LWB | Models | Petrol | From ₹6,270,000
+  M2 | Models | Petrol | From ₹10,650,000
+  2 series | Models | Petrol | From ₹4,580,000
+  Z4 | M Model | Petrol | From ₹9,050,000
+  SUV | Models | Diesel | From ₹13,070,000
+  SUV | M Model | Diesel | From ₹13,710,000
+  X5 | Models | Diesel | From ₹9,890,000
+  X3 | Models | Diesel | From ₹7,550,000
+  X1 | Models | Diesel | From ₹5,290,000
+  3 LWB | Model | Diesel | From ₹6,420,000

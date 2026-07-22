@@ -1,0 +1,47 @@
+BMW homepage...
+  [200] https://www.bmw.in (final: https://www.bmw.in/en/index.html)
+  links (13):
+    https://www.bmw.in/en/all-models.html
+    https://www.bmw.in/en/all-models.html#2
+    https://www.bmw.in/en/all-models.html#3
+    https://www.bmw.in/en/all-models.html#5
+    https://www.bmw.in/en/all-models.html#7
+    https://www.bmw.in/en/all-models.html#x
+    https://www.bmw.in/en/all-models.html?bmwM=yes
+    https://www.bmw.in/en/all-models/bmw-i/iX1/2025/bmw-ix1-highlights.html
+    https://www.bmw.in/en/all-models/x-series/x3/X3-30.html
+    https://www.bmw.in/en/all-models/x-series/x3/bmw-x3.html
+    https://www.bmw.in/en/all-models/x-series/x6/x6-m60i.html
+    https://www.bmw.in/en/configurator.html
+    https://www.bmwindia.com/calculate-service?model=X-series-X1
+
+======================================================================
+PAGE: https://www.bmw.in/en/all-models.html
+======================================================================
+  status: 200
+  ₹ lines (26):
+    [Electric] -> From ₹5,240,000
+    [Electric] -> From ₹21,000,000
+    [Electric] -> From ₹25,800,000
+    [Electric] -> From ₹11,950,000
+    [Hybrid] -> From ₹25,455,000
+    [Hybrid] -> From ₹21,150,000
+    [Petrol] -> From ₹13,340,000
+    [Petrol] -> From ₹17,790,000
+    [Petrol] -> From ₹9,690,000
+    [Petrol] -> From ₹7,600,000
+    [Petrol] -> From ₹6,990,000
+    [Petrol] -> From ₹5,090,000
+    [Petrol] -> From ₹7,660,000
+    [Petrol] -> From ₹10,900,000
+    [Petrol] -> From ₹16,050,000
+
+======================================================================
+PAGE: https://www.bmw.in/en/all-models.html#2
+======================================================================
+  status: ?
+
+======================================================================
+PAGE: https://www.bmw.in/en/all-models.html#3
+======================================================================
+  status: ?

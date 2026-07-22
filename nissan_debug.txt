@@ -1,0 +1,35 @@
+Nissan homepage...
+  [200] https://www.nissan.in (final: https://www.nissan.in/)
+  model/price links (11):
+    https://magniteconfigurator.nissan.in/#/presentation
+    https://magniteconfigurator.nissan.in/#/presentation?prevPage=homepage
+    https://magniteconfigurator.nissan.in/#/presentation?restricted=yes
+    https://www.nissan.in/latest-news/nissan-motor-india-confirms-e20-compatible-vehicles-and-continued-warranty-protection-for-new-nissan-magnite-customers.html
+    https://www.nissan.in/latest-news/nissan-motor-india-extends-full-gst-advantage-to-customers-prices-now-reduced-up-to-Rs-1-lakh-on-top-end-variants.html
+    https://www.nissan.in/prices-list.html
+    https://www.nissan.in/vehicles/new/magnite/prices.html
+    https://www.nissan.in/vehicles/new/nissan-magnite.html
+    https://www.nissan.in/vehicles/new/nissan-magnite/accessories.html
+    https://www.nissan.in/vehicles/new/x-trail.html
+    https://www.one.nissan.in/request-a-callback?utm_variant=magnite
+
+======================================================================
+PAGE: https://magniteconfigurator.nissan.in/#/presentation
+======================================================================
+  status: 200
+
+======================================================================
+PAGE: https://magniteconfigurator.nissan.in/#/presentation?prevPage=homepage
+======================================================================
+  status: ?
+
+======================================================================
+PAGE: https://magniteconfigurator.nissan.in/#/presentation?restricted=yes
+======================================================================
+  status: ?
+
+======================================================================
+PAGE: https://www.nissan.in/latest-news/nissan-motor-india-confirms-e20-compatible-vehicles-and-continued-warranty-protection-for-new-nissan-magnite-customers.html
+======================================================================
+  status: 200
+  price links andar: ['https://www.nissan.in/prices-list.html']

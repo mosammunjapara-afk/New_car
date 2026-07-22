@@ -1,0 +1,57 @@
+Lexus homepage...
+  [200] https://www.lexusindia.co.in (final: https://www.lexusindia.co.in/)
+  links (29):
+    https://www.lexusindia.co.in//models/lx/
+    https://www.lexusindia.co.in/contact-us/book-a-test-drive
+    https://www.lexusindia.co.in/contact-us/book-a-test-drive/
+    https://www.lexusindia.co.in/discover-lexus/green-initiatives/
+    https://www.lexusindia.co.in/discover-lexus/lexus-creates/
+    https://www.lexusindia.co.in/discover-lexus/lexus-creates/lexus-experience/
+    https://www.lexusindia.co.in/discover-lexus/lexus-visionaries/
+    https://www.lexusindia.co.in/discover-lexus/tasteful-travels/
+    https://www.lexusindia.co.in/models/es-350h
+    https://www.lexusindia.co.in/models/es-350h/
+    https://www.lexusindia.co.in/models/es-500e
+    https://www.lexusindia.co.in/models/es-500e/
+    https://www.lexusindia.co.in/models/lm/
+    https://www.lexusindia.co.in/models/lm/lm-350h-4-seater-ultra-luxury/
+    https://www.lexusindia.co.in/models/lm/lm-350h-7-seater-vip/
+    https://www.lexusindia.co.in/models/lx/
+    https://www.lexusindia.co.in/models/lx/lx-500d-overtrail/
+    https://www.lexusindia.co.in/models/lx/lx-500d-urban/
+    https://www.lexusindia.co.in/models/nx/
+    https://www.lexusindia.co.in/models/nx/nx-350h-exquisite/
+    https://www.lexusindia.co.in/models/nx/nx-350h-f-sport/
+    https://www.lexusindia.co.in/models/nx/nx-350h-luxury/
+    https://www.lexusindia.co.in/models/nx/nx-350h-overtrail/
+    https://www.lexusindia.co.in/models/rx/
+    https://www.lexusindia.co.in/models/rx/rx-350h-exquisite/
+
+======================================================================
+PAGE: https://www.lexusindia.co.in//models/lx/
+======================================================================
+  status: 200
+  ₹ lines (3):
+    THE NEW LX | UNCHARTED LUXURY | From INR 2,81,40,000
+    LX 500d Urban | Diesel | INR 2,81,40,000
+    LX 500d Overtrail | Diesel | INR 2,92,66,000
+
+======================================================================
+PAGE: https://www.lexusindia.co.in/models/es-350h
+======================================================================
+  status: 200
+  ₹ lines (4):
+    INTRODUCING THE NEW | ES 350h | Starts From INR 66,1
+    Hybrid | Two Variants - Exqui | Starts From INR 66,1
+    19-Inch | WHEELS | INR 66,10,000
+    Heads-up | DISPLAY | INR 71,80,000
+
+======================================================================
+PAGE: https://www.lexusindia.co.in/models/es-350h/
+======================================================================
+  status: 200
+  ₹ lines (4):
+    INTRODUCING THE NEW | ES 350h | Starts From INR 66,1
+    Hybrid | Two Variants - Exqui | Starts From INR 66,1
+    19-Inch | WHEELS | INR 66,10,000
+    Heads-up | DISPLAY | INR 71,80,000

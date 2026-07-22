@@ -1,0 +1,56 @@
+
+============================================================
+NX: https://www.lexusindia.co.in/models/nx/
+============================================================
+  --- around line 15 ---
+     [12] THE NEW NX
+     [13] MOVES YOUR
+     [14] HEART
+  >> [15] From INR 67,59,000
+     [16] THE NX SERIES
+  --- around line 31 ---
+     [28] EXPLORE YOUR NX
+     [29] NX 350h Overtrail
+     [30] Hybrid Electric
+  >> [31] INR 71,43,000
+     [32] 236 HP
+  --- around line 42 ---
+     [39] View model variant details
+     [40] NX 350h Exquisite
+     [41] Hybrid Electric
+  >> [42] INR 67,59,000
+     [43] 236 HP
+  --- around line 53 ---
+     [50] View model variant details
+     [51] NX 350h Luxury
+     [52] Hybrid Electric
+  >> [53] INR 72,33,000
+     [54] 236 HP
+  --- around line 64 ---
+     [61] View model variant details
+     [62] NX 350h F SPORT
+     [63] Hybrid Electric, Performance
+  >> [64] INR 74,50,000
+     [65] 236 HP
+
+============================================================
+LX: https://www.lexusindia.co.in/models/lx/
+============================================================
+  --- around line 14 ---
+     [11] Lexus Life & Ownership
+     [12] THE NEW LX
+     [13] UNCHARTED LUXURY
+  >> [14] From INR 2,81,40,000
+     [15] THE NEW LX SERIES
+  --- around line 30 ---
+     [27] EXPLORE YOUR LX
+     [28] LX 500d Urban
+     [29] Diesel
+  >> [30] INR 2,81,40,000
+     [31] 304
+  --- around line 41 ---
+     [38] View model variant details
+     [39] LX 500d Overtrail
+     [40] Diesel
+  >> [41] INR 2,92,66,000
+     [42] 304

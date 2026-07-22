@@ -1,0 +1,98 @@
+Citroen homepage...
+  [200] https://www.citroen.in (final: https://www.citroen.in/)
+  model/price links (12):
+    https://www.citroen.in/models/aircross.html
+    https://www.citroen.in/models/aircross.html#comfort
+    https://www.citroen.in/models/basalt.html
+    https://www.citroen.in/models/c3.html
+    https://www.citroen.in/models/c5-aircross.html
+    https://www.citroen.in/models/new-e-c3.html
+    https://www.citroen.in/tools/book-test-drive-aircross.html
+    https://www.citroen.in/tools/book-test-drive-basalt.html
+    https://www.citroen.in/tools/book-test-drive-c3.html
+    https://www.citroen.in/tools/book-test-drive-c5-aircross.html
+    https://www.citroen.in/tools/book-test-drive-new-e-c3.html
+    https://www.citroen.in/tools/check-price.html
+
+======================================================================
+PAGE: https://www.citroen.in/models/aircross.html
+======================================================================
+  status: 200
+  price links andar: ['https://www.citroen.in/tools/check-price.html']
+  --- price API (7) ---
+    https://syndication.twitter.com/settings?session_id=bb1ef35eb52419891a7b3527aa4787c313129dc7
+      prices: [1209600]
+    https://configurator.citroen.in/assets/i18n/en.json
+      prices: [411014]
+    https://configuratorapi.citroen.in/api/v1/model/all?lang_code=en-IN
+      prices: [855000, 945000, 1199000, 1326300, 1374500, 1436600]
+    https://configuratorapi.citroen.in/api/v1/variants/all?model_id=3&postcode=null&shown_at=web&lang_code=en-IN
+      prices: [889000, 999000, 1199000, 1282000, 1319600, 1339600, 1399000, 1436600, 1456600]
+    https://configuratorapi.citroen.in/api/v1/variants/details?variant_id=24&postcode=undefined&shown_at=web&lang_
+      prices: [1436600, 1456600]
+      names: ['Exterior', 'Interior']
+    https://configurator.citroen.in/resources/one3d/assets/CC24/setting.json
+      prices: [757575, 969696]
+      names: ['rearleftdoor', 'rearleftdoor', 'rearleftdoor', 'rearleftdoor', 'rearleftdoor', 'rearleftdoor', 'rearleftdoor', 'rearleftdoor', 'rearleftdoor', 'rearleftdoor', 'rearleftdoor', 'rearRightDoor']
+    https://configurator.citroen.in/resources/one3d/assets/CC24/materials.json
+      prices: [480094, 830835]
+      names: ['SHINE_L3_5S', 'CC24_ACC_HIGHTLIGHT_MESH', 'SHINE_L3_5S', 'CITROEN_CC24_ENV_DAY_DOME_MESH', 'SHINE_L3_5S', 'CITROEN_CC24_ENV_NIGHT_DOME_MESH', 'SHINE_L3_5S', 'CITROEN_CC24_EX_FLOOR_MESH', 'SHINE_L3_5S', 'CITROEN_CC24_EX_BODY_MESH', 'SHINE_L3_5S', 'CITROEN_CC24_EX_BOOT_DOOR_MESH']
+  ₹ lines (1):
+    [Cost of Ownership] -> Enjoy peace-of-mind with Citroën Aircr
+    (trim: You)
+    (trim: Max)
+
+======================================================================
+PAGE: https://www.citroen.in/models/aircross.html#comfort
+======================================================================
+  status: ?
+
+======================================================================
+PAGE: https://www.citroen.in/models/basalt.html
+======================================================================
+  status: 200
+  price links andar: ['https://www.citroen.in/tools/check-price.html']
+  --- price API (6) ---
+    https://syndication.twitter.com/settings?session_id=463546f13acc9230d9b9598984389b62dec5dfaf
+      prices: [1209600]
+    https://configurator.citroen.in/assets/i18n/en.json
+      prices: [411014]
+    https://configuratorapi.citroen.in/api/v1/model/all?lang_code=en-IN
+      prices: [855000, 945000, 1199000, 1326300, 1374500, 1436600]
+    https://configuratorapi.citroen.in/api/v1/variants/all?model_id=1&postcode=null&shown_at=web&lang_code=en-IN
+      prices: [855000, 999000, 1142000, 1267000, 1268500, 1287500, 1374500, 1395500]
+    https://configuratorapi.citroen.in/api/v1/variants/details?variant_id=4&postcode=undefined&shown_at=web&lang_c
+      prices: [1267000]
+      names: ['Exterior', 'Interior']
+    https://configurator.citroen.in/resources/one3d/assets/CC22/player.json
+      prices: [343537, 344056, 424242, 545454, 606266, 616161, 691113, 937710, 999999]
+      names: ['CC22', 'exterior_mob', 'EX_CAM_ACC_TAIL_GATE_CHROME', 'EX_CAM_ACC_DOOR_CLADDING', 'EX_ACC_RED_2D_MOUSTACHE', 'EX_CAM_TAILGATE_CONNECTOR_TRIM', 'IN_ACC_FLOOR_MAT', 'IN_CAM_ACC_CARGO_CARPET_MAT', 'EX_CAM_ACC_WEATHER_DEFLECTOR', 'EX_CAM_ACC_MUDFLAPS', 'EX_CAM_ACC_FRONT_GRILL_EMBLISHER_CHROME', 'EX_CAM_ACC_CHROME_DOOR_HANDLE']
+  ₹ lines (1):
+    [Cost of Ownership] -> Enjoy peace-of-mind with Citroen Basal
+    (trim: You)
+    (trim: Max)
+
+======================================================================
+PAGE: https://www.citroen.in/models/c3.html
+======================================================================
+  status: 200
+  price links andar: ['https://www.citroen.in/tools/check-price.html']
+  --- price API (6) ---
+    https://syndication.twitter.com/settings?session_id=7081a86ea13ab483d848a2b61e54f8580ff83c67
+      prices: [1209600]
+    https://configurator.citroen.in/assets/i18n/en.json
+      prices: [411014]
+    https://configuratorapi.citroen.in/api/v1/model/all?lang_code=en-IN
+      prices: [855000, 945000, 1199000, 1326300, 1374500, 1436600]
+    https://configuratorapi.citroen.in/api/v1/variants/all?model_id=2&postcode=null&shown_at=web&lang_code=en-IN
+      prices: [499000, 553000, 585000, 763000, 874000, 945000]
+    https://configuratorapi.citroen.in/api/v1/variants/details?variant_id=13&postcode=undefined&shown_at=web&lang_
+      prices: [945000]
+      names: ['Exterior', 'Interior']
+    https://configurator.citroen.in/resources/one3d/assets/C3/setting.json
+      prices: [313663, 353535, 454545, 474240, 474340, 474747, 656565, 701010, 757575, 872900]
+      names: ['DUMMYCOLOR', 'ZESTYORANGE', 'POLARWHITEZESTYORANGE', 'POLARWHITEPLATINUMGREY', 'STEELSILVERZESTYORANGE', 'STEELSILVERPLATINUMGREY', 'PLATINUMGREYZESTYORANGE', 'ZESTYORANGEPLATINUMGREY', 'POLARWHITE', 'STEELSILVER', 'PLATINUMGREY', 'COSMO_BLUE']
+  ₹ lines (1):
+    [Cost of Ownership] -> Enjoy peace-of-mind with Citroën C3X's
+    (trim: You)
+    (trim: Max)

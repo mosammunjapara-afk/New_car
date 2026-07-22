@@ -1,0 +1,80 @@
+Renault homepage...
+  [200] https://www.renault.co.in (final: https://www.renault.co.in/)
+  model/price links (11):
+    https://www.renault.co.in/cars/renault-duster.html
+    https://www.renault.co.in/cars/renault-duster/configurator.html
+    https://www.renault.co.in/cars/renault-kiger.html
+    https://www.renault.co.in/cars/renault-kiger/configurator.html
+    https://www.renault.co.in/cars/renault-kwid.html
+    https://www.renault.co.in/cars/renault-kwid/configurator.html
+    https://www.renault.co.in/cars/renault-triber.html
+    https://www.renault.co.in/cars/renault-triber/configurator.html
+    https://www.renault.co.in/contact/buy-a-car/buy-a-car-request.html?modelAdminId=duster-dr3-ph1
+    https://www.renault.co.in/contact/buy-a-car/buy-a-car-request.html?modelAdminId=kiger-hc1-ph2
+    https://www.renault.co.in/contact/buy-a-car/buy-a-car-request.html?modelAdminId=triber-bc1-ph2
+
+======================================================================
+PAGE: https://www.renault.co.in/cars/renault-kiger.html
+======================================================================
+  status: 200
+  price links andar: ['https://www.renault.co.in/cars/renault-kiger/kiger-price.html']
+  --- variant/price API (2) ---
+    https://www.renault.co.in/agg/v1/vn/slice120?uri=https:%2F%2Fin.co.rplug.renault.com%2Fproduct%2Fmod
+      prices: [845000]
+    https://cdn.cookielaw.org/consent/c3b9432f-b14f-4345-928d-4f77832a6d6f/20699731-b158-4b9f-8324-1e9e2
+      prices: [696969]
+  ₹ prices (6):
+    *starting from ₹5,81,000.00
+    *starting from ₹8,45,000.00
+    *starting from ₹7,55,000.00
+    *starting from ₹6,99,000.00
+    *starting from ₹6,55,000.00
+    *starting from ₹5,81,000.00
+
+======================================================================
+PAGE: https://www.renault.co.in/cars/renault-kiger/configurator.html
+======================================================================
+  status: 200
+  --- variant/price API (1) ---
+    https://cdn.cookielaw.org/consent/c3b9432f-b14f-4345-928d-4f77832a6d6f/20699731-b158-4b9f-8324-1e9e2
+      prices: [696969]
+  ₹ prices (41):
+    *total price ₹5,81,000.00
+    ₹397.00
+    ₹5,899.00
+    ₹3,133.00
+    ₹2,203.00
+    ₹986.00
+    ₹2,156.00
+    ₹941.00
+    ₹2,489.00
+    ₹2,074.00
+
+======================================================================
+PAGE: https://www.renault.co.in/cars/renault-kwid.html
+======================================================================
+  status: 200
+  price links andar: ['https://www.renault.co.in/cars/renault-kwid/kwid-price.html']
+  --- variant/price API (2) ---
+    https://cdn.cookielaw.org/consent/c3b9432f-b14f-4345-928d-4f77832a6d6f/20699731-b158-4b9f-8324-1e9e2
+      prices: [696969]
+    https://www.renault.co.in/agg/v1/vn/slice120?uri=https:%2F%2Fin.co.rplug.renault.com%2Fproduct%2Fmod
+      prices: [514900]
+  ₹ prices (3):
+    *starting from ₹4,52,900.00
+    *starting from ₹4,52,900.00
+    *starting from ₹5,14,900.00
+
+======================================================================
+PAGE: https://www.renault.co.in/cars/renault-kwid/configurator.html
+======================================================================
+  status: 200
+  --- variant/price API (1) ---
+    https://cdn.cookielaw.org/consent/c3b9432f-b14f-4345-928d-4f77832a6d6f/20699731-b158-4b9f-8324-1e9e2
+      prices: [696969]
+  ₹ prices (5):
+    *total price ₹4,52,900.00
+    ₹4,52,900.00
+    ₹4,52,900.00
+    ₹0.00
+    ₹0.00

@@ -1,0 +1,7 @@
+Kholte hain: https://www.nissan.in/vehicles/new/magnite/prices.html
+HTML saved: nissan_magnite.html (254132 chars)
+  599900 context: ..."},"magnite":{"default":{"priceDisclaimer":"","modelPrice":"599900","bestPriceVersionKey":
+  654675 context: ...7138C0.344536 8.76719 0.0701518 7.74319 0.071752 6.70141C0.0654675 3.41728 2.74496 0.75 6.
+  707025 context: ...,"new-sunny":{"default":{"priceDisclaimer":"","modelPrice":"707025","bestPriceVersionKey":
+  751636 context: ...ear_4835_5857" x1="6.01585" y1="12.7513" x2="6.01585" y2="0.751636" gradientUnits="userSpa
+  867562 context: ...s="http://www.w3.org/2000/svg"> <path d="M0.0168457 12.75L0.867562 9.67138C0.344536 8.7671

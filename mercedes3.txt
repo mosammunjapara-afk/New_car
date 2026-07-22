@@ -1,0 +1,16 @@
+Kholte hain: https://www.mercedes-benz.co.in/passengercars/buy/new-car/search-results.html/?emhsortType=price-asc&emhvehicleCategory=vehicles
+
+GraphQL/vmos calls: 2
+
+  op=?  url=summary  prices=10  names=0
+     prices: [5180000, 5650000, 5990000, 7700000, 8150000, 8700000, 9985000, 14000000, 23383784, 32699301]
+     names: []
+
+  op=GetSearchResults  url=graphql  prices=3  names=12
+     prices: [5180001, 24771562, 24778762]
+     names: ['GLA 200', 'GLA 220 d 4MATIC', 'GLA 220d 4MATIC']
+
+  saved price-wali response: mercedes_price_gql.json (54373 chars)
+  saved request query: mercedes_price_query.txt
+    LIST .subGroups: 6 items, keys=['name', 'workbenchIcon', 'link', 'cardsId']
+      item: {"name": "Limousine", "workbenchIcon": "sedan", "link": "https://www.mercedes-benz.co.in/passengercars/models.html?group=all&subgroup=all.BODYTYPE.saloon&view=BODYTYPE", "cardsId": ["all.saloon", "all:cla-class:saloon:C174", "all:c-class:saloon:W206", "all:eqs-class:saloon-long:V297", "all:e-class:saloon-long:V214", "all:s-class:saloon-long:V223-fl", "all:s-class:saloon-long:Z223|maybach"]}

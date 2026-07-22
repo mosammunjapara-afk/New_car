@@ -1,0 +1,54 @@
+
+======================================================================
+MODEL: Kiger  →  https://www.renault.co.in/cars/renault-kiger.html
+======================================================================
+  status: 200
+  slice/agg/rplug calls: 4
+    https://www.renault.co.in/agg/v1/vn/slice120?uri=https:%2F%2Fin.co.rplug.renault.com%2Fproduct%2Fmodel%2FHC1%2Fkiger-ph2%2Fc%2FA-E
+      1 prices: [845000]
+      names: ['ice cool white with mystery black roof', 'radiant red with mystery black roof', 'shadow grey mystery black roof', 'oasis yellow with mystery black roof', 'ice cool white', 'stealth black', 'oasis yellow', 'moonlight silver', 'shadow grey', 'caspian blue', 'EMOTION', '16\\']
+      sample: {"tournette3d":{"colors":{"criteriaColors":{"possibles":[{"code":"BIXNY","label":"ice cool white with mystery black roof","order":"19","nextURI":"https://in.co.rplug.renault.com/c/BAEz/AfVlSI","startingPrice":845000,"optionPrice":0,"implied":false,"inCompletion":false,"versionCategory":"OPTION"},{"c
+    https://www.renault.co.in/agg/vn/unique/grade_carrousel_main_1_medium/r_brandSite_carPicker_1.png?decorName=HIDDEN_dark&uri=https%
+      0 prices: []
+  --- page ₹ lines + upar (variant?) ---
+    [29 L][cabin storage] -> *starting from ₹5,81,000.00
+    [versions][emotion] -> *starting from ₹8,45,000.00
+    [versions][techno] -> *starting from ₹7,55,000.00
+    [versions][evolution+] -> *starting from ₹6,99,000.00
+    [versions][evolution] -> *starting from ₹6,55,000.00
+    [versions][authentic] -> *starting from ₹5,81,000.00
+
+======================================================================
+MODEL: Kwid  →  https://www.renault.co.in/cars/renault-kwid.html
+======================================================================
+  status: 200
+  slice/agg/rplug calls: 3
+    https://www.renault.co.in/agg/vn/unique/grade_carrousel_main_1_medium/r_brandSite_carPicker_1.png?decorName=HIDDEN_dark&uri=https%
+      0 prices: []
+    https://www.renault.co.in/agg/v1/vn/slice120?uri=https:%2F%2Fin.co.rplug.renault.com%2Fproduct%2Fmodel%2FBAB%2Frenault-kwid%2Fc%2F
+      1 prices: [514900]
+      names: ['Moonlight Silver with Mystery Black Roof', 'Fiery Red with Mystery Black Roof', 'Ice cool White with Mystery Black roof', 'Zanskar Blue with Mystery Black Roof', 'Zanskar Blue', 'Moonlight Silver', 'Outback Bronze', 'Fiery Red', 'Ice Cool White', 'Climber', 'Climber', 'Grey Melange + Black Bolster']
+      sample: {"tournette3d":{"colors":{"criteriaColors":{"possibles":[{"code":"BIXYR","label":"Moonlight Silver with Mystery Black Roof","order":"16","nextURI":"https://in.co.rplug.renault.com/c/BAE0/Atc-g","startingPrice":514900,"optionPrice":0,"implied":false,"inCompletion":false,"versionCategory":"OPTION"},{"
+  --- page ₹ lines + upar (variant?) ---
+    [20.32 cm][touch screen media] -> *starting from ₹4,52,900.00
+    [versions][evolution] -> *starting from ₹4,52,900.00
+    [versions][climber] -> *starting from ₹5,14,900.00
+    (trim dikha: Evolution)
+
+======================================================================
+MODEL: Triber  →  https://www.renault.co.in/cars/renault-triber.html
+======================================================================
+  status: 200
+  slice/agg/rplug calls: 4
+    https://www.renault.co.in/agg/v1/vn/slice120?uri=https:%2F%2Fin.co.rplug.renault.com%2Fproduct%2Fmodel%2FBC1%2Ftriber%2Fc%2FA-ENS_
+      1 prices: [800350]
+      names: ['ice cool white with mystery black roof', 'shadow grey with mystery black roof', 'amber terracotta with mystery black roof', 'ice cool white', 'stealth black', 'amber terracotta', 'moonlight silver', 'shadow grey', 'zanskar blue', 'EMOTION', '38.1cm (15-inch) wheels', '35.56cm (14 inch) wheels']
+      sample: {"tournette3d":{"colors":{"criteriaColors":{"possibles":[{"code":"BIXNY","label":"ice cool white with mystery black roof","order":"19","nextURI":"https://in.co.rplug.renault.com/c/BAEq/A7-uQ","startingPrice":800350,"optionPrice":0,"implied":false,"inCompletion":false,"versionCategory":"OPTION"},{"co
+    https://www.renault.co.in/agg/vn/unique/grade_carrousel_main_1_medium/r_brandSite_carPicker_1.png?decorName=HIDDEN_dark&uri=https%
+      0 prices: []
+  --- page ₹ lines + upar (variant?) ---
+    [21][standard safety fe] -> *starting from ₹5,80,875.00
+    [versions][authentic] -> *starting from ₹5,80,875.00
+    [versions][evolution] -> *starting from ₹6,69,605.00
+    [versions][techno] -> *starting from ₹7,39,120.00
+    [versions][emotion] -> *starting from ₹8,00,350.00

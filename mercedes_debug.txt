@@ -1,0 +1,82 @@
+Mercedes homepage...
+  [200] https://www.mercedes-benz.co.in (final: https://www.mercedes-benz.co.in/)
+  links (123):
+    https://www.mercedes-benz.co.in/#models-0
+    https://www.mercedes-benz.co.in/content/dam/india/passengercars/footer/CG_Policy_2023_final_updated.pdf
+    https://www.mercedes-benz.co.in/content/dam/india/passengercars/footer/ombudsman_scheme-2021.pdf
+    https://www.mercedes-benz.co.in/passengercars/brand.html
+    https://www.mercedes-benz.co.in/passengercars/brand/Mercedes-press-releases/press-releases.html
+    https://www.mercedes-benz.co.in/passengercars/brand/amg.html
+    https://www.mercedes-benz.co.in/passengercars/brand/career.html
+    https://www.mercedes-benz.co.in/passengercars/brand/corporate-social-responsibility.html
+    https://www.mercedes-benz.co.in/passengercars/brand/maybach.html
+    https://www.mercedes-benz.co.in/passengercars/brand/mercedes-benz-g-tribe.html
+    https://www.mercedes-benz.co.in/passengercars/brand/mercedes-trophy.html
+    https://www.mercedes-benz.co.in/passengercars/brand/privacy.html
+    https://www.mercedes-benz.co.in/passengercars/buy/brochures.html
+    https://www.mercedes-benz.co.in/passengercars/buy/car-care-overview.html
+    https://www.mercedes-benz.co.in/passengercars/buy/contact.html
+    https://www.mercedes-benz.co.in/passengercars/buy/corporate-circle.html
+    https://www.mercedes-benz.co.in/passengercars/buy/digital-extras-overview.html
+    https://www.mercedes-benz.co.in/passengercars/buy/mercedes-benz-collection.html
+    https://www.mercedes-benz.co.in/passengercars/buy/new-car.html
+    https://www.mercedes-benz.co.in/passengercars/buy/new-car/search-results.html
+    https://www.mercedes-benz.co.in/passengercars/buy/new-car/search-results.html/?emhsortType=price-asc&emhvehicleCategory=vehicles
+    https://www.mercedes-benz.co.in/passengercars/buy/new-car/search-results.html/?emhsortType=price-asc&emhvehicleCategory=vehicles&emhmodelIdentifier=C_CLASS
+    https://www.mercedes-benz.co.in/passengercars/buy/new-car/search-results.html/?emhsortType=price-asc&emhvehicleCategory=vehicles&emhmodelIdentifier=GLA_CLASS
+    https://www.mercedes-benz.co.in/passengercars/buy/new-car/search-results.html/?emhsortType=price-asc&emhvehicleCategory=vehicles&emhmodelIdentifier=GLC_CLASS
+    https://www.mercedes-benz.co.in/passengercars/buy/new-car/search-results.html/vehicleCategory-vehicles?emhsortType=price-asc
+
+======================================================================
+PAGE: https://www.mercedes-benz.co.in/passengercars/buy/new-car/search-results.html/?emhsortType=price-asc&emhvehicleCategory=vehicles
+======================================================================
+  status: 200
+  --- price API (7) ---
+    https://api.oneweb.mercedes-benz.com/vmos-api/v1/data/IN/en/OWF/live/summary
+      prices: [5180000, 5650000, 5990000, 7700000, 8150000, 8700000, 9985000, 14000000, 23383784, 32699301]
+      names: ['Limousine', 'SUV Range', 'Hatchback', 'Coupés', 'Cabriolets / Roadsters', 'MPV', 'All Limousines', 'All SUVs', 'All Coupés', 'All Cabriolets / Roadsters']
+    https://aggregator.service.usercentrics.eu/aggregate/en?templates=0segs7XjwTnObe@1.0.2,11wuX3ovh@1.0.1,14ze-0I
+      prices: [4320000, 7575787, 7776000, 7889400, 15778800]
+      names: ['uslk_umm_{organization-id}_s', 'loglevel:userlike', 'page_impressions', 'visits', 'restoreableViewState', 'lastInteraction', 'lastProactiveInteraction', 'isBubbleClosed', 'last_impression', 'PREF']
+    https://i18n.oneweb.mercedes-benz.com/euw1-37b4f3a7892061f363b3ivp/content/en-IN/DO-NOT-DELETE-07-05-2026.json
+      prices: [47841063]
+      names: ['Successfully added to the cart', 'Set up your payment method with SEPA', 'Please enter you VIN', 'Please choose a vendor', 'Your vehicle', 'Tyres', 'Mercedes-Benz for Business Customers', 'Complete your profile', 'Your next step as a User Chooser', 'I am a User Chooser']
+    https://ap.api.oneweb.mercedes-benz.com/commerce/onesearch/graphql
+      prices: [5180001, 24771562, 24778762]
+      names: ['GLA 200', 'GLA 200', 'GLA 200', 'GLA 200', 'GLA 200', 'GLA 200', 'GLA 200', 'GLA 220 d 4MATIC', 'GLA 220d 4MATIC', 'GLA 220d 4MATIC']
+
+======================================================================
+PAGE: https://www.mercedes-benz.co.in/passengercars/buy/new-car/search-results.html/?emhsortType=price-asc&emhvehicleCategory=vehicles&emhmodelIdentifier=C_CLASS
+======================================================================
+  status: 200
+  --- price API (7) ---
+    https://api.oneweb.mercedes-benz.com/vmos-api/v1/data/IN/en/OWF/live/summary
+      prices: [5180000, 5650000, 5990000, 7700000, 8150000, 8700000, 9985000, 14000000, 23383784, 32699301]
+      names: ['Limousine', 'SUV Range', 'Hatchback', 'Coupés', 'Cabriolets / Roadsters', 'MPV', 'All Limousines', 'All SUVs', 'All Coupés', 'All Cabriolets / Roadsters']
+    https://aggregator.service.usercentrics.eu/aggregate/en?templates=0segs7XjwTnObe@1.0.2,11wuX3ovh@1.0.1,14ze-0I
+      prices: [4320000, 7575787, 7776000, 7889400, 15778800]
+      names: ['uslk_umm_{organization-id}_s', 'loglevel:userlike', 'page_impressions', 'visits', 'restoreableViewState', 'lastInteraction', 'lastProactiveInteraction', 'isBubbleClosed', 'last_impression', 'PREF']
+    https://i18n.oneweb.mercedes-benz.com/euw1-37b4f3a7892061f363b3ivp/content/en-IN/DO-NOT-DELETE-07-05-2026.json
+      prices: [47841063]
+      names: ['Successfully added to the cart', 'Set up your payment method with SEPA', 'Please enter you VIN', 'Please choose a vendor', 'Your vehicle', 'Tyres', 'Mercedes-Benz for Business Customers', 'Complete your profile', 'Your next step as a User Chooser', 'I am a User Chooser']
+    https://ap.api.oneweb.mercedes-benz.com/commerce/onesearch/graphql
+      prices: [5990000, 6700001, 20600462, 20604262]
+      names: ['C 200', 'C 200', 'C 200', 'C 220d', 'C 220d', 'C 220d', 'C 220d', 'C 220d', 'C 200', 'C 200']
+
+======================================================================
+PAGE: https://www.mercedes-benz.co.in/passengercars/buy/new-car/search-results.html/?emhsortType=price-asc&emhvehicleCategory=vehicles&emhmodelIdentifier=GLA_CLASS
+======================================================================
+  status: 200
+  --- price API (8) ---
+    https://api.oneweb.mercedes-benz.com/vmos-api/v1/data/IN/en/OWF/live/summary
+      prices: [5180000, 5650000, 5990000, 7700000, 8150000, 8700000, 9985000, 14000000, 23383784, 32699301]
+      names: ['Limousine', 'SUV Range', 'Hatchback', 'Coupés', 'Cabriolets / Roadsters', 'MPV', 'All Limousines', 'All SUVs', 'All Coupés', 'All Cabriolets / Roadsters']
+    https://aggregator.service.usercentrics.eu/aggregate/en?templates=0segs7XjwTnObe@1.0.2,11wuX3ovh@1.0.1,14ze-0I
+      prices: [4320000, 7575787, 7776000, 7889400, 15778800]
+      names: ['uslk_umm_{organization-id}_s', 'loglevel:userlike', 'page_impressions', 'visits', 'restoreableViewState', 'lastInteraction', 'lastProactiveInteraction', 'isBubbleClosed', 'last_impression', 'PREF']
+    https://i18n.oneweb.mercedes-benz.com/euw1-37b4f3a7892061f363b3ivp/content/en-IN/DO-NOT-DELETE-07-05-2026.json
+      prices: [47841063]
+      names: ['Successfully added to the cart', 'Set up your payment method with SEPA', 'Please enter you VIN', 'Please choose a vendor', 'Your vehicle', 'Tyres', 'Mercedes-Benz for Business Customers', 'Complete your profile', 'Your next step as a User Chooser', 'I am a User Chooser']
+    https://ap.api.oneweb.mercedes-benz.com/commerce/onesearch/graphql
+      prices: [5180001, 24771562, 24778762]
+      names: ['GLA 200', 'GLA 200', 'GLA 200', 'GLA 200', 'GLA 200', 'GLA 200', 'GLA 200', 'GLA 220 d 4MATIC', 'GLA 220d 4MATIC', 'GLA 220d 4MATIC']

@@ -1,0 +1,59 @@
+
+======================================================================
+MODEL: range-rover
+======================================================================
+  [200] https://www.landrover.in/range-rover/index.html
+  price/config links:
+    https://www.findmeasuv.in/pricing_pdf/land-rover-vehicles-price-in-india.pdf?_gl=1*19z7h25*_gcl_au*MTI3MDExNTA0NS4xNzAxNjQ4ODE2*_ga*MTYzNzg2MTU4Ni4xNzAwNTc4ODQz*_ga_SZ75ZYT5R1*MTcwNjIyMjMzOS42My4xLjE3MDYyMjI5MTAuMC4wLjA.*_fplc*WE81UzBzTWlSdGoxOVJhUkZpaUxlM0hlaHpUUUJQR1Q5ZUZYZU1neFA5SXhMc2RUUWZFYXdkVW1lRmVxMWEwNEdZOGpuTjFBU3ZmS0lyJTJCeVVpJTJGSkgwN2wzQ1NTUDdmUlRpTEpreHVtQVFHVmhCeU9zbzklMkZqJTJGOWxDV2g2QVElM0QlM0Q.&_ga=2.244557381.116131405.1706102754-1637861586.1700578843
+    https://www.landrover.in/offers-and-finance/retail-offers.html
+    https://www.rangerover.com/en-in/build-your-own/index.html
+    https://www.rangerover.com/en-in/special-vehicle-operations/new-range-rover-sv-bespoke/masara-edition-gallery.html
+    https://www.rangerover.com/en-in/special-vehicle-operations/new-range-rover-sv-bespoke/masara-edition.html
+  (koi ₹ price nahi)
+
+======================================================================
+MODEL: range-rover-sport
+======================================================================
+  [404] https://www.landrover.in/range-rover-sport/index.html
+
+======================================================================
+MODEL: range-rover-velar
+======================================================================
+  [404] https://www.landrover.in/range-rover-velar/index.html
+
+======================================================================
+MODEL: range-rover-evoque
+======================================================================
+  [404] https://www.landrover.in/range-rover-evoque/index.html
+
+======================================================================
+MODEL: defender
+======================================================================
+  [200] https://www.landrover.in/defender/index.html
+  price/config links:
+    https://www.findmeasuv.in/pricing_pdf/land-rover-vehicles-price-in-india.pdf?_ga=2.244557381.116131405.1706102754-1637861586.1700578843&_gl=1*1uyidl5*_gcl_au*MTkwOTk4OTQ4My4xNzgwMzAyOTAz*FPAU*MTkwOTk4OTQ4My4xNzgwMzAyOTAz*_ga*ODIyMTE2NDMuMTc4MDMwMjkwNA..*_ga_SZ75ZYT5R1*czE3ODA0MTA3MDAkbzUkZzEkdDE3ODA0MTA5MTEkajUwJGwwJGgxNzUyMjc4NDk1*_fplc*QmFKd21wV3pWd0pwUEpHcE9lcmx4aUdxZ2JEcjNJUGpXSmNxUms1aW8wdjdFeUJzYWZSTW93N053UyUyRmJiJTJGSnFmUjRaUlpIR3dlY0Y3VHgxOHkzckQlMkY4VDElMkZIaSUyRlBzSExoQ21kR3BiYkY5NTBvYURJa201Zk9NWWU0Y0lUZyUzRCUzRA..
+    https://www.findmeasuv.in/pricing_pdf/land-rover-vehicles-price-in-india.pdf?_gl=1*19z7h25*_gcl_au*MTI3MDExNTA0NS4xNzAxNjQ4ODE2*_ga*MTYzNzg2MTU4Ni4xNzAwNTc4ODQz*_ga_SZ75ZYT5R1*MTcwNjIyMjMzOS42My4xLjE3MDYyMjI5MTAuMC4wLjA.*_fplc*WE81UzBzTWlSdGoxOVJhUkZpaUxlM0hlaHpUUUJQR1Q5ZUZYZU1neFA5SXhMc2RUUWZFYXdkVW1lRmVxMWEwNEdZOGpuTjFBU3ZmS0lyJTJCeVVpJTJGSkgwN2wzQ1NTUDdmUlRpTEpreHVtQVFHVmhCeU9zbzklMkZqJTJGOWxDV2g2QVElM0QlM0Q.&_ga=2.244557381.116131405.1706102754-1637861586.1700578843
+    https://www.landrover.in/build-your-own/index.html
+    https://www.rangerover.com/en-in/special-vehicle-operations/index.html
+  price API (1):
+    https://cxp.my.salesforce-scrt.com/embeddedservice/v1/embedded-service-config?orgId=00D24000000qZQN&
+      prices: [5242880]
+  (koi ₹ price nahi)
+
+======================================================================
+MODEL: discovery
+======================================================================
+  [200] https://www.landrover.in/discovery/index.html
+  price/config links:
+    https://www.findmeasuv.in/pricing_pdf/land-rover-vehicles-price-in-india.pdf?_gl=1*19z7h25*_gcl_au*MTI3MDExNTA0NS4xNzAxNjQ4ODE2*_ga*MTYzNzg2MTU4Ni4xNzAwNTc4ODQz*_ga_SZ75ZYT5R1*MTcwNjIyMjMzOS42My4xLjE3MDYyMjI5MTAuMC4wLjA.*_fplc*WE81UzBzTWlSdGoxOVJhUkZpaUxlM0hlaHpUUUJQR1Q5ZUZYZU1neFA5SXhMc2RUUWZFYXdkVW1lRmVxMWEwNEdZOGpuTjFBU3ZmS0lyJTJCeVVpJTJGSkgwN2wzQ1NTUDdmUlRpTEpreHVtQVFHVmhCeU9zbzklMkZqJTJGOWxDV2g2QVElM0QlM0Q.&_ga=2.244557381.116131405.1706102754-1637861586.1700578843
+    https://www.landrover.in/build-your-own/index.html
+    https://www.rangerover.com/en-in/special-vehicle-operations/index.html
+  price API (1):
+    https://cxp.my.salesforce-scrt.com/embeddedservice/v1/embedded-service-config?orgId=00D24000000qZQN&
+      prices: [5242880]
+  (koi ₹ price nahi)
+
+======================================================================
+MODEL: discovery-sport
+======================================================================
+  [404] https://www.landrover.in/discovery-sport/index.html

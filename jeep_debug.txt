@@ -1,0 +1,62 @@
+Jeep homepage...
+  [200] https://www.jeep-india.com (final: https://www.jeep-india.com/)
+  model/price links (11):
+    https://www.jeep-india.com/new-compass.html
+    https://www.jeep-india.com/new-compass/visualizer.html
+    https://www.jeep-india.com/new-grand-cherokee.html
+    https://www.jeep-india.com/new-grand-cherokee/visualizer.html
+    https://www.jeep-india.com/new-jeep-meridian.html
+    https://www.jeep-india.com/new-jeep-meridian/visualizer.html
+    https://www.jeep-india.com/shopping_tools/satd.new-compass.html
+    https://www.jeep-india.com/shopping_tools/satd.new-jeep-meridian.html
+    https://www.jeep-india.com/shopping_tools/satd.wrangler_jl.2025.html
+    https://www.jeep-india.com/wrangler-jl.html
+    https://www.jeep-india.com/wrangler-jl/visualizer.html
+
+======================================================================
+PAGE: https://www.jeep-india.com/new-compass.html
+======================================================================
+  status: 200
+  price links andar: ['https://www.jeep-india.com/finance-calculator-price.compass.html']
+  ₹ lines (2):
+    [TRACK EDITION] -> Ex-Showroom Price ₹26.95 Lakh*
+    [|] -> Finance Estimate ₹33,604
+    (trim: Limited)
+
+======================================================================
+PAGE: https://www.jeep-india.com/new-compass/visualizer.html
+======================================================================
+  status: 200
+  price links andar: ['https://www.jeep-india.com/finance-calculator-price.compass.html']
+  --- price API (2) ---
+    https://prod-jeep-api.one3d.in/api/v1/variants/all
+      prices: [1799000, 2363000, 2391000, 2483000, 2570000, 2577000, 2670000, 2690000, 2695000, 2876000, 2901000, 3070000]
+      names: ['4x4', '4x2', '9AT', '6MT', 'Diesel']
+    https://prod-jeep-api.one3d.in/api/v1/variants/details
+      prices: [3070000]
+      names: ['Interior', 'Exterior', 'Addons']
+    (trim: Limited)
+
+======================================================================
+PAGE: https://www.jeep-india.com/new-jeep-meridian.html
+======================================================================
+  status: 200
+  ₹ lines (2):
+    [TRACK EDITION] -> EX-SHOWROOM PRICE ₹36.30 Lakh*
+    [|] -> Finance Estimate ₹45,262
+    (trim: Longitude)
+    (trim: Limited)
+    (trim: Overland)
+
+======================================================================
+PAGE: https://www.jeep-india.com/new-jeep-meridian/visualizer.html
+======================================================================
+  status: 200
+  --- price API (2) ---
+    https://prod-jeep-api.one3d.in/api/v1/variants/all
+      prices: [2333000, 2630000, 2753000, 2939000, 3036000, 3074000, 3410000, 3448000, 3507000, 3596000, 3630000, 3783000]
+      names: ['4x4', '4x2', '9AT', '6MT', 'Diesel']
+    https://prod-jeep-api.one3d.in/api/v1/variants/details
+      prices: [3817000]
+      names: ['Interior', 'Exterior', 'Addons']
+    (trim: Limited)

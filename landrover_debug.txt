@@ -1,0 +1,28 @@
+Land Rover homepage...
+  [200] https://www.landrover.in (final: https://www.landrover.in/index.html)
+  links (10):
+    https://www.facebook.com/Defender
+    https://www.instagram.com/defender/
+    https://www.landrover.in/defender/accessories/index.html
+    https://www.landrover.in/defender/index.html
+    https://www.landrover.in/discovery/accessories/index.html
+    https://www.landrover.in/discovery/index.html
+    https://www.landrover.in/experiences/defender-journeys.html
+    https://www.landrover.in/fleet-and-business/vehicles-for-diplomats.html
+    https://www.linkedin.com/showcase/defender/
+    https://x.com/Defender
+
+======================================================================
+PAGE: https://www.facebook.com/Defender
+======================================================================
+  status: 200
+
+======================================================================
+PAGE: https://www.instagram.com/defender/
+======================================================================
+  status: 200
+
+======================================================================
+PAGE: https://www.landrover.in/defender/accessories/index.html
+======================================================================
+  status: 200

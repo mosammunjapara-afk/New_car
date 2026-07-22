@@ -1,0 +1,55 @@
+
+PAGE: Compass → https://www.jeep-india.com/new-compass/visualizer.html
+  captured: YES
+
+PAGE: Meridian → https://www.jeep-india.com/new-jeep-meridian/visualizer.html
+  captured: YES
+
+PAGE: Wrangler → https://www.jeep-india.com/wrangler-jl/visualizer.html
+  captured: YES
+
+PAGE: Grand Cherokee → https://www.jeep-india.com/new-grand-cherokee/visualizer.html
+  fail: Page.goto: Timeout 50000ms exceeded.
+Cal
+
+======================================================================
+VARIANTS
+======================================================================
+
+  NEW COMPASS: 13 variants
+    keys: ['variant_id', 'version_code', 'version_name', 'series_code', 'series_name', 'variant_name', 'price', 'insurance_cost', 'variant_cpos', 'variant_3d_code', 'fuel_type', 'transmission_type', 'transmission_code', 'drive', 'num_of_seats', 'sorting', 'default_variant', 'active', 'color', 'features', 'microInteractions', 'backgrounds', 'offer', 'packages']
+      Sport                      | Rs 1799000 | 
+      Longitude (O)              | Rs 2570000 | 
+      Trail 2.0D AT FWD          | Rs 2577000 | 
+      Trail 2.0D MT              | Rs 2391000 | 
+      Limited (O)                | Rs 2690000 | 
+      Limited O                  | Rs 2483000 | 
+      Longitude O                | Rs 2363000 | 
+      Model-S                    | Rs 2670000 | 
+      Model-S                    | Rs 3070000 | 
+      Model S (O2)               | Rs 2876000 | 
+      Track 2.0D MT              | Rs 2695000 | 
+      Track 2.0D AT FWD          | Rs 2901000 | 
+      Track  4x4 2.0D AT         | Rs 3095000 | 
+
+  MERIDIAN: 14 variants
+    keys: ['variant_id', 'version_code', 'version_name', 'series_code', 'series_name', 'variant_name', 'price', 'insurance_cost', 'variant_cpos', 'variant_3d_code', 'fuel_type', 'transmission_type', 'transmission_code', 'drive', 'num_of_seats', 'sorting', 'default_variant', 'active', 'color', 'features', 'microInteractions', 'backgrounds', 'offer', 'packages']
+      Longitude Plus             | Rs 2939000 | 
+      Longitude Plus             | Rs 2630000 | 
+      Longitude                  | Rs 2753000 | 
+      Longitude                  | Rs 2333000 | 
+      Trail 9AT FWD              | Rs 3448000 | 
+      Trail 6MT                  | Rs 3074000 | 
+      Limited (O)                | Rs 3036000 | 
+      Limited (O)                | Rs 3410000 | 
+      Limited (O)                | Rs 3596000 | 
+      Trail 9AT 4X4              | Rs 3507000 | 
+      Overland                   | Rs 3596000 | 
+      Overland                   | Rs 3783000 | 
+      Track 9AT FWD              | Rs 3630000 | 
+      Track 9AT AWD              | Rs 3817000 | 
+
+  Wrangler: 2 variants
+    keys: ['variant_id', 'version_code', 'version_name', 'series_code', 'series_name', 'variant_name', 'price', 'insurance_cost', 'variant_cpos', 'variant_3d_code', 'fuel_type', 'transmission_type', 'transmission_code', 'drive', 'num_of_seats', 'sorting', 'default_variant', 'active', 'color', 'features', 'microInteractions', 'backgrounds', 'offer', 'packages']
+      Unlimited(2.0L)            | Rs 6620000 | 
+      Rubicon(2.0L)              | Rs 7080000 | 

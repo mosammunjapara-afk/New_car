@@ -1,0 +1,8 @@
+Kholte hain: https://www.mercedes-benz.co.in/passengercars/buy/new-car/search-results.html/?emhsortType=price-asc&emhvehicleCategory=vehicles
+
+GraphQL responses captured: 1
+saved biggest: mercedes_gql.json (64531 chars)
+
+  .data.search.results: 12 items
+    item keys: ['characteristics', 'dealer', 'emissionAndConsumption', 'identification', 'images', 'productionDate', 'preProductionVehicle', 'stock', 'stockCategory', 'technicalInformation', 'vehicleModel', 'wholesale', '__typename']
+    item sample: {"characteristics": {"stockCategories": [], "highlights": [{"label": "Active Parking Assist with PARKTRONIC", "__typename": "VehicleHighlights"}, {"label": "Ambient lighting", "__typename": "VehicleHighlights"}, {"label": "Panoramic sliding sunroof", "__typename": "VehicleHighlights"}], "campaigns": [{"description": "Your next move is made effortless with 1% EMI, 6.99% ROI and attractive Trade-In Benefits.", "footnote": "Offers valid while stocks and offer period last. Terms and conditions apply

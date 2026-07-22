@@ -1,0 +1,21 @@
+
+======================================================================
+MODEL: Kwid  →  https://www.renault.co.in/cars/renault-kwid/kwid-price.html
+======================================================================
+  status: 200
+  rplug/agg API calls: 0
+  --- page: ₹ lines + upar (variant?) ---
+
+======================================================================
+MODEL: Kiger  →  https://www.renault.co.in/cars/renault-kiger/kiger-price.html
+======================================================================
+  status: 200
+  rplug/agg API calls: 0
+  --- page: ₹ lines + upar (variant?) ---
+
+======================================================================
+MODEL: Triber  →  https://www.renault.co.in/cars/renault-triber/triber-price.html
+======================================================================
+  status: 404
+  rplug/agg API calls: 0
+  --- page: ₹ lines + upar (variant?) ---

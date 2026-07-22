@@ -1,0 +1,25 @@
+
+======================================================================
+PAGE: Magnite prices  →  https://www.nissan.in/vehicles/new/magnite/prices.html
+======================================================================
+  status: 200
+  --- price JSON API (2) ---
+    https://dpm.demdex.net/id/rd?d_visid_ver=5.5.0&d_fieldgroup=MC&d_rtbd=json&d_ver=2&d_verify=1&d_orgi
+      prices: [604800]
+    https://dpm.demdex.net/id?d_visid_ver=5.5.0&d_fieldgroup=AAM&d_rtbd=json&d_ver=2&d_orgid=EBFA64D6543
+      prices: [604800]
+  ₹/Rs lines (0):
+    (trim: Kuro)
+    (trim: Visia)
+    (trim: Acenta)
+    (trim: Tekna)
+
+======================================================================
+PAGE: Prices list  →  https://www.nissan.in/prices-list.html
+======================================================================
+  status: 200
+  ₹/Rs lines (0):
+    (trim: Kuro)
+    (trim: Visia)
+    (trim: Acenta)
+    (trim: Tekna)

@@ -1,0 +1,28 @@
+
+PAGE: https://www.citroen.in/models/basalt.html
+
+PAGE: https://www.citroen.in/models/c3.html
+
+PAGE: https://www.citroen.in/models/aircross.html
+
+PAGE: https://www.citroen.in/models/new-e-c3.html
+
+PAGE: https://www.citroen.in/models/c5-aircross.html
+
+======================================================================
+MODEL LIST
+======================================================================
+
+======================================================================
+VARIANTS
+======================================================================
+
+  model_id=1: ? variants
+
+  model_id=2: ? variants
+
+  model_id=3: ? variants
+
+  model_id=5: ? variants
+
+  model_id=4: ? variants
